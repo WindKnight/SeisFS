@@ -1,0 +1,290 @@
+[Global]
+CurrentProject=test/test.vpj
+[ProjectDates]
+seisfilenas.vpj=20180727031023655
+test/test.vpj=20180731072308772
+../../../../../../cssl/code/dpi_fs/dpi_fs.vpj=20180727055425015
+[ActiveConfig]
+seisfilenas.vpj=Debug
+test/test.vpj=Debug
+../../../../../../cssl/code/dpi_fs/dpi_fs.vpj=Debug
+[TreeExpansion2]
++@ seisfilenas.vpj
++@ ../../../../../../cssl/code/dpi_fs/dpi_fs.vpj
+-@ test/test.vpj
+  - Source Files
+  + Header Files
+  + Resource Files
+  + Bitmaps
+  + Other Files
+scroll:0
+[State]
+SCREEN: 1920 1200 360 107 1201 987 0 0 M 0 0 0 0 1441 807 0
+CWD: test/
+BUFFER: BN="test/test.cpp"""""
+BI: MA=1 74 1  TABS= WWS=9 IWT= ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=33554432 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=70 ESBU2=-1 CL="" SC="" SCE= SCU= ALM=0 FWRM=0 HMRE=0 HMRBW=0 SPCWT=0 SWF=2
+VIEW: LN=.0 CL=1 LE=0 CX=0 CY=0 WI=5 BI=1 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="src/seisfile_nas.cpp"""""
+BI: MA=1 74 1  TABS= WWS=9 IWT= ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=119603808 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=70 ESBU2=-1 CL="" SC="" SCE= SCU= ALM=0 FWRM=0 HMRE=0 HMRBW=0 SPCWT=0 SWF=2
+VIEW: LN=.0 CL=1 LE=0 CX=0 CY=0 WI=5 BI=2 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="src/seisfile_nas_writer.cpp"""""
+BI: MA=1 74 1  TABS= WWS=9 IWT= ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=33554432 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=70 ESBU2=-1 CL="" SC="" SCE= SCU= ALM=0 FWRM=0 HMRE=0 HMRBW=0 SPCWT=0 SWF=2
+VIEW: LN=.0 CL=1 LE=0 CX=0 CY=0 WI=5 BI=3 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="../../../../../../cssl/code/dpi_fs/src/GEFile.cpp"""""
+BI: MA=1 74 1  TABS= WWS=9 IWT= ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=118489696 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=70 ESBU2=-1 CL="" SC="" SCE= SCU= ALM=0 FWRM=0 HMRE=0 HMRBW=0 SPCWT=0 SWF=2
+VIEW: LN=.11019 CL=1 LE=0 CX=0 CY=38 WI=5 BI=4 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="../../../../../../cssl/code/dpi_fs/src/GEIdxFile.cpp"""""
+BI: MA=1 74 1  TABS= WWS=9 IWT= ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=117572192 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=70 ESBU2=-1 CL="" SC="" SCE= SCU= ALM=0 FWRM=0 HMRE=0 HMRBW=0 SPCWT=0 SWF=2
+VIEW: LN=.19866 CL=32 LE=0 CX=31 CY=21 WI=5 BI=5 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="../../../../../../cssl/code/dpi_fs/src/GEDirDevice.cpp"""""
+BI: MA=1 74 1  TABS= WWS=9 IWT= ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=119603808 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=70 ESBU2=-1 CL="" SC="" SCE= SCU= ALM=0 FWRM=0 HMRE=0 HMRBW=0 SPCWT=0 SWF=2
+VIEW: LN=.0 CL=1 LE=0 CX=0 CY=0 WI=5 BI=6 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 22 1439 750 0 0 N  WF=0 WT=2 "Default Unicode Font,10,0,1" DID=0
+BUFFER: BN="test/test.cpp"""""
+VIEW: LN=.0 CL=1 LE=0 CX=1 CY=0 WI=179 BI=1 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 22 1439 750 0 0 N  WF=0 WT=3 "Default Unicode Font,10,0,1" DID=0
+BUFFER: BN="src/seisfile_nas.cpp"""""
+VIEW: LN=.0 CL=1 LE=0 CX=1 CY=0 WI=313 BI=2 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 22 1439 750 0 0 N  WF=0 WT=4 "Default Unicode Font,10,0,1" DID=0
+BUFFER: BN="src/seisfile_nas_writer.cpp"""""
+VIEW: LN=.698 CL=1 LE=0 CX=1 CY=29 WI=217 BI=3 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 22 1439 750 0 0 N  WF=0 WT=5 "Default Unicode Font,10,0,1" DID=0
+BUFFER: BN="../../../../../../cssl/code/dpi_fs/src/GEFile.cpp"""""
+VIEW: LN=.11019 CL=1 LE=0 CX=1 CY=38 WI=77 BI=4 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 22 1439 784 0 0 N  WF=0 WT=6 "Default Unicode Font,10,0,1" DID=0
+BUFFER: BN="../../../../../../cssl/code/dpi_fs/src/GEIdxFile.cpp"""""
+VIEW: LN=.19866 CL=32 LE=0 CX=32 CY=21 WI=231 BI=5 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 22 1439 784 0 0 N  WF=0 WT=7 "Default Unicode Font,10,0,1" DID=0
+BUFFER: BN="../../../../../../cssl/code/dpi_fs/src/GEDirDevice.cpp"""""
+VIEW: LN=.2300 CL=20 LE=0 CX=20 CY=22 WI=411 BI=6 HT=0 HN=0 HF=0 HC=4
+MDISTATE: 1
+AAAAAwAAAAIAAAAB2gAAAAIAMAAAAAAAAAA2AAAHfwAABIAAAAAAAAAAGQAAB38AAASWAAAAAuoAAAQiAAAAAvsAAAAGAAAABgAAAAAAAAACAAAAAQAAAAQAAAADAAAABfsAAAAGAAAABgAAAAAAAAACAAAAAQAAAAQAAAADAAAABfwAAAB9AAAAAHAANwA6ADoAOgAvAHMAMAAvAGUAeAB0AC8AZQB4AHQAdwB6AGIAMwAvAGMAcwBzAGwALwBjAG8AZABlAC8AZABwAGkAXwBmAHMALwBzAHIAYwAvAEcARQBEAGkAcgBEAGUAdgBpAGMAZQAuAGMAcABwAQD/////AAH8AAAAcwAAAABmADUAOgA6ADoALwBzADAALwBlAHgAdAAvAGUAeAB0AHcAegBiADMALwBjAHMAcwBsAC8AYwBvAGQAZQAvAGQAcABpAF8AZgBzAC8AcwByAGMALwBHAEUARgBpAGwAZQAuAGMAcABwAAD/////AAD8AAAAeQAAAABsADYAOgA6ADoALwBzADAALwBlAHgAdAAvAGUAeAB0AHcAegBiADMALwBjAHMAcwBsAC8AYwBvAGQAZQAvAGQAcABpAF8AZgBzAC8AcwByAGMALwBHAEUASQBkAHgARgBpAGwAZQAuAGMAcABwAAD/////AAD8AAAAxwAAAAC6ADMAOgA6ADoALwBzADAALwBlAHgAdAAvAGUAeAB0AHcAegBiADMALwB3AHkAZAAvAHcAbwByAGsAcwBwAGEAYwBlAC8AUwBlAGkAcwBGAFMALwBTAGUAaQBzAEYAUwAtADAALgA0AC8AUwBlAGkAcwBGAGkAbABlAC8AUwBlAGkAcwBGAGkAbABlAE4AQQBTAC8AcwByAGMALwBzAGUAaQBzAGYAaQBsAGUAXwBuAGEAcwAuAGMAcABwAAD/////AAD8AAAA1QAAAADIADQAOgA6ADoALwBzADAALwBlAHgAdAAvAGUAeAB0AHcAegBiADMALwB3AHkAZAAvAHcAbwByAGsAcwBwAGEAYwBlAC8AUwBlAGkAcwBGAFMALwBTAGUAaQBzAEYAUwAtADAALgA0AC8AUwBlAGkAcwBGAGkAbABlAC8AUwBlAGkAcwBGAGkAbABlAE4AQQBTAC8AcwByAGMALwBzAGUAaQBzAGYAaQBsAGUAXwBuAGEAcwBfAHcAcgBpAHQAZQByAC4AYwBwAHAAAP////8AAPwAAAC5AAAAAKwAMgA6ADoAOgAvAHMAMAAvAGUAeAB0AC8AZQB4AHQAdwB6AGIAMwAvAHcAeQBkAC8AdwBvAHIAawBzAHAAYQBjAGUALwBTAGUAaQBzAEYAUwAvAFMAZQBpAHMARgBTAC0AMAAuADQALwBTAGUAaQBzAEYAaQBsAGUALwBTAGUAaQBzAEYAaQBsAGUATgBBAFMALwB0AGUAcwB0AC8AdABlAHMAdAAuAGMAcABwAAD/////AAAAAAAA
+FILEHIST: 6
+test/test.cpp
+src/seisfile_nas.cpp
+src/seisfile_nas_writer.cpp
+../../../../../../cssl/code/dpi_fs/src/GEFile.cpp
+../../../../../../cssl/code/dpi_fs/src/GEIdxFile.cpp
+../../../../../../cssl/code/dpi_fs/src/GEDirDevice.cpp
+ALLFILEHIST: 6
+test/test.cpp
+src/seisfile_nas_writer.cpp
+src/seisfile_nas.cpp
+../../../../../../cssl/code/dpi_fs/src/GEIdxFile.cpp
+../../../../../../cssl/code/dpi_fs/src/GEFile.cpp
+../../../../../../cssl/code/dpi_fs/src/GEDirDevice.cpp
+DEBUG: 0 0 3 0 5 0 gdb
+00GEFileOpen../../../../../../cssl/code/dpi_fs/src/GEFile.cpp2781<PENDING>0
+00GEFileOpen../../../../../../cssl/code/dpi_fs/src/GEFile.cpp2991<PENDING>0
+00seisfs::file::WriterNASInitsrc/seisfile_nas_writer.cpp301<PENDING>0
+printf
+strcpy
+strcmp
+std::*
+boost::*
+DEBUG2: 3
+00GEFileOpen../../../../../../cssl/code/dpi_fs/src/GEFile.cpp2781<PENDING>055
+if((m_Mode&IO_APPEND)==IO_APPEND)
+{
+m_Mode=IO_APPEND;
+}
+m_bSplitFile=bSplitFile;
+if(NotAbsolutePath()||m_strProjName.empty())
+{
+WriteLog2(__FILE__,__LINE__,"filenameshouldbeanabsolutefile",m_FileName);
+WriteLog2(__FILE__,__LINE__,"projectnameshouldnotbe","empty");
+returnfalse;
+}
+00GEFileOpen../../../../../../cssl/code/dpi_fs/src/GEFile.cpp2991<PENDING>055
+WriteLog1(__FILE__,__LINE__,"Openanewsplitefilefailed,openmode:",m_Mode);
+returnbResult;
+}
+else
+{
+m_CurIndex=0;
+m_FileIndex->SetFileNameInd(m_CurIndex,nextFileName);
+m_FileIndex->Serialize();
+returnbResult;
+}
+}
+00seisfs::file::WriterNASInitsrc/seisfile_nas_writer.cpp301<PENDING>055
+}
+
+boolWriterNAS::Init(){
+//std::cout<<_head_filename;
+//GEFile_gf_head(_head_filename);
+//GEFile_gf_trace(_trace_filename);
+/*return(_gf_head.Open(_head_filename,IO_WRITEONLY,true)&&
+_gf_trace.Open(_trace_filename,IO_WRITEONLY,true));*/
+_gf_head=newGEFile(_head_filename);
+_gf_trace=newGEFile(_trace_filename);
+_gf_head->SetProjectName(_filename+"head");
+DEBUG_LAYOUT: 53 1 40 7 5 M 0
+_tbFTPClient_form F=0
+_tbfind_symbol_form F=32
+_tbsearch_form F=8
+_tbbookmarks_form F=8
+_tbdebug_watches_form F=64
+_tbfind_form F=36
+_tbdeltasave_form F=0
+_tbnotification_form F=36
+_tbclass_form F=8
+_tbderivedclasses_form F=40
+_tbbaseclasses_form F=40
+_tbdebug_memory_form F=64
+_tbdebug_classes_form F=64
+_tbdebug_threads_form F=64
+_tbopen_form F=40
+_tbbufftabs_form F=11
+_tbdebug_members_form F=64
+_tbannotations_browser_form F=0
+_tbsymbolcalls_form F=40
+_tbunittest_form F=0
+_tbmessages_browser_form F=8
+_tbregex_form F=40
+_tbdebug_exceptions_form F=384
+_tboutputwin_form F=8
+_tbtagrefs_form F=8
+_tbtagwin_form F=8
+_tbprops_form F=8
+_tbslickc_stack_form F=8
+_tbfilelist_form F=44
+_tbFTPOpen_form F=0
+_tbclipboard_form F=44
+_tbdebug_breakpoints_form F=384
+_tbdebug_regs_form F=64
+_tbdebug_autovars_form F=64
+_tbdebug_locals_form F=64
+_tbdebug_stack_form F=64
+_tbshell_form F=8
+_tbprojects_form F=8
+_tbproctree_form F=8
+_tbcbrowser_form F=8
+_tbdebug_watches_form T=0
+_tbdebug_members_form T=0
+_tbdebug_locals_form T=0
+_tbdebug_breakpoints_form T=0
+_tbdebug_exceptions_form T=0
+_tbdebug_stack_form T=0
+_tbdebug_autovars_form T=0
+AAAAAwAAAAEAAAAB2gAAAAIAMAAAAAAAAABYAAAHfwAABIAAAAAAAAAAGQAAB38AAASWAAAAAesAAATMAAAAAPsAAAACAAAAAgAAAAEAAAAA+wAAAAIAAAACAAAAAAAAAAH9AAAB1wAAAAAaADoAOgA6AC8AdgBEAG8AYwBrAEEAcgBlAGEBAAAAAdsAAAAAAAH7AAAAAgAAAAIAAAAAAAAAAfsAAAACAAAAAgAAAAEAAAAA/QAAAI0AAAAAGgA6ADoAOgAvAHYARABvAGMAawBBAHIAZQBhAQAAAAQpAAAAAAAC+wAAAAEAAAABAAAAAPsAAAABAAAAAQAAAAD8AAAAQwAAAAAuADAAOgA6ADoAXwB0AGIAZABlAGIAdQBnAF8AcwB0AGEAYwBrAF8AZgBvAHIAbQEA/////wAA///////////9AAAA8wAAAAAaADoAOgA6AC8AdgBEAG8AYwBrAEEAcgBlAGEBAAAAASAAAAAAAAL7AAAAAgAAAAIAAAAAAAAAAfsAAAACAAAAAgAAAAAAAAAB/AAAAE8AAAAAOgAwADoAOgA6AF8AdABiAGQAZQBiAHUAZwBfAGIAcgBlAGEAawBwAG8AaQBuAHQAcwBfAGYAbwByAG0BAP////8AAP///////////AAAAE0AAAAAOAAwADoAOgA6AF8AdABiAGQAZQBiAHUAZwBfAGUAeABjAGUAcAB0AGkAbwBuAHMAXwBmAG8AcgBtAAD/////AAD///////////0AAAKhAAAAABoAOgA6ADoALwB2AEQAbwBjAGsAQQByAGUAYQEAAAAFpQABAAAAAfsAAAACAAAAAgAAAAAAAAAB+wAAAAIAAAACAAAAAQAAAAD8AAAAKQAAAAAcADoAOgA6AE0ARABJAEEAUgBFAEEAVABJAEwARQEAAAADCQAB/QAAAiEAAAAAGgA6ADoAOgAvAHYARABvAGMAawBBAHIAZQBhAQAAAAEgAAAAAAAA+wAAAAIAAAACAAAAAAAAAAH7AAAAAgAAAAIAAAABAAAAAP0AAAE5AAAAABoAOgA6ADoALwB2AEQAbwBjAGsAQQByAGUAYQEAAAABIgAAAAAAAvsAAAADAAAAAwAAAAAAAAABAAAAAvsAAAADAAAAAwAAAAAAAAABAAAAAvwAAABJAAAAADQAMAA6ADoAOgBfAHQAYgBkAGUAYgB1AGcAXwBhAHUAdABvAHYAYQByAHMAXwBmAG8AcgBtAQD/////AAD///////////wAAABFAAAAADAAMAA6ADoAOgBfAHQAYgBkAGUAYgB1AGcAXwBsAG8AYwBhAGwAcwBfAGYAbwByAG0AAP////8AAP///////////AAAAEcAAAAAMgAwADoAOgA6AF8AdABiAGQAZQBiAHUAZwBfAG0AZQBtAGIAZQByAHMAXwBmAG8AcgBtAAD/////AAD///////////0AAACRAAAAABoAOgA6ADoALwB2AEQAbwBjAGsAQQByAGUAYQEAAAAB2wAAAAAAAvsAAAABAAAAAQAAAAD7AAAAAQAAAAEAAAAA/AAAAEcAAAAAMgAwADoAOgA6AF8AdABiAGQAZQBiAHUAZwBfAHcAYQB0AGMAaABlAHMAXwBmAG8AcgBtAQD/////AAD//////////wAAAADbAAAAAAAAAALbAAAAAAAAAAHbAAAAAAAAAAPbAAAAAAAAAAA=
+QTOOLBAR 3 0
+AAAA/wAAAAD9AAAAAAAAB4AAAAQpAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAIAAAAQAFMAdABhAG4AZABhAHIAZAEAAAAA/////wAAAAAAAAAAAAAAHgBDAHUAcgByAGUAbgB0ACAAQwBvAG4AdABlAHgAdAEAAAJz/////wAAAAAAAAAAAAAAAgAAAAEAAAAKAEQAZQBiAHUAZwEAAAAA/////wAAAAAAAAAA
+_tbstandard_form 1
+_tbcontext_form 1
+_tbdebugbb_form 1
+TBCLASS: 0 0
+STANDARD_LAYOUT: 56 1 40 11 4 M 0
+_tbFTPClient_form F=0
+_tbfind_symbol_form F=32
+_tbsearch_form F=8
+_tbbookmarks_form F=8
+_tbdebug_watches_form F=64
+_tbfind_form F=36
+_tbdeltasave_form F=0
+_tbnotification_form F=36
+_tbclass_form F=8
+_tbderivedclasses_form F=40
+_tbbaseclasses_form F=40
+_tbdebug_memory_form F=64
+_tbdebug_classes_form F=64
+_tbdebug_threads_form F=64
+_tbopen_form F=40
+_tbbufftabs_form F=11
+_tbdebug_members_form F=64
+_tbannotations_browser_form F=0
+_tbsymbolcalls_form F=40
+_tbunittest_form F=0
+_tbmessages_browser_form F=8
+_tbregex_form F=40
+_tbdebug_exceptions_form F=384
+_tboutputwin_form F=8
+_tbtagrefs_form F=8
+_tbtagwin_form F=8
+_tbprops_form F=8
+_tbslickc_stack_form F=8
+_tbfilelist_form F=44
+_tbFTPOpen_form F=0
+_tbclipboard_form F=44
+_tbdebug_breakpoints_form F=384
+_tbdebug_regs_form F=64
+_tbdebug_autovars_form F=64
+_tbdebug_locals_form F=64
+_tbdebug_stack_form F=64
+_tbshell_form F=8
+_tbprojects_form F=8
+_tbproctree_form F=8
+_tbcbrowser_form F=8
+_tboutputwin_form T=0
+_tbopen_form T=0
+_tbtagwin_form T=0
+_tbmessages_browser_form T=0
+_tbsearch_form T=0
+_tbshell_form T=0
+_tbproctree_form T=0
+_tbprojects_form T=0
+_tbclass_form T=0
+_tbcbrowser_form T=0
+_tbtagrefs_form T=0
+AAAAAwAAAAEAAAAB2gAAAAIAMAAAAAAAAAA2AAAHfwAABIAAAAAAAAAAGQAAB38AAASWAAAAAesAAARwAAAAAPsAAAACAAAAAgAAAAEAAAAA+wAAAAIAAAACAAAAAAAAAAH9AAABoQAAAAAaADoAOgA6AC8AdgBEAG8AYwBrAEEAcgBlAGEBAAAAAdsAAAAAAAL7AAAABQAAAAUAAAAAAAAAAwAAAAIAAAABAAAABPsAAAAFAAAABQAAAAAAAAABAAAAAgAAAAMAAAAE/AAAAD0AAAAAKAAwADoAOgA6AF8AdABiAHAAcgBvAGoAZQBjAHQAcwBfAGYAbwByAG0BAP////8AAP///////////AAAAD0AAAAAKAAwADoAOgA6AF8AdABiAHAAcgBvAGMAdAByAGUAZQBfAGYAbwByAG0AAP////8AAP///////////AAAADcAAAAAIgAwADoAOgA6AF8AdABiAGMAbABhAHMAcwBfAGYAbwByAG0AAP////8AAP///////////AAAAD0AAAAAKAAwADoAOgA6AF8AdABiAGMAYgByAG8AdwBzAGUAcgBfAGYAbwByAG0AAP////8AAP///////////AAAADUAAAAAIAAwADoAOgA6AF8AdABiAG8AcABlAG4AXwBmAG8AcgBtAAD/////AAD///////////0AAAJ7AAAAABoAOgA6ADoALwB2AEQAbwBjAGsAQQByAGUAYQEAAAAC1QABAAAAAfsAAAACAAAAAgAAAAAAAAAB+wAAAAIAAAACAAAAAQAAAAD8AAAAKQAAAAAcADoAOgA6AE0ARABJAEEAUgBFAEEAVABJAEwARQEAAAADiwAB/QAAAfsAAAAAGgA6ADoAOgAvAHYARABvAGMAawBBAHIAZQBhAQAAAAEgAAAAAAAC+wAAAAYAAAAGAAAAAwAAAAUAAAACAAAAAAAAAAQAAAAB+wAAAAYAAAAGAAAAAAAAAAEAAAACAAAAAwAAAAQAAAAF/AAAADkAAAAAJAAwADoAOgA6AF8AdABiAHMAZQBhAHIAYwBoAF8AZgBvAHIAbQAA/////wAA///////////8AAAAOQAAAAAkADAAOgA6ADoAXwB0AGIAdABhAGcAdwBpAG4AXwBmAG8AcgBtAAD/////AAD///////////wAAAA7AAAAACYAMAA6ADoAOgBfAHQAYgB0AGEAZwByAGUAZgBzAF8AZgBvAHIAbQAA/////wAA///////////8AAAANwAAAAAiADAAOgA6ADoAXwB0AGIAcwBoAGUAbABsAF8AZgBvAHIAbQEA/////wAA///////////8AAAATQAAAAA4ADAAOgA6ADoAXwB0AGIAbQBlAHMAcwBhAGcAZQBzAF8AYgByAG8AdwBzAGUAcgBfAGYAbwByAG0AAP////8AAP///////////AAAAD8AAAAAKgAwADoAOgA6AF8AdABiAG8AdQB0AHAAdQB0AHcAaQBuAF8AZgBvAHIAbQAA/////wAA//////////8AAAAA2wAAAAAAAAAC2wAAAAAAAAAB2wAAAAAAAAAD2wAAAAAAAAAA
+QTOOLBAR 2 0
+AAAA/wAAAAD9AAAAAAAAB4AAAARLAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAQAFMAdABhAG4AZABhAHIAZAEAAAAA/////wAAAAAAAAAAAAAAHgBDAHUAcgByAGUAbgB0ACAAQwBvAG4AdABlAHgAdAEAAAJz/////wAAAAAAAAAA
+_tbstandard_form 1
+_tbcontext_form 1
+APP_LAYOUT: 56 1 40 11 4 M 0
+_tbFTPClient_form F=0
+_tbfind_symbol_form F=32
+_tbsearch_form F=8
+_tbbookmarks_form F=8
+_tbdebug_watches_form F=64
+_tbfind_form F=36
+_tbdeltasave_form F=0
+_tbnotification_form F=36
+_tbclass_form F=8
+_tbderivedclasses_form F=40
+_tbbaseclasses_form F=40
+_tbdebug_memory_form F=64
+_tbdebug_classes_form F=64
+_tbdebug_threads_form F=64
+_tbopen_form F=40
+_tbbufftabs_form F=11
+_tbdebug_members_form F=64
+_tbannotations_browser_form F=0
+_tbsymbolcalls_form F=40
+_tbunittest_form F=0
+_tbmessages_browser_form F=8
+_tbregex_form F=40
+_tbdebug_exceptions_form F=384
+_tboutputwin_form F=8
+_tbtagrefs_form F=8
+_tbtagwin_form F=8
+_tbprops_form F=8
+_tbslickc_stack_form F=8
+_tbfilelist_form F=44
+_tbFTPOpen_form F=0
+_tbclipboard_form F=44
+_tbdebug_breakpoints_form F=384
+_tbdebug_regs_form F=64
+_tbdebug_autovars_form F=64
+_tbdebug_locals_form F=64
+_tbdebug_stack_form F=64
+_tbshell_form F=8
+_tbprojects_form F=8
+_tbproctree_form F=8
+_tbcbrowser_form F=8
+_tboutputwin_form T=0
+_tbopen_form T=0
+_tbtagwin_form T=0
+_tbmessages_browser_form T=0
+_tbsearch_form T=0
+_tbshell_form T=0
+_tbproctree_form T=0
+_tbprojects_form T=0
+_tbclass_form T=0
+_tbcbrowser_form T=0
+_tbtagrefs_form T=0
+AAAAAwAAAAEAAAAB2gAAAAIAMAAAAAAAAAA2AAAHfwAABIAAAAAAAAAAGQAAB38AAASWAAAAAesAAARwAAAAAPsAAAACAAAAAgAAAAEAAAAA+wAAAAIAAAACAAAAAAAAAAH9AAABoQAAAAAaADoAOgA6AC8AdgBEAG8AYwBrAEEAcgBlAGEBAAAAAdsAAAAAAAL7AAAABQAAAAUAAAAAAAAAAwAAAAIAAAABAAAABPsAAAAFAAAABQAAAAAAAAABAAAAAgAAAAMAAAAE/AAAAD0AAAAAKAAwADoAOgA6AF8AdABiAHAAcgBvAGoAZQBjAHQAcwBfAGYAbwByAG0BAP////8AAP///////////AAAAD0AAAAAKAAwADoAOgA6AF8AdABiAHAAcgBvAGMAdAByAGUAZQBfAGYAbwByAG0AAP////8AAP///////////AAAADcAAAAAIgAwADoAOgA6AF8AdABiAGMAbABhAHMAcwBfAGYAbwByAG0AAP////8AAP///////////AAAAD0AAAAAKAAwADoAOgA6AF8AdABiAGMAYgByAG8AdwBzAGUAcgBfAGYAbwByAG0AAP////8AAP///////////AAAADUAAAAAIAAwADoAOgA6AF8AdABiAG8AcABlAG4AXwBmAG8AcgBtAAD/////AAD///////////0AAAJ7AAAAABoAOgA6ADoALwB2AEQAbwBjAGsAQQByAGUAYQEAAAAC1QABAAAAAfsAAAACAAAAAgAAAAAAAAAB+wAAAAIAAAACAAAAAQAAAAD8AAAAKQAAAAAcADoAOgA6AE0ARABJAEEAUgBFAEEAVABJAEwARQEAAAADiwAB/QAAAfsAAAAAGgA6ADoAOgAvAHYARABvAGMAawBBAHIAZQBhAQAAAAEgAAAAAAAC+wAAAAYAAAAGAAAAAwAAAAUAAAACAAAAAAAAAAQAAAAB+wAAAAYAAAAGAAAAAAAAAAEAAAACAAAAAwAAAAQAAAAF/AAAADkAAAAAJAAwADoAOgA6AF8AdABiAHMAZQBhAHIAYwBoAF8AZgBvAHIAbQAA/////wAA///////////8AAAAOQAAAAAkADAAOgA6ADoAXwB0AGIAdABhAGcAdwBpAG4AXwBmAG8AcgBtAAD/////AAD///////////wAAAA7AAAAACYAMAA6ADoAOgBfAHQAYgB0AGEAZwByAGUAZgBzAF8AZgBvAHIAbQAA/////wAA///////////8AAAANwAAAAAiADAAOgA6ADoAXwB0AGIAcwBoAGUAbABsAF8AZgBvAHIAbQEA/////wAA///////////8AAAATQAAAAA4ADAAOgA6ADoAXwB0AGIAbQBlAHMAcwBhAGcAZQBzAF8AYgByAG8AdwBzAGUAcgBfAGYAbwByAG0AAP////8AAP///////////AAAAD8AAAAAKgAwADoAOgA6AF8AdABiAG8AdQB0AHAAdQB0AHcAaQBuAF8AZgBvAHIAbQAA/////wAA//////////8AAAAA2wAAAAAAAAAC2wAAAAAAAAAB2wAAAAAAAAAD2wAAAAAAAAAA
+QTOOLBAR 2 0
+AAAA/wAAAAD9AAAAAAAAB4AAAARLAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAQAFMAdABhAG4AZABhAHIAZAEAAAAA/////wAAAAAAAAAAAAAAHgBDAHUAcgByAGUAbgB0ACAAQwBvAG4AdABlAHgAdAEAAAJz/////wAAAAAAAAAA
+_tbstandard_form 1
+_tbcontext_form 1

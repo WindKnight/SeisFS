@@ -1,0 +1,3144 @@
+>>>>>>>>>>>>Testing Read Speed<<<<<<<<<<<<<<<
+trace_i = 1000, trace = 0.000000
+trace_i = 1001, trace = 1.000000
+trace_i = 1002, trace = 2.000000
+trace_i = 1003, trace = 3.000000
+trace_i = 1004, trace = 4.000000
+trace_i = 1005, trace = 5.000000
+trace_i = 1006, trace = 6.000000
+trace_i = 1007, trace = 7.000000
+trace_i = 1008, trace = 8.000000
+trace_i = 1009, trace = 9.000000
+trace_i = 1010, trace = 10.000000
+trace_i = 1011, trace = 11.000000
+trace_i = 1012, trace = 12.000000
+trace_i = 1013, trace = 13.000000
+trace_i = 1014, trace = 14.000000
+trace_i = 1015, trace = 15.000000
+trace_i = 1016, trace = 16.000000
+trace_i = 1017, trace = 17.000000
+trace_i = 1018, trace = 18.000000
+trace_i = 1019, trace = 19.000000
+trace_i = 1020, trace = 20.000000
+trace_i = 1021, trace = 21.000000
+trace_i = 1022, trace = 22.000000
+trace_i = 1023, trace = 23.000000
+trace_i = 1024, trace = 24.000000
+trace_i = 1025, trace = 25.000000
+trace_i = 1026, trace = 26.000000
+trace_i = 1027, trace = 27.000000
+trace_i = 1028, trace = 28.000000
+trace_i = 1029, trace = 29.000000
+trace_i = 1030, trace = 30.000000
+trace_i = 1031, trace = 31.000000
+trace_i = 1032, trace = 32.000000
+trace_i = 1033, trace = 33.000000
+trace_i = 1034, trace = 34.000000
+trace_i = 1035, trace = 35.000000
+trace_i = 1036, trace = 36.000000
+trace_i = 1037, trace = 37.000000
+trace_i = 1038, trace = 38.000000
+trace_i = 1039, trace = 39.000000
+trace_i = 1040, trace = 40.000000
+trace_i = 1041, trace = 41.000000
+trace_i = 1042, trace = 42.000000
+trace_i = 1043, trace = 43.000000
+trace_i = 1044, trace = 44.000000
+trace_i = 1045, trace = 45.000000
+trace_i = 1046, trace = 46.000000
+trace_i = 1047, trace = 47.000000
+trace_i = 1048, trace = 48.000000
+trace_i = 1049, trace = 49.000000
+trace_i = 1050, trace = 50.000000
+trace_i = 1051, trace = 51.000000
+trace_i = 1052, trace = 52.000000
+trace_i = 1053, trace = 53.000000
+trace_i = 1054, trace = 54.000000
+trace_i = 1055, trace = 55.000000
+trace_i = 1056, trace = 56.000000
+trace_i = 1057, trace = 57.000000
+trace_i = 1058, trace = 58.000000
+trace_i = 1059, trace = 59.000000
+trace_i = 1060, trace = 60.000000
+trace_i = 1061, trace = 61.000000
+trace_i = 1062, trace = 62.000000
+trace_i = 1063, trace = 63.000000
+trace_i = 1064, trace = 64.000000
+trace_i = 1065, trace = 65.000000
+trace_i = 1066, trace = 66.000000
+trace_i = 1067, trace = 67.000000
+trace_i = 1068, trace = 68.000000
+trace_i = 1069, trace = 69.000000
+trace_i = 1070, trace = 70.000000
+trace_i = 1071, trace = 71.000000
+trace_i = 1072, trace = 72.000000
+trace_i = 1073, trace = 73.000000
+trace_i = 1074, trace = 74.000000
+trace_i = 1075, trace = 75.000000
+trace_i = 1076, trace = 76.000000
+trace_i = 1077, trace = 77.000000
+trace_i = 1078, trace = 78.000000
+trace_i = 1079, trace = 79.000000
+trace_i = 1080, trace = 80.000000
+trace_i = 1081, trace = 81.000000
+trace_i = 1082, trace = 82.000000
+trace_i = 1083, trace = 83.000000
+trace_i = 1084, trace = 84.000000
+trace_i = 1085, trace = 85.000000
+trace_i = 1086, trace = 86.000000
+trace_i = 1087, trace = 87.000000
+trace_i = 1088, trace = 88.000000
+trace_i = 1089, trace = 89.000000
+trace_i = 1090, trace = 90.000000
+trace_i = 1091, trace = 91.000000
+trace_i = 1092, trace = 92.000000
+trace_i = 1093, trace = 93.000000
+trace_i = 1094, trace = 94.000000
+trace_i = 1095, trace = 95.000000
+trace_i = 1096, trace = 96.000000
+trace_i = 1097, trace = 97.000000
+trace_i = 1098, trace = 98.000000
+trace_i = 1099, trace = 99.000000
+trace_i = 1000, head = 1000
+trace_i = 1001, head = 1001
+trace_i = 1002, head = 1002
+trace_i = 1003, head = 1003
+trace_i = 1004, head = 1004
+trace_i = 1005, head = 1005
+trace_i = 1006, head = 1006
+trace_i = 1007, head = 1007
+trace_i = 1008, head = 1008
+trace_i = 1009, head = 1009
+trace_i = 1010, head = 1010
+trace_i = 1011, head = 1011
+trace_i = 1012, head = 1012
+trace_i = 1013, head = 1013
+trace_i = 1014, head = 1014
+trace_i = 1015, head = 1015
+trace_i = 1016, head = 1016
+trace_i = 1017, head = 1017
+trace_i = 1018, head = 1018
+trace_i = 1019, head = 1019
+trace_i = 1020, head = 1020
+trace_i = 1021, head = 1021
+trace_i = 1022, head = 1022
+trace_i = 1023, head = 1023
+trace_i = 1024, head = 1024
+trace_i = 1025, head = 1025
+trace_i = 1026, head = 1026
+trace_i = 1027, head = 1027
+trace_i = 1028, head = 1028
+trace_i = 1029, head = 1029
+trace_i = 1030, head = 1030
+trace_i = 1031, head = 1031
+trace_i = 1032, head = 1032
+trace_i = 1033, head = 1033
+trace_i = 1034, head = 1034
+trace_i = 1035, head = 1035
+trace_i = 1036, head = 1036
+trace_i = 1037, head = 1037
+trace_i = 1038, head = 1038
+trace_i = 1039, head = 1039
+trace_i = 1040, head = 1040
+trace_i = 1041, head = 1041
+trace_i = 1042, head = 1042
+trace_i = 1043, head = 1043
+trace_i = 1044, head = 1044
+trace_i = 1045, head = 1045
+trace_i = 1046, head = 1046
+trace_i = 1047, head = 1047
+trace_i = 1048, head = 1048
+trace_i = 1049, head = 1049
+trace_i = 1050, head = 1050
+trace_i = 1051, head = 1051
+trace_i = 1052, head = 1052
+trace_i = 1053, head = 1053
+trace_i = 1054, head = 1054
+trace_i = 1055, head = 1055
+trace_i = 1056, head = 1056
+trace_i = 1057, head = 1057
+trace_i = 1058, head = 1058
+trace_i = 1059, head = 1059
+trace_i = 1060, head = 1060
+trace_i = 1061, head = 1061
+trace_i = 1062, head = 1062
+trace_i = 1063, head = 1063
+trace_i = 1064, head = 1064
+trace_i = 1065, head = 1065
+trace_i = 1066, head = 1066
+trace_i = 1067, head = 1067
+trace_i = 1068, head = 1068
+trace_i = 1069, head = 1069
+trace_i = 1070, head = 1070
+trace_i = 1071, head = 1071
+trace_i = 1072, head = 1072
+trace_i = 1073, head = 1073
+trace_i = 1074, head = 1074
+trace_i = 1075, head = 1075
+trace_i = 1076, head = 1076
+trace_i = 1077, head = 1077
+trace_i = 1078, head = 1078
+trace_i = 1079, head = 1079
+trace_i = 1080, head = 1080
+trace_i = 1081, head = 1081
+trace_i = 1082, head = 1082
+trace_i = 1083, head = 1083
+trace_i = 1084, head = 1084
+trace_i = 1085, head = 1085
+trace_i = 1086, head = 1086
+trace_i = 1087, head = 1087
+trace_i = 1088, head = 1088
+trace_i = 1089, head = 1089
+trace_i = 1090, head = 1090
+trace_i = 1091, head = 1091
+trace_i = 1092, head = 1092
+trace_i = 1093, head = 1093
+trace_i = 1094, head = 1094
+trace_i = 1095, head = 1095
+trace_i = 1096, head = 1096
+trace_i = 1097, head = 1097
+trace_i = 1098, head = 1098
+trace_i = 1099, head = 1099
+file : seisfile_nas.cpp, line : 350
+file : seisfile_nas.cpp, line : 344
+file : seisfile_nas.cpp, line : 350
+file : seisfile_nas.cpp, line : 344
+head_size = 512, trace_size = 12000, speed read trace num = 2101
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 1000, value = 0.000000
+Trace read task, trace_id = 1001, value = 1.000000
+Trace read task, trace_id = 1002, value = 2.000000
+Trace read task, trace_id = 1003, value = 3.000000
+Trace read task, trace_id = 1004, value = 4.000000
+Trace read task, trace_id = 1005, value = 5.000000
+Trace read task, trace_id = 1006, value = 6.000000
+Trace read task, trace_id = 1007, value = 7.000000
+Trace read task, trace_id = 1008, value = 8.000000
+Trace read task, trace_id = 1009, value = 9.000000
+Trace read task, trace_id = 1010, value = 10.000000
+Trace read task, trace_id = 1011, value = 11.000000
+Trace read task, trace_id = 1012, value = 12.000000
+Trace read task, trace_id = 1013, value = 13.000000
+Trace read task, trace_id = 1014, value = 14.000000
+Trace read task, trace_id = 1015, value = 15.000000
+Trace read task, trace_id = 1016, value = 16.000000
+Trace read task, trace_id = 1017, value = 17.000000
+Trace read task, trace_id = 1018, value = 18.000000
+Trace read task, trace_id = 1019, value = 19.000000
+Trace read task, trace_id = 1020, value = 20.000000
+Trace read task, trace_id = 1021, value = 21.000000
+Trace read task, trace_id = 1022, value = 22.000000
+Trace read task, trace_id = 1023, value = 23.000000
+Trace read task, trace_id = 1024, value = 24.000000
+Trace read task, trace_id = 1025, value = 25.000000
+Trace read task, trace_id = 1026, value = 26.000000
+Trace read task, trace_id = 1027, value = 27.000000
+Trace read task, trace_id = 1028, value = 28.000000
+Trace read task, trace_id = 1029, value = 29.000000
+Trace read task, trace_id = 1030, value = 30.000000
+Trace read task, trace_id = 1031, value = 31.000000
+Trace read task, trace_id = 1032, value = 32.000000
+Trace read task, trace_id = 1033, value = 33.000000
+Trace read task, trace_id = 1034, value = 34.000000
+Trace read task, trace_id = 1035, value = 35.000000
+Trace read task, trace_id = 1036, value = 36.000000
+Trace read task, trace_id = 1037, value = 37.000000
+Trace read task, trace_id = 1038, value = 38.000000
+Trace read task, trace_id = 1039, value = 39.000000
+Trace read task, trace_id = 1040, value = 40.000000
+Trace read task, trace_id = 1041, value = 41.000000
+Trace read task, trace_id = 1042, value = 42.000000
+Trace read task, trace_id = 1043, value = 43.000000
+Trace read task, trace_id = 1044, value = 44.000000
+Trace read task, trace_id = 1045, value = 45.000000
+Trace read task, trace_id = 1046, value = 46.000000
+Trace read task, trace_id = 1047, value = 47.000000
+Trace read task, trace_id = 1048, value = 48.000000
+Trace read task, trace_id = 1049, value = 49.000000
+Trace read task, trace_id = 1050, value = 50.000000
+Trace read task, trace_id = 1051, value = 51.000000
+Trace read task, trace_id = 1052, value = 52.000000
+Trace read task, trace_id = 1053, value = 53.000000
+Trace read task, trace_id = 1054, value = 54.000000
+Trace read task, trace_id = 1055, value = 55.000000
+Trace read task, trace_id = 1056, value = 56.000000
+Trace read task, trace_id = 1057, value = 57.000000
+Trace read task, trace_id = 1058, value = 58.000000
+Trace read task, trace_id = 1059, value = 59.000000
+Trace read task, trace_id = 1060, value = 60.000000
+Trace read task, trace_id = 1061, value = 61.000000
+Trace read task, trace_id = 1062, value = 62.000000
+Trace read task, trace_id = 1063, value = 63.000000
+Trace read task, trace_id = 1064, value = 64.000000
+Trace read task, trace_id = 1065, value = 65.000000
+Trace read task, trace_id = 1066, value = 66.000000
+Trace read task, trace_id = 1067, value = 67.000000
+Trace read task, trace_id = 1068, value = 68.000000
+Trace read task, trace_id = 1069, value = 69.000000
+Trace read task, trace_id = 1070, value = 70.000000
+Trace read task, trace_id = 1071, value = 71.000000
+Trace read task, trace_id = 1072, value = 72.000000
+Trace read task, trace_id = 1073, value = 73.000000
+Trace read task, trace_id = 1074, value = 74.000000
+Trace read task, trace_id = 1075, value = 75.000000
+Trace read task, trace_id = 1076, value = 76.000000
+Trace read task, trace_id = 1077, value = 77.000000
+Trace read task, trace_id = 1078, value = 78.000000
+Trace read task, trace_id = 1079, value = 79.000000
+Trace read task, trace_id = 1080, value = 80.000000
+Trace read task, trace_id = 1081, value = 81.000000
+Trace read task, trace_id = 1082, value = 82.000000
+Trace read task, trace_id = 1083, value = 83.000000
+Trace read task, trace_id = 1084, value = 84.000000
+Trace read task, trace_id = 1085, value = 85.000000
+Trace read task, trace_id = 1086, value = 86.000000
+Trace read task, trace_id = 1087, value = 87.000000
+Trace read task, trace_id = 1088, value = 88.000000
+Trace read task, trace_id = 1089, value = 89.000000
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 1090, value = 90.000000
+Trace read task, trace_id = 1091, value = 91.000000
+Trace read task, trace_id = 1092, value = 92.000000
+Trace read task, trace_id = 1093, value = 93.000000
+Trace read task, trace_id = 1094, value = 94.000000
+Trace read task, trace_id = 1095, value = 95.000000
+Trace read task, trace_id = 1096, value = 96.000000
+Trace read task, trace_id = 1097, value = 97.000000
+Trace read task, trace_id = 1098, value = 98.000000
+Trace read task, trace_id = 1099, value = 99.000000
+Trace read task, trace_id = 1100, value = 0.000000
+Trace read task, trace_id = 1101, value = 1.000000
+Trace read task, trace_id = 1102, value = 2.000000
+Trace read task, trace_id = 1103, value = 3.000000
+Trace read task, trace_id = 1104, value = 4.000000
+Trace read task, trace_id = 1105, value = 5.000000
+Trace read task, trace_id = 1106, value = 6.000000
+Trace read task, trace_id = 1107, value = 7.000000
+Trace read task, trace_id = 1108, value = 8.000000
+Trace read task, trace_id = 1109, value = 9.000000
+Trace read task, trace_id = 1110, value = 10.000000
+Trace read task, trace_id = 1111, value = 11.000000
+Trace read task, trace_id = 1112, value = 12.000000
+Trace read task, trace_id = 1113, value = 13.000000
+Trace read task, trace_id = 1114, value = 14.000000
+Trace read task, trace_id = 1115, value = 15.000000
+Trace read task, trace_id = 1116, value = 16.000000
+Trace read task, trace_id = 1117, value = 17.000000
+Trace read task, trace_id = 1118, value = 18.000000
+Trace read task, trace_id = 1119, value = 19.000000
+Trace read task, trace_id = 1120, value = 20.000000
+Trace read task, trace_id = 1121, value = 21.000000
+Trace read task, trace_id = 1122, value = 22.000000
+Trace read task, trace_id = 1123, value = 23.000000
+Trace read task, trace_id = 1124, value = 24.000000
+Trace read task, trace_id = 1125, value = 25.000000
+Trace read task, trace_id = 1126, value = 26.000000
+Trace read task, trace_id = 1127, value = 27.000000
+Trace read task, trace_id = 1128, value = 28.000000
+Trace read task, trace_id = 1129, value = 29.000000
+Trace read task, trace_id = 1130, value = 30.000000
+Trace read task, trace_id = 1131, value = 31.000000
+Trace read task, trace_id = 1132, value = 32.000000
+Trace read task, trace_id = 1133, value = 33.000000
+Trace read task, trace_id = 1134, value = 34.000000
+Trace read task, trace_id = 1135, value = 35.000000
+Trace read task, trace_id = 1136, value = 36.000000
+Trace read task, trace_id = 1137, value = 37.000000
+Trace read task, trace_id = 1138, value = 38.000000
+Trace read task, trace_id = 1139, value = 39.000000
+Trace read task, trace_id = 1140, value = 40.000000
+Trace read task, trace_id = 1141, value = 41.000000
+Trace read task, trace_id = 1142, value = 42.000000
+Trace read task, trace_id = 1143, value = 43.000000
+Trace read task, trace_id = 1144, value = 44.000000
+Trace read task, trace_id = 1145, value = 45.000000
+Trace read task, trace_id = 1146, value = 46.000000
+Trace read task, trace_id = 1147, value = 47.000000
+Trace read task, trace_id = 1148, value = 48.000000
+Trace read task, trace_id = 1149, value = 49.000000
+Trace read task, trace_id = 1150, value = 50.000000
+Trace read task, trace_id = 1151, value = 51.000000
+Trace read task, trace_id = 1152, value = 52.000000
+Trace read task, trace_id = 1153, value = 53.000000
+Trace read task, trace_id = 1154, value = 54.000000
+Trace read task, trace_id = 1155, value = 55.000000
+Trace read task, trace_id = 1156, value = 56.000000
+Trace read task, trace_id = 1157, value = 57.000000
+Trace read task, trace_id = 1158, value = 58.000000
+Trace read task, trace_id = 1159, value = 59.000000
+Trace read task, trace_id = 1160, value = 60.000000
+Trace read task, trace_id = 1161, value = 61.000000
+Trace read task, trace_id = 1162, value = 62.000000
+Trace read task, trace_id = 1163, value = 63.000000
+Trace read task, trace_id = 1164, value = 64.000000
+Trace read task, trace_id = 1165, value = 65.000000
+Trace read task, trace_id = 1166, value = 66.000000
+Trace read task, trace_id = 1167, value = 67.000000
+Trace read task, trace_id = 1168, value = 68.000000
+Trace read task, trace_id = 1169, value = 69.000000
+Trace read task, trace_id = 1170, value = 70.000000
+Trace read task, trace_id = 1171, value = 71.000000
+Trace read task, trace_id = 1172, value = 72.000000
+Trace read task, trace_id = 1173, value = 73.000000
+Trace read task, trace_id = 1174, value = 74.000000
+Trace read task, trace_id = 1175, value = 75.000000
+Trace read task, trace_id = 1176, value = 76.000000
+Trace read task, trace_id = 1177, value = 77.000000
+Trace read task, trace_id = 1178, value = 78.000000
+Trace read task, trace_id = 1179, value = 79.000000
+Trace read task, trace_id = 1180, value = 80.000000
+Trace read task, trace_id = 1181, value = 81.000000
+Trace read task, trace_id = 1182, value = 82.000000
+Trace read task, trace_id = 1183, value = 83.000000
+Trace read task, trace_id = 1184, value = 84.000000
+Trace read task, trace_id = 1185, value = 85.000000
+Trace read task, trace_id = 1186, value = 86.000000
+Trace read task, trace_id = 1187, value = 87.000000
+Trace read task, trace_id = 1188, value = 88.000000
+Trace read task, trace_id = 1189, value = 89.000000
+Trace read task, trace_id = 1190, value = 90.000000
+Trace read task, trace_id = 1191, value = 91.000000
+Trace read task, trace_id = 1192, value = 92.000000
+Trace read task, trace_id = 1193, value = 93.000000
+Trace read task, trace_id = 1194, value = 94.000000
+Trace read task, trace_id = 1195, value = 95.000000
+Trace read task, trace_id = 1196, value = 96.000000
+Trace read task, trace_id = 1197, value = 97.000000
+Trace read task, trace_id = 1198, value = 98.000000
+Trace read task, trace_id = 1199, value = 99.000000
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 1200, value = 0.000000
+Trace read task, trace_id = 1201, value = 1.000000
+Trace read task, trace_id = 1202, value = 2.000000
+Trace read task, trace_id = 1203, value = 3.000000
+Trace read task, trace_id = 1204, value = 4.000000
+Trace read task, trace_id = 1205, value = 5.000000
+Trace read task, trace_id = 1206, value = 6.000000
+Trace read task, trace_id = 1207, value = 7.000000
+Trace read task, trace_id = 1208, value = 8.000000
+Trace read task, trace_id = 1209, value = 9.000000
+Trace read task, trace_id = 1210, value = 10.000000
+Trace read task, trace_id = 1211, value = 11.000000
+Trace read task, trace_id = 1212, value = 12.000000
+Trace read task, trace_id = 1213, value = 13.000000
+Trace read task, trace_id = 1214, value = 14.000000
+Trace read task, trace_id = 1215, value = 15.000000
+Trace read task, trace_id = 1216, value = 16.000000
+Trace read task, trace_id = 1217, value = 17.000000
+Trace read task, trace_id = 1218, value = 18.000000
+Trace read task, trace_id = 1219, value = 19.000000
+Trace read task, trace_id = 1220, value = 20.000000
+Trace read task, trace_id = 1221, value = 21.000000
+Trace read task, trace_id = 1222, value = 22.000000
+Trace read task, trace_id = 1223, value = 23.000000
+Trace read task, trace_id = 1224, value = 24.000000
+Trace read task, trace_id = 1225, value = 25.000000
+Trace read task, trace_id = 1226, value = 26.000000
+Trace read task, trace_id = 1227, value = 27.000000
+Trace read task, trace_id = 1228, value = 28.000000
+Trace read task, trace_id = 1229, value = 29.000000
+Trace read task, trace_id = 1230, value = 30.000000
+Trace read task, trace_id = 1231, value = 31.000000
+Trace read task, trace_id = 1232, value = 32.000000
+Trace read task, trace_id = 1233, value = 33.000000
+Trace read task, trace_id = 1234, value = 34.000000
+Trace read task, trace_id = 1235, value = 35.000000
+Trace read task, trace_id = 1236, value = 36.000000
+Trace read task, trace_id = 1237, value = 37.000000
+Trace read task, trace_id = 1238, value = 38.000000
+Trace read task, trace_id = 1239, value = 39.000000
+Trace read task, trace_id = 1240, value = 40.000000
+Trace read task, trace_id = 1241, value = 41.000000
+Trace read task, trace_id = 1242, value = 42.000000
+Trace read task, trace_id = 1243, value = 43.000000
+Trace read task, trace_id = 1244, value = 44.000000
+Trace read task, trace_id = 1245, value = 45.000000
+Trace read task, trace_id = 1246, value = 46.000000
+Trace read task, trace_id = 1247, value = 47.000000
+Trace read task, trace_id = 1248, value = 48.000000
+Trace read task, trace_id = 1249, value = 49.000000
+Trace read task, trace_id = 1250, value = 50.000000
+Trace read task, trace_id = 1251, value = 51.000000
+Trace read task, trace_id = 1252, value = 52.000000
+Trace read task, trace_id = 1253, value = 53.000000
+Trace read task, trace_id = 1254, value = 54.000000
+Trace read task, trace_id = 1255, value = 55.000000
+Trace read task, trace_id = 1256, value = 56.000000
+Trace read task, trace_id = 1257, value = 57.000000
+Trace read task, trace_id = 1258, value = 58.000000
+Trace read task, trace_id = 1259, value = 59.000000
+Trace read task, trace_id = 1260, value = 60.000000
+Trace read task, trace_id = 1261, value = 61.000000
+Trace read task, trace_id = 1262, value = 62.000000
+Trace read task, trace_id = 1263, value = 63.000000
+Trace read task, trace_id = 1264, value = 64.000000
+Trace read task, trace_id = 1265, value = 65.000000
+Trace read task, trace_id = 1266, value = 66.000000
+Trace read task, trace_id = 1267, value = 67.000000
+Trace read task, trace_id = 1268, value = 68.000000
+Trace read task, trace_id = 1269, value = 69.000000
+Trace read task, trace_id = 1270, value = 70.000000
+Trace read task, trace_id = 1271, value = 71.000000
+Trace read task, trace_id = 1272, value = 72.000000
+Trace read task, trace_id = 1273, value = 73.000000
+Trace read task, trace_id = 1274, value = 74.000000
+Trace read task, trace_id = 1275, value = 75.000000
+Trace read task, trace_id = 1276, value = 76.000000
+Trace read task, trace_id = 1277, value = 77.000000
+Trace read task, trace_id = 1278, value = 78.000000
+Trace read task, trace_id = 1279, value = 79.000000
+Trace read task, trace_id = 1280, value = 80.000000
+Trace read task, trace_id = 1281, value = 81.000000
+Trace read task, trace_id = 1282, value = 82.000000
+Trace read task, trace_id = 1283, value = 83.000000
+Trace read task, trace_id = 1284, value = 84.000000
+Trace read task, trace_id = 1285, value = 85.000000
+Trace read task, trace_id = 1286, value = 86.000000
+Trace read task, trace_id = 1287, value = 87.000000
+Trace read task, trace_id = 1288, value = 88.000000
+Trace read task, trace_id = 1289, value = 89.000000
+Trace read task, trace_id = 1290, value = 90.000000
+Trace read task, trace_id = 1291, value = 91.000000
+Trace read task, trace_id = 1292, value = 92.000000
+Trace read task, trace_id = 1293, value = 93.000000
+Trace read task, trace_id = 1294, value = 94.000000
+Trace read task, trace_id = 1295, value = 95.000000
+Trace read task, trace_id = 1296, value = 96.000000
+Trace read task, trace_id = 1297, value = 97.000000
+Trace read task, trace_id = 1298, value = 98.000000
+Trace read task, trace_id = 1299, value = 99.000000
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 1300, value = 0.000000
+Trace read task, trace_id = 1301, value = 1.000000
+Trace read task, trace_id = 1302, value = 2.000000
+Trace read task, trace_id = 1303, value = 3.000000
+Trace read task, trace_id = 1304, value = 4.000000
+Trace read task, trace_id = 1305, value = 5.000000
+Trace read task, trace_id = 1306, value = 6.000000
+Trace read task, trace_id = 1307, value = 7.000000
+Trace read task, trace_id = 1308, value = 8.000000
+Trace read task, trace_id = 1309, value = 9.000000
+Trace read task, trace_id = 1310, value = 10.000000
+Trace read task, trace_id = 1311, value = 11.000000
+Trace read task, trace_id = 1312, value = 12.000000
+Trace read task, trace_id = 1313, value = 13.000000
+Trace read task, trace_id = 1314, value = 14.000000
+Trace read task, trace_id = 1315, value = 15.000000
+Trace read task, trace_id = 1316, value = 16.000000
+Trace read task, trace_id = 1317, value = 17.000000
+Trace read task, trace_id = 1318, value = 18.000000
+Trace read task, trace_id = 1319, value = 19.000000
+Trace read task, trace_id = 1320, value = 20.000000
+Trace read task, trace_id = 1321, value = 21.000000
+Trace read task, trace_id = 1322, value = 22.000000
+Trace read task, trace_id = 1323, value = 23.000000
+Trace read task, trace_id = 1324, value = 24.000000
+Trace read task, trace_id = 1325, value = 25.000000
+Trace read task, trace_id = 1326, value = 26.000000
+Trace read task, trace_id = 1327, value = 27.000000
+Trace read task, trace_id = 1328, value = 28.000000
+Trace read task, trace_id = 1329, value = 29.000000
+Trace read task, trace_id = 1330, value = 30.000000
+Trace read task, trace_id = 1331, value = 31.000000
+Trace read task, trace_id = 1332, value = 32.000000
+Trace read task, trace_id = 1333, value = 33.000000
+Trace read task, trace_id = 1334, value = 34.000000
+Trace read task, trace_id = 1335, value = 35.000000
+Trace read task, trace_id = 1336, value = 36.000000
+Trace read task, trace_id = 1337, value = 37.000000
+Trace read task, trace_id = 1338, value = 38.000000
+Trace read task, trace_id = 1339, value = 39.000000
+Trace read task, trace_id = 1340, value = 40.000000
+Trace read task, trace_id = 1341, value = 41.000000
+Trace read task, trace_id = 1342, value = 42.000000
+Trace read task, trace_id = 1343, value = 43.000000
+Trace read task, trace_id = 1344, value = 44.000000
+Trace read task, trace_id = 1345, value = 45.000000
+Trace read task, trace_id = 1346, value = 46.000000
+Trace read task, trace_id = 1347, value = 47.000000
+Trace read task, trace_id = 1348, value = 48.000000
+Trace read task, trace_id = 1349, value = 49.000000
+Trace read task, trace_id = 1350, value = 50.000000
+Trace read task, trace_id = 1351, value = 51.000000
+Trace read task, trace_id = 1352, value = 52.000000
+Trace read task, trace_id = 1353, value = 53.000000
+Trace read task, trace_id = 1354, value = 54.000000
+Trace read task, trace_id = 1355, value = 55.000000
+Trace read task, trace_id = 1356, value = 56.000000
+Trace read task, trace_id = 1357, value = 57.000000
+Trace read task, trace_id = 1358, value = 58.000000
+Trace read task, trace_id = 1359, value = 59.000000
+Trace read task, trace_id = 1360, value = 60.000000
+Trace read task, trace_id = 1361, value = 61.000000
+Trace read task, trace_id = 1362, value = 62.000000
+Trace read task, trace_id = 1363, value = 63.000000
+Trace read task, trace_id = 1364, value = 64.000000
+Trace read task, trace_id = 1365, value = 65.000000
+Trace read task, trace_id = 1366, value = 66.000000
+Trace read task, trace_id = 1367, value = 67.000000
+Trace read task, trace_id = 1368, value = 68.000000
+Trace read task, trace_id = 1369, value = 69.000000
+Trace read task, trace_id = 1370, value = 70.000000
+Trace read task, trace_id = 1371, value = 71.000000
+Trace read task, trace_id = 1372, value = 72.000000
+Trace read task, trace_id = 1373, value = 73.000000
+Trace read task, trace_id = 1374, value = 74.000000
+Trace read task, trace_id = 1375, value = 75.000000
+Trace read task, trace_id = 1376, value = 76.000000
+Trace read task, trace_id = 1377, value = 77.000000
+Trace read task, trace_id = 1378, value = 78.000000
+Trace read task, trace_id = 1379, value = 79.000000
+Trace read task, trace_id = 1380, value = 80.000000
+Trace read task, trace_id = 1381, value = 81.000000
+Trace read task, trace_id = 1382, value = 82.000000
+Trace read task, trace_id = 1383, value = 83.000000
+Trace read task, trace_id = 1384, value = 84.000000
+Trace read task, trace_id = 1385, value = 85.000000
+Trace read task, trace_id = 1386, value = 86.000000
+Trace read task, trace_id = 1387, value = 87.000000
+Trace read task, trace_id = 1388, value = 88.000000
+Trace read task, trace_id = 1389, value = 89.000000
+Trace read task, trace_id = 1390, value = 90.000000
+Trace read task, trace_id = 1391, value = 91.000000
+Trace read task, trace_id = 1392, value = 92.000000
+Trace read task, trace_id = 1393, value = 93.000000
+Trace read task, trace_id = 1394, value = 94.000000
+Trace read task, trace_id = 1395, value = 95.000000
+Trace read task, trace_id = 1396, value = 96.000000
+Trace read task, trace_id = 1397, value = 97.000000
+Trace read task, trace_id = 1398, value = 98.000000
+Trace read task, trace_id = 1399, value = 99.000000
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 1400, value = 0.000000
+Trace read task, trace_id = 1401, value = 1.000000
+Trace read task, trace_id = 1402, value = 2.000000
+Trace read task, trace_id = 1403, value = 3.000000
+Trace read task, trace_id = 1404, value = 4.000000
+Trace read task, trace_id = 1405, value = 5.000000
+Trace read task, trace_id = 1406, value = 6.000000
+Trace read task, trace_id = 1407, value = 7.000000
+Trace read task, trace_id = 1408, value = 8.000000
+Trace read task, trace_id = 1409, value = 9.000000
+Trace read task, trace_id = 1410, value = 10.000000
+Trace read task, trace_id = 1411, value = 11.000000
+Trace read task, trace_id = 1412, value = 12.000000
+Trace read task, trace_id = 1413, value = 13.000000
+Trace read task, trace_id = 1414, value = 14.000000
+Trace read task, trace_id = 1415, value = 15.000000
+Trace read task, trace_id = 1416, value = 16.000000
+Trace read task, trace_id = 1417, value = 17.000000
+Trace read task, trace_id = 1418, value = 18.000000
+Trace read task, trace_id = 1419, value = 19.000000
+Trace read task, trace_id = 1420, value = 20.000000
+Trace read task, trace_id = 1421, value = 21.000000
+Trace read task, trace_id = 1422, value = 22.000000
+Trace read task, trace_id = 1423, value = 23.000000
+Trace read task, trace_id = 1424, value = 24.000000
+Trace read task, trace_id = 1425, value = 25.000000
+Trace read task, trace_id = 1426, value = 26.000000
+Trace read task, trace_id = 1427, value = 27.000000
+Trace read task, trace_id = 1428, value = 28.000000
+Trace read task, trace_id = 1429, value = 29.000000
+Trace read task, trace_id = 1430, value = 30.000000
+Trace read task, trace_id = 1431, value = 31.000000
+Trace read task, trace_id = 1432, value = 32.000000
+Trace read task, trace_id = 1433, value = 33.000000
+Trace read task, trace_id = 1434, value = 34.000000
+Trace read task, trace_id = 1435, value = 35.000000
+Trace read task, trace_id = 1436, value = 36.000000
+Trace read task, trace_id = 1437, value = 37.000000
+Trace read task, trace_id = 1438, value = 38.000000
+Trace read task, trace_id = 1439, value = 39.000000
+Trace read task, trace_id = 1440, value = 40.000000
+Trace read task, trace_id = 1441, value = 41.000000
+Trace read task, trace_id = 1442, value = 42.000000
+Trace read task, trace_id = 1443, value = 43.000000
+Trace read task, trace_id = 1444, value = 44.000000
+Trace read task, trace_id = 1445, value = 45.000000
+Trace read task, trace_id = 1446, value = 46.000000
+Trace read task, trace_id = 1447, value = 47.000000
+Trace read task, trace_id = 1448, value = 48.000000
+Trace read task, trace_id = 1449, value = 49.000000
+Trace read task, trace_id = 1450, value = 50.000000
+Trace read task, trace_id = 1451, value = 51.000000
+Trace read task, trace_id = 1452, value = 52.000000
+Trace read task, trace_id = 1453, value = 53.000000
+Trace read task, trace_id = 1454, value = 54.000000
+Trace read task, trace_id = 1455, value = 55.000000
+Trace read task, trace_id = 1456, value = 56.000000
+Trace read task, trace_id = 1457, value = 57.000000
+Trace read task, trace_id = 1458, value = 58.000000
+Trace read task, trace_id = 1459, value = 59.000000
+Trace read task, trace_id = 1460, value = 60.000000
+Trace read task, trace_id = 1461, value = 61.000000
+Trace read task, trace_id = 1462, value = 62.000000
+Trace read task, trace_id = 1463, value = 63.000000
+Trace read task, trace_id = 1464, value = 64.000000
+Trace read task, trace_id = 1465, value = 65.000000
+Trace read task, trace_id = 1466, value = 66.000000
+Trace read task, trace_id = 1467, value = 67.000000
+Trace read task, trace_id = 1468, value = 68.000000
+Trace read task, trace_id = 1469, value = 69.000000
+Trace read task, trace_id = 1470, value = 70.000000
+Trace read task, trace_id = 1471, value = 71.000000
+Trace read task, trace_id = 1472, value = 72.000000
+Trace read task, trace_id = 1473, value = 73.000000
+Trace read task, trace_id = 1474, value = 74.000000
+Trace read task, trace_id = 1475, value = 75.000000
+Trace read task, trace_id = 1476, value = 76.000000
+Trace read task, trace_id = 1477, value = 77.000000
+Trace read task, trace_id = 1478, value = 78.000000
+Trace read task, trace_id = 1479, value = 79.000000
+Trace read task, trace_id = 1480, value = 80.000000
+Trace read task, trace_id = 1481, value = 81.000000
+Trace read task, trace_id = 1482, value = 82.000000
+Trace read task, trace_id = 1483, value = 83.000000
+Trace read task, trace_id = 1484, value = 84.000000
+Trace read task, trace_id = 1485, value = 85.000000
+Trace read task, trace_id = 1486, value = 86.000000
+Trace read task, trace_id = 1487, value = 87.000000
+Trace read task, trace_id = 1488, value = 88.000000
+Trace read task, trace_id = 1489, value = 89.000000
+Trace read task, trace_id = 1490, value = 90.000000
+Trace read task, trace_id = 1491, value = 91.000000
+Trace read task, trace_id = 1492, value = 92.000000
+Trace read task, trace_id = 1493, value = 93.000000
+Trace read task, trace_id = 1494, value = 94.000000
+Trace read task, trace_id = 1495, value = 95.000000
+Trace read task, trace_id = 1496, value = 96.000000
+Trace read task, trace_id = 1497, value = 97.000000
+Trace read task, trace_id = 1498, value = 98.000000
+Trace read task, trace_id = 1499, value = 99.000000
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 1500, value = 0.000000
+Trace read task, trace_id = 1501, value = 1.000000
+Trace read task, trace_id = 1502, value = 2.000000
+Trace read task, trace_id = 1503, value = 3.000000
+Trace read task, trace_id = 1504, value = 4.000000
+Trace read task, trace_id = 1505, value = 5.000000
+Trace read task, trace_id = 1506, value = 6.000000
+Trace read task, trace_id = 1507, value = 7.000000
+Trace read task, trace_id = 1508, value = 8.000000
+Trace read task, trace_id = 1509, value = 9.000000
+Trace read task, trace_id = 1510, value = 10.000000
+Trace read task, trace_id = 1511, value = 11.000000
+Trace read task, trace_id = 1512, value = 12.000000
+Trace read task, trace_id = 1513, value = 13.000000
+Trace read task, trace_id = 1514, value = 14.000000
+Trace read task, trace_id = 1515, value = 15.000000
+Trace read task, trace_id = 1516, value = 16.000000
+Trace read task, trace_id = 1517, value = 17.000000
+Trace read task, trace_id = 1518, value = 18.000000
+Trace read task, trace_id = 1519, value = 19.000000
+Trace read task, trace_id = 1520, value = 20.000000
+Trace read task, trace_id = 1521, value = 21.000000
+Trace read task, trace_id = 1522, value = 22.000000
+Trace read task, trace_id = 1523, value = 23.000000
+Trace read task, trace_id = 1524, value = 24.000000
+Trace read task, trace_id = 1525, value = 25.000000
+Trace read task, trace_id = 1526, value = 26.000000
+Trace read task, trace_id = 1527, value = 27.000000
+Trace read task, trace_id = 1528, value = 28.000000
+Trace read task, trace_id = 1529, value = 29.000000
+Trace read task, trace_id = 1530, value = 30.000000
+Trace read task, trace_id = 1531, value = 31.000000
+Trace read task, trace_id = 1532, value = 32.000000
+Trace read task, trace_id = 1533, value = 33.000000
+Trace read task, trace_id = 1534, value = 34.000000
+Trace read task, trace_id = 1535, value = 35.000000
+Trace read task, trace_id = 1536, value = 36.000000
+Trace read task, trace_id = 1537, value = 37.000000
+Trace read task, trace_id = 1538, value = 38.000000
+Trace read task, trace_id = 1539, value = 39.000000
+Trace read task, trace_id = 1540, value = 40.000000
+Trace read task, trace_id = 1541, value = 41.000000
+Trace read task, trace_id = 1542, value = 42.000000
+Trace read task, trace_id = 1543, value = 43.000000
+Trace read task, trace_id = 1544, value = 44.000000
+Trace read task, trace_id = 1545, value = 45.000000
+Trace read task, trace_id = 1546, value = 46.000000
+Trace read task, trace_id = 1547, value = 47.000000
+Trace read task, trace_id = 1548, value = 48.000000
+Trace read task, trace_id = 1549, value = 49.000000
+Trace read task, trace_id = 1550, value = 50.000000
+Trace read task, trace_id = 1551, value = 51.000000
+Trace read task, trace_id = 1552, value = 52.000000
+Trace read task, trace_id = 1553, value = 53.000000
+Trace read task, trace_id = 1554, value = 54.000000
+Trace read task, trace_id = 1555, value = 55.000000
+Trace read task, trace_id = 1556, value = 56.000000
+Trace read task, trace_id = 1557, value = 57.000000
+Trace read task, trace_id = 1558, value = 58.000000
+Trace read task, trace_id = 1559, value = 59.000000
+Trace read task, trace_id = 1560, value = 60.000000
+Trace read task, trace_id = 1561, value = 61.000000
+Trace read task, trace_id = 1562, value = 62.000000
+Trace read task, trace_id = 1563, value = 63.000000
+Trace read task, trace_id = 1564, value = 64.000000
+Trace read task, trace_id = 1565, value = 65.000000
+Trace read task, trace_id = 1566, value = 66.000000
+Trace read task, trace_id = 1567, value = 67.000000
+Trace read task, trace_id = 1568, value = 68.000000
+Trace read task, trace_id = 1569, value = 69.000000
+Trace read task, trace_id = 1570, value = 70.000000
+Trace read task, trace_id = 1571, value = 71.000000
+Trace read task, trace_id = 1572, value = 72.000000
+Trace read task, trace_id = 1573, value = 73.000000
+Trace read task, trace_id = 1574, value = 74.000000
+Trace read task, trace_id = 1575, value = 75.000000
+Trace read task, trace_id = 1576, value = 76.000000
+Trace read task, trace_id = 1577, value = 77.000000
+Trace read task, trace_id = 1578, value = 78.000000
+Trace read task, trace_id = 1579, value = 79.000000
+Trace read task, trace_id = 1580, value = 80.000000
+Trace read task, trace_id = 1581, value = 81.000000
+Trace read task, trace_id = 1582, value = 82.000000
+Trace read task, trace_id = 1583, value = 83.000000
+Trace read task, trace_id = 1584, value = 84.000000
+Trace read task, trace_id = 1585, value = 85.000000
+Trace read task, trace_id = 1586, value = 86.000000
+Trace read task, trace_id = 1587, value = 87.000000
+Trace read task, trace_id = 1588, value = 88.000000
+Trace read task, trace_id = 1589, value = 89.000000
+Trace read task, trace_id = 1590, value = 90.000000
+Trace read task, trace_id = 1591, value = 91.000000
+Trace read task, trace_id = 1592, value = 92.000000
+Trace read task, trace_id = 1593, value = 93.000000
+Trace read task, trace_id = 1594, value = 94.000000
+Trace read task, trace_id = 1595, value = 95.000000
+Trace read task, trace_id = 1596, value = 96.000000
+Trace read task, trace_id = 1597, value = 97.000000
+Trace read task, trace_id = 1598, value = 98.000000
+Trace read task, trace_id = 1599, value = 99.000000
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 1600, value = 0.000000
+Trace read task, trace_id = 1601, value = 1.000000
+Trace read task, trace_id = 1602, value = 2.000000
+Trace read task, trace_id = 1603, value = 3.000000
+Trace read task, trace_id = 1604, value = 4.000000
+Trace read task, trace_id = 1605, value = 5.000000
+Trace read task, trace_id = 1606, value = 6.000000
+Trace read task, trace_id = 1607, value = 7.000000
+Trace read task, trace_id = 1608, value = 8.000000
+Trace read task, trace_id = 1609, value = 9.000000
+Trace read task, trace_id = 1610, value = 10.000000
+Trace read task, trace_id = 1611, value = 11.000000
+Trace read task, trace_id = 1612, value = 12.000000
+Trace read task, trace_id = 1613, value = 13.000000
+Trace read task, trace_id = 1614, value = 14.000000
+Trace read task, trace_id = 1615, value = 15.000000
+Trace read task, trace_id = 1616, value = 16.000000
+Trace read task, trace_id = 1617, value = 17.000000
+Trace read task, trace_id = 1618, value = 18.000000
+Trace read task, trace_id = 1619, value = 19.000000
+Trace read task, trace_id = 1620, value = 20.000000
+Trace read task, trace_id = 1621, value = 21.000000
+Trace read task, trace_id = 1622, value = 22.000000
+Trace read task, trace_id = 1623, value = 23.000000
+Trace read task, trace_id = 1624, value = 24.000000
+Trace read task, trace_id = 1625, value = 25.000000
+Trace read task, trace_id = 1626, value = 26.000000
+Trace read task, trace_id = 1627, value = 27.000000
+Trace read task, trace_id = 1628, value = 28.000000
+Trace read task, trace_id = 1629, value = 29.000000
+Trace read task, trace_id = 1630, value = 30.000000
+Trace read task, trace_id = 1631, value = 31.000000
+Trace read task, trace_id = 1632, value = 32.000000
+Trace read task, trace_id = 1633, value = 33.000000
+Trace read task, trace_id = 1634, value = 34.000000
+Trace read task, trace_id = 1635, value = 35.000000
+Trace read task, trace_id = 1636, value = 36.000000
+Trace read task, trace_id = 1637, value = 37.000000
+Trace read task, trace_id = 1638, value = 38.000000
+Trace read task, trace_id = 1639, value = 39.000000
+Trace read task, trace_id = 1640, value = 40.000000
+Trace read task, trace_id = 1641, value = 41.000000
+Trace read task, trace_id = 1642, value = 42.000000
+Trace read task, trace_id = 1643, value = 43.000000
+Trace read task, trace_id = 1644, value = 44.000000
+Trace read task, trace_id = 1645, value = 45.000000
+Trace read task, trace_id = 1646, value = 46.000000
+Trace read task, trace_id = 1647, value = 47.000000
+Trace read task, trace_id = 1648, value = 48.000000
+Trace read task, trace_id = 1649, value = 49.000000
+Trace read task, trace_id = 1650, value = 50.000000
+Trace read task, trace_id = 1651, value = 51.000000
+Trace read task, trace_id = 1652, value = 52.000000
+Trace read task, trace_id = 1653, value = 53.000000
+Trace read task, trace_id = 1654, value = 54.000000
+Trace read task, trace_id = 1655, value = 55.000000
+Trace read task, trace_id = 1656, value = 56.000000
+Trace read task, trace_id = 1657, value = 57.000000
+Trace read task, trace_id = 1658, value = 58.000000
+Trace read task, trace_id = 1659, value = 59.000000
+Trace read task, trace_id = 1660, value = 60.000000
+Trace read task, trace_id = 1661, value = 61.000000
+Trace read task, trace_id = 1662, value = 62.000000
+Trace read task, trace_id = 1663, value = 63.000000
+Trace read task, trace_id = 1664, value = 64.000000
+Trace read task, trace_id = 1665, value = 65.000000
+Trace read task, trace_id = 1666, value = 66.000000
+Trace read task, trace_id = 1667, value = 67.000000
+Trace read task, trace_id = 1668, value = 68.000000
+Trace read task, trace_id = 1669, value = 69.000000
+Trace read task, trace_id = 1670, value = 70.000000
+Trace read task, trace_id = 1671, value = 71.000000
+Trace read task, trace_id = 1672, value = 72.000000
+Trace read task, trace_id = 1673, value = 73.000000
+Trace read task, trace_id = 1674, value = 74.000000
+Trace read task, trace_id = 1675, value = 75.000000
+Trace read task, trace_id = 1676, value = 76.000000
+Trace read task, trace_id = 1677, value = 77.000000
+Trace read task, trace_id = 1678, value = 78.000000
+Trace read task, trace_id = 1679, value = 79.000000
+Trace read task, trace_id = 1680, value = 80.000000
+Trace read task, trace_id = 1681, value = 81.000000
+Trace read task, trace_id = 1682, value = 82.000000
+Trace read task, trace_id = 1683, value = 83.000000
+Trace read task, trace_id = 1684, value = 84.000000
+Trace read task, trace_id = 1685, value = 85.000000
+Trace read task, trace_id = 1686, value = 86.000000
+Trace read task, trace_id = 1687, value = 87.000000
+Trace read task, trace_id = 1688, value = 88.000000
+Trace read task, trace_id = 1689, value = 89.000000
+Trace read task, trace_id = 1690, value = 90.000000
+Trace read task, trace_id = 1691, value = 91.000000
+Trace read task, trace_id = 1692, value = 92.000000
+Trace read task, trace_id = 1693, value = 93.000000
+Trace read task, trace_id = 1694, value = 94.000000
+Trace read task, trace_id = 1695, value = 95.000000
+Trace read task, trace_id = 1696, value = 96.000000
+Trace read task, trace_id = 1697, value = 97.000000
+Trace read task, trace_id = 1698, value = 98.000000
+Trace read task, trace_id = 1699, value = 99.000000
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 1700, value = 0.000000
+Trace read task, trace_id = 1701, value = 1.000000
+Trace read task, trace_id = 1702, value = 2.000000
+Trace read task, trace_id = 1703, value = 3.000000
+Trace read task, trace_id = 1704, value = 4.000000
+Trace read task, trace_id = 1705, value = 5.000000
+Trace read task, trace_id = 1706, value = 6.000000
+Trace read task, trace_id = 1707, value = 7.000000
+Trace read task, trace_id = 1708, value = 8.000000
+Trace read task, trace_id = 1709, value = 9.000000
+Trace read task, trace_id = 1710, value = 10.000000
+Trace read task, trace_id = 1711, value = 11.000000
+Trace read task, trace_id = 1712, value = 12.000000
+Trace read task, trace_id = 1713, value = 13.000000
+Trace read task, trace_id = 1714, value = 14.000000
+Trace read task, trace_id = 1715, value = 15.000000
+Trace read task, trace_id = 1716, value = 16.000000
+Trace read task, trace_id = 1717, value = 17.000000
+Trace read task, trace_id = 1718, value = 18.000000
+Trace read task, trace_id = 1719, value = 19.000000
+Trace read task, trace_id = 1720, value = 20.000000
+Trace read task, trace_id = 1721, value = 21.000000
+Trace read task, trace_id = 1722, value = 22.000000
+Trace read task, trace_id = 1723, value = 23.000000
+Trace read task, trace_id = 1724, value = 24.000000
+Trace read task, trace_id = 1725, value = 25.000000
+Trace read task, trace_id = 1726, value = 26.000000
+Trace read task, trace_id = 1727, value = 27.000000
+Trace read task, trace_id = 1728, value = 28.000000
+Trace read task, trace_id = 1729, value = 29.000000
+Trace read task, trace_id = 1730, value = 30.000000
+Trace read task, trace_id = 1731, value = 31.000000
+Trace read task, trace_id = 1732, value = 32.000000
+Trace read task, trace_id = 1733, value = 33.000000
+Trace read task, trace_id = 1734, value = 34.000000
+Trace read task, trace_id = 1735, value = 35.000000
+Trace read task, trace_id = 1736, value = 36.000000
+Trace read task, trace_id = 1737, value = 37.000000
+Trace read task, trace_id = 1738, value = 38.000000
+Trace read task, trace_id = 1739, value = 39.000000
+Trace read task, trace_id = 1740, value = 40.000000
+Trace read task, trace_id = 1741, value = 41.000000
+Trace read task, trace_id = 1742, value = 42.000000
+Trace read task, trace_id = 1743, value = 43.000000
+Trace read task, trace_id = 1744, value = 44.000000
+Trace read task, trace_id = 1745, value = 45.000000
+Trace read task, trace_id = 1746, value = 46.000000
+Trace read task, trace_id = 1747, value = 47.000000
+Trace read task, trace_id = 1748, value = 48.000000
+Trace read task, trace_id = 1749, value = 49.000000
+Trace read task, trace_id = 1750, value = 50.000000
+Trace read task, trace_id = 1751, value = 51.000000
+Trace read task, trace_id = 1752, value = 52.000000
+Trace read task, trace_id = 1753, value = 53.000000
+Trace read task, trace_id = 1754, value = 54.000000
+Trace read task, trace_id = 1755, value = 55.000000
+Trace read task, trace_id = 1756, value = 56.000000
+Trace read task, trace_id = 1757, value = 57.000000
+Trace read task, trace_id = 1758, value = 58.000000
+Trace read task, trace_id = 1759, value = 59.000000
+Trace read task, trace_id = 1760, value = 60.000000
+Trace read task, trace_id = 1761, value = 61.000000
+Trace read task, trace_id = 1762, value = 62.000000
+Trace read task, trace_id = 1763, value = 63.000000
+Trace read task, trace_id = 1764, value = 64.000000
+Trace read task, trace_id = 1765, value = 65.000000
+Trace read task, trace_id = 1766, value = 66.000000
+Trace read task, trace_id = 1767, value = 67.000000
+Trace read task, trace_id = 1768, value = 68.000000
+Trace read task, trace_id = 1769, value = 69.000000
+Trace read task, trace_id = 1770, value = 70.000000
+Trace read task, trace_id = 1771, value = 71.000000
+Trace read task, trace_id = 1772, value = 72.000000
+Trace read task, trace_id = 1773, value = 73.000000
+Trace read task, trace_id = 1774, value = 74.000000
+Trace read task, trace_id = 1775, value = 75.000000
+Trace read task, trace_id = 1776, value = 76.000000
+Trace read task, trace_id = 1777, value = 77.000000
+Trace read task, trace_id = 1778, value = 78.000000
+Trace read task, trace_id = 1779, value = 79.000000
+Trace read task, trace_id = 1780, value = 80.000000
+Trace read task, trace_id = 1781, value = 81.000000
+Trace read task, trace_id = 1782, value = 82.000000
+Trace read task, trace_id = 1783, value = 83.000000
+Trace read task, trace_id = 1784, value = 84.000000
+Trace read task, trace_id = 1785, value = 85.000000
+Trace read task, trace_id = 1786, value = 86.000000
+Trace read task, trace_id = 1787, value = 87.000000
+Trace read task, trace_id = 1788, value = 88.000000
+Trace read task, trace_id = 1789, value = 89.000000
+Trace read task, trace_id = 1790, value = 90.000000
+Trace read task, trace_id = 1791, value = 91.000000
+Trace read task, trace_id = 1792, value = 92.000000
+Trace read task, trace_id = 1793, value = 93.000000
+Trace read task, trace_id = 1794, value = 94.000000
+Trace read task, trace_id = 1795, value = 95.000000
+Trace read task, trace_id = 1796, value = 96.000000
+Trace read task, trace_id = 1797, value = 97.000000
+Trace read task, trace_id = 1798, value = 98.000000
+Trace read task, trace_id = 1799, value = 99.000000
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 1800, value = 0.000000
+Trace read task, trace_id = 1801, value = 1.000000
+Trace read task, trace_id = 1802, value = 2.000000
+Trace read task, trace_id = 1803, value = 3.000000
+Trace read task, trace_id = 1804, value = 4.000000
+Trace read task, trace_id = 1805, value = 5.000000
+Trace read task, trace_id = 1806, value = 6.000000
+Trace read task, trace_id = 1807, value = 7.000000
+Trace read task, trace_id = 1808, value = 8.000000
+Trace read task, trace_id = 1809, value = 9.000000
+Trace read task, trace_id = 1810, value = 10.000000
+Trace read task, trace_id = 1811, value = 11.000000
+Trace read task, trace_id = 1812, value = 12.000000
+Trace read task, trace_id = 1813, value = 13.000000
+Trace read task, trace_id = 1814, value = 14.000000
+Trace read task, trace_id = 1815, value = 15.000000
+Trace read task, trace_id = 1816, value = 16.000000
+Trace read task, trace_id = 1817, value = 17.000000
+Trace read task, trace_id = 1818, value = 18.000000
+Trace read task, trace_id = 1819, value = 19.000000
+Trace read task, trace_id = 1820, value = 20.000000
+Trace read task, trace_id = 1821, value = 21.000000
+Trace read task, trace_id = 1822, value = 22.000000
+Trace read task, trace_id = 1823, value = 23.000000
+Trace read task, trace_id = 1824, value = 24.000000
+Trace read task, trace_id = 1825, value = 25.000000
+Trace read task, trace_id = 1826, value = 26.000000
+Trace read task, trace_id = 1827, value = 27.000000
+Trace read task, trace_id = 1828, value = 28.000000
+Trace read task, trace_id = 1829, value = 29.000000
+Trace read task, trace_id = 1830, value = 30.000000
+Trace read task, trace_id = 1831, value = 31.000000
+Trace read task, trace_id = 1832, value = 32.000000
+Trace read task, trace_id = 1833, value = 33.000000
+Trace read task, trace_id = 1834, value = 34.000000
+Trace read task, trace_id = 1835, value = 35.000000
+Trace read task, trace_id = 1836, value = 36.000000
+Trace read task, trace_id = 1837, value = 37.000000
+Trace read task, trace_id = 1838, value = 38.000000
+Trace read task, trace_id = 1839, value = 39.000000
+Trace read task, trace_id = 1840, value = 40.000000
+Trace read task, trace_id = 1841, value = 41.000000
+Trace read task, trace_id = 1842, value = 42.000000
+Trace read task, trace_id = 1843, value = 43.000000
+Trace read task, trace_id = 1844, value = 44.000000
+Trace read task, trace_id = 1845, value = 45.000000
+Trace read task, trace_id = 1846, value = 46.000000
+Trace read task, trace_id = 1847, value = 47.000000
+Trace read task, trace_id = 1848, value = 48.000000
+Trace read task, trace_id = 1849, value = 49.000000
+Trace read task, trace_id = 1850, value = 50.000000
+Trace read task, trace_id = 1851, value = 51.000000
+Trace read task, trace_id = 1852, value = 52.000000
+Trace read task, trace_id = 1853, value = 53.000000
+Trace read task, trace_id = 1854, value = 54.000000
+Trace read task, trace_id = 1855, value = 55.000000
+Trace read task, trace_id = 1856, value = 56.000000
+Trace read task, trace_id = 1857, value = 57.000000
+Trace read task, trace_id = 1858, value = 58.000000
+Trace read task, trace_id = 1859, value = 59.000000
+Trace read task, trace_id = 1860, value = 60.000000
+Trace read task, trace_id = 1861, value = 61.000000
+Trace read task, trace_id = 1862, value = 62.000000
+Trace read task, trace_id = 1863, value = 63.000000
+Trace read task, trace_id = 1864, value = 64.000000
+Trace read task, trace_id = 1865, value = 65.000000
+Trace read task, trace_id = 1866, value = 66.000000
+Trace read task, trace_id = 1867, value = 67.000000
+Trace read task, trace_id = 1868, value = 68.000000
+Trace read task, trace_id = 1869, value = 69.000000
+Trace read task, trace_id = 1870, value = 70.000000
+Trace read task, trace_id = 1871, value = 71.000000
+Trace read task, trace_id = 1872, value = 72.000000
+Trace read task, trace_id = 1873, value = 73.000000
+Trace read task, trace_id = 1874, value = 74.000000
+Trace read task, trace_id = 1875, value = 75.000000
+Trace read task, trace_id = 1876, value = 76.000000
+Trace read task, trace_id = 1877, value = 77.000000
+Trace read task, trace_id = 1878, value = 78.000000
+Trace read task, trace_id = 1879, value = 79.000000
+Trace read task, trace_id = 1880, value = 80.000000
+Trace read task, trace_id = 1881, value = 81.000000
+Trace read task, trace_id = 1882, value = 82.000000
+Trace read task, trace_id = 1883, value = 83.000000
+Trace read task, trace_id = 1884, value = 84.000000
+Trace read task, trace_id = 1885, value = 85.000000
+Trace read task, trace_id = 1886, value = 86.000000
+Trace read task, trace_id = 1887, value = 87.000000
+Trace read task, trace_id = 1888, value = 88.000000
+Trace read task, trace_id = 1889, value = 89.000000
+Trace read task, trace_id = 1890, value = 90.000000
+Trace read task, trace_id = 1891, value = 91.000000
+Trace read task, trace_id = 1892, value = 92.000000
+Trace read task, trace_id = 1893, value = 93.000000
+Trace read task, trace_id = 1894, value = 94.000000
+Trace read task, trace_id = 1895, value = 95.000000
+Trace read task, trace_id = 1896, value = 96.000000
+Trace read task, trace_id = 1897, value = 97.000000
+Trace read task, trace_id = 1898, value = 98.000000
+Trace read task, trace_id = 1899, value = 99.000000
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 1900, value = 0.000000
+Trace read task, trace_id = 1901, value = 1.000000
+Trace read task, trace_id = 1902, value = 2.000000
+Trace read task, trace_id = 1903, value = 3.000000
+Trace read task, trace_id = 1904, value = 4.000000
+Trace read task, trace_id = 1905, value = 5.000000
+Trace read task, trace_id = 1906, value = 6.000000
+Trace read task, trace_id = 1907, value = 7.000000
+Trace read task, trace_id = 1908, value = 8.000000
+Trace read task, trace_id = 1909, value = 9.000000
+Trace read task, trace_id = 1910, value = 10.000000
+Trace read task, trace_id = 1911, value = 11.000000
+Trace read task, trace_id = 1912, value = 12.000000
+Trace read task, trace_id = 1913, value = 13.000000
+Trace read task, trace_id = 1914, value = 14.000000
+Trace read task, trace_id = 1915, value = 15.000000
+Trace read task, trace_id = 1916, value = 16.000000
+Trace read task, trace_id = 1917, value = 17.000000
+Trace read task, trace_id = 1918, value = 18.000000
+Trace read task, trace_id = 1919, value = 19.000000
+Trace read task, trace_id = 1920, value = 20.000000
+Trace read task, trace_id = 1921, value = 21.000000
+Trace read task, trace_id = 1922, value = 22.000000
+Trace read task, trace_id = 1923, value = 23.000000
+Trace read task, trace_id = 1924, value = 24.000000
+Trace read task, trace_id = 1925, value = 25.000000
+Trace read task, trace_id = 1926, value = 26.000000
+Trace read task, trace_id = 1927, value = 27.000000
+Trace read task, trace_id = 1928, value = 28.000000
+Trace read task, trace_id = 1929, value = 29.000000
+Trace read task, trace_id = 1930, value = 30.000000
+Trace read task, trace_id = 1931, value = 31.000000
+Trace read task, trace_id = 1932, value = 32.000000
+Trace read task, trace_id = 1933, value = 33.000000
+Trace read task, trace_id = 1934, value = 34.000000
+Trace read task, trace_id = 1935, value = 35.000000
+Trace read task, trace_id = 1936, value = 36.000000
+Trace read task, trace_id = 1937, value = 37.000000
+Trace read task, trace_id = 1938, value = 38.000000
+Trace read task, trace_id = 1939, value = 39.000000
+Trace read task, trace_id = 1940, value = 40.000000
+Trace read task, trace_id = 1941, value = 41.000000
+Trace read task, trace_id = 1942, value = 42.000000
+Trace read task, trace_id = 1943, value = 43.000000
+Trace read task, trace_id = 1944, value = 44.000000
+Trace read task, trace_id = 1945, value = 45.000000
+Trace read task, trace_id = 1946, value = 46.000000
+Trace read task, trace_id = 1947, value = 47.000000
+Trace read task, trace_id = 1948, value = 48.000000
+Trace read task, trace_id = 1949, value = 49.000000
+Trace read task, trace_id = 1950, value = 50.000000
+Trace read task, trace_id = 1951, value = 51.000000
+Trace read task, trace_id = 1952, value = 52.000000
+Trace read task, trace_id = 1953, value = 53.000000
+Trace read task, trace_id = 1954, value = 54.000000
+Trace read task, trace_id = 1955, value = 55.000000
+Trace read task, trace_id = 1956, value = 56.000000
+Trace read task, trace_id = 1957, value = 57.000000
+Trace read task, trace_id = 1958, value = 58.000000
+Trace read task, trace_id = 1959, value = 59.000000
+Trace read task, trace_id = 1960, value = 60.000000
+Trace read task, trace_id = 1961, value = 61.000000
+Trace read task, trace_id = 1962, value = 62.000000
+Trace read task, trace_id = 1963, value = 63.000000
+Trace read task, trace_id = 1964, value = 64.000000
+Trace read task, trace_id = 1965, value = 65.000000
+Trace read task, trace_id = 1966, value = 66.000000
+Trace read task, trace_id = 1967, value = 67.000000
+Trace read task, trace_id = 1968, value = 68.000000
+Trace read task, trace_id = 1969, value = 69.000000
+Trace read task, trace_id = 1970, value = 70.000000
+Trace read task, trace_id = 1971, value = 71.000000
+Trace read task, trace_id = 1972, value = 72.000000
+Trace read task, trace_id = 1973, value = 73.000000
+Trace read task, trace_id = 1974, value = 74.000000
+Trace read task, trace_id = 1975, value = 75.000000
+Trace read task, trace_id = 1976, value = 76.000000
+Trace read task, trace_id = 1977, value = 77.000000
+Trace read task, trace_id = 1978, value = 78.000000
+Trace read task, trace_id = 1979, value = 79.000000
+Trace read task, trace_id = 1980, value = 80.000000
+Trace read task, trace_id = 1981, value = 81.000000
+Trace read task, trace_id = 1982, value = 82.000000
+Trace read task, trace_id = 1983, value = 83.000000
+Trace read task, trace_id = 1984, value = 84.000000
+Trace read task, trace_id = 1985, value = 85.000000
+Trace read task, trace_id = 1986, value = 86.000000
+Trace read task, trace_id = 1987, value = 87.000000
+Trace read task, trace_id = 1988, value = 88.000000
+Trace read task, trace_id = 1989, value = 89.000000
+Trace read task, trace_id = 1990, value = 90.000000
+Trace read task, trace_id = 1991, value = 91.000000
+Trace read task, trace_id = 1992, value = 92.000000
+Trace read task, trace_id = 1993, value = 93.000000
+Trace read task, trace_id = 1994, value = 94.000000
+Trace read task, trace_id = 1995, value = 95.000000
+Trace read task, trace_id = 1996, value = 96.000000
+Trace read task, trace_id = 1997, value = 97.000000
+Trace read task, trace_id = 1998, value = 98.000000
+Trace read task, trace_id = 1999, value = 99.000000
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 2000, value = 0.000000
+Trace read task, trace_id = 2001, value = 1.000000
+Trace read task, trace_id = 2002, value = 2.000000
+Trace read task, trace_id = 2003, value = 3.000000
+Trace read task, trace_id = 2004, value = 4.000000
+Trace read task, trace_id = 2005, value = 5.000000
+Trace read task, trace_id = 2006, value = 6.000000
+Trace read task, trace_id = 2007, value = 7.000000
+Trace read task, trace_id = 2008, value = 8.000000
+Trace read task, trace_id = 2009, value = 9.000000
+Trace read task, trace_id = 2010, value = 10.000000
+Trace read task, trace_id = 2011, value = 11.000000
+Trace read task, trace_id = 2012, value = 12.000000
+Trace read task, trace_id = 2013, value = 13.000000
+Trace read task, trace_id = 2014, value = 14.000000
+Trace read task, trace_id = 2015, value = 15.000000
+Trace read task, trace_id = 2016, value = 16.000000
+Trace read task, trace_id = 2017, value = 17.000000
+Trace read task, trace_id = 2018, value = 18.000000
+Trace read task, trace_id = 2019, value = 19.000000
+Trace read task, trace_id = 2020, value = 20.000000
+Trace read task, trace_id = 2021, value = 21.000000
+Trace read task, trace_id = 2022, value = 22.000000
+Trace read task, trace_id = 2023, value = 23.000000
+Trace read task, trace_id = 2024, value = 24.000000
+Trace read task, trace_id = 2025, value = 25.000000
+Trace read task, trace_id = 2026, value = 26.000000
+Trace read task, trace_id = 2027, value = 27.000000
+Trace read task, trace_id = 2028, value = 28.000000
+Trace read task, trace_id = 2029, value = 29.000000
+Trace read task, trace_id = 2030, value = 30.000000
+Trace read task, trace_id = 2031, value = 31.000000
+Trace read task, trace_id = 2032, value = 32.000000
+Trace read task, trace_id = 2033, value = 33.000000
+Trace read task, trace_id = 2034, value = 34.000000
+Trace read task, trace_id = 2035, value = 35.000000
+Trace read task, trace_id = 2036, value = 36.000000
+Trace read task, trace_id = 2037, value = 37.000000
+Trace read task, trace_id = 2038, value = 38.000000
+Trace read task, trace_id = 2039, value = 39.000000
+Trace read task, trace_id = 2040, value = 40.000000
+Trace read task, trace_id = 2041, value = 41.000000
+Trace read task, trace_id = 2042, value = 42.000000
+Trace read task, trace_id = 2043, value = 43.000000
+Trace read task, trace_id = 2044, value = 44.000000
+Trace read task, trace_id = 2045, value = 45.000000
+Trace read task, trace_id = 2046, value = 46.000000
+Trace read task, trace_id = 2047, value = 47.000000
+Trace read task, trace_id = 2048, value = 48.000000
+Trace read task, trace_id = 2049, value = 49.000000
+Trace read task, trace_id = 2050, value = 50.000000
+Trace read task, trace_id = 2051, value = 51.000000
+Trace read task, trace_id = 2052, value = 52.000000
+Trace read task, trace_id = 2053, value = 53.000000
+Trace read task, trace_id = 2054, value = 54.000000
+Trace read task, trace_id = 2055, value = 55.000000
+Trace read task, trace_id = 2056, value = 56.000000
+Trace read task, trace_id = 2057, value = 57.000000
+Trace read task, trace_id = 2058, value = 58.000000
+Trace read task, trace_id = 2059, value = 59.000000
+Trace read task, trace_id = 2060, value = 60.000000
+Trace read task, trace_id = 2061, value = 61.000000
+Trace read task, trace_id = 2062, value = 62.000000
+Trace read task, trace_id = 2063, value = 63.000000
+Trace read task, trace_id = 2064, value = 64.000000
+Trace read task, trace_id = 2065, value = 65.000000
+Trace read task, trace_id = 2066, value = 66.000000
+Trace read task, trace_id = 2067, value = 67.000000
+Trace read task, trace_id = 2068, value = 68.000000
+Trace read task, trace_id = 2069, value = 69.000000
+Trace read task, trace_id = 2070, value = 70.000000
+Trace read task, trace_id = 2071, value = 71.000000
+Trace read task, trace_id = 2072, value = 72.000000
+Trace read task, trace_id = 2073, value = 73.000000
+Trace read task, trace_id = 2074, value = 74.000000
+Trace read task, trace_id = 2075, value = 75.000000
+Trace read task, trace_id = 2076, value = 76.000000
+Trace read task, trace_id = 2077, value = 77.000000
+Trace read task, trace_id = 2078, value = 78.000000
+Trace read task, trace_id = 2079, value = 79.000000
+Trace read task, trace_id = 2080, value = 80.000000
+Trace read task, trace_id = 2081, value = 81.000000
+Trace read task, trace_id = 2082, value = 82.000000
+Trace read task, trace_id = 2083, value = 83.000000
+Trace read task, trace_id = 2084, value = 84.000000
+Trace read task, trace_id = 2085, value = 85.000000
+Trace read task, trace_id = 2086, value = 86.000000
+Trace read task, trace_id = 2087, value = 87.000000
+Trace read task, trace_id = 2088, value = 88.000000
+Trace read task, trace_id = 2089, value = 89.000000
+Trace read task, trace_id = 2090, value = 90.000000
+Trace read task, trace_id = 2091, value = 91.000000
+Trace read task, trace_id = 2092, value = 92.000000
+Trace read task, trace_id = 2093, value = 93.000000
+Trace read task, trace_id = 2094, value = 94.000000
+Trace read task, trace_id = 2095, value = 95.000000
+Trace read task, trace_id = 2096, value = 96.000000
+Trace read task, trace_id = 2097, value = 97.000000
+Trace read task, trace_id = 2098, value = 98.000000
+Trace read task, trace_id = 2099, value = 99.000000
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 2100, value = 0.000000
+Trace read task, trace_id = 2101, value = 1.000000
+Trace read task, trace_id = 2102, value = 2.000000
+Trace read task, trace_id = 2103, value = 3.000000
+Trace read task, trace_id = 2104, value = 4.000000
+Trace read task, trace_id = 2105, value = 5.000000
+Trace read task, trace_id = 2106, value = 6.000000
+Trace read task, trace_id = 2107, value = 7.000000
+Trace read task, trace_id = 2108, value = 8.000000
+Trace read task, trace_id = 2109, value = 9.000000
+Trace read task, trace_id = 2110, value = 10.000000
+Trace read task, trace_id = 2111, value = 11.000000
+Trace read task, trace_id = 2112, value = 12.000000
+Trace read task, trace_id = 2113, value = 13.000000
+Trace read task, trace_id = 2114, value = 14.000000
+Trace read task, trace_id = 2115, value = 15.000000
+Trace read task, trace_id = 2116, value = 16.000000
+Trace read task, trace_id = 2117, value = 17.000000
+Trace read task, trace_id = 2118, value = 18.000000
+Trace read task, trace_id = 2119, value = 19.000000
+Trace read task, trace_id = 2120, value = 20.000000
+Trace read task, trace_id = 2121, value = 21.000000
+Trace read task, trace_id = 2122, value = 22.000000
+Trace read task, trace_id = 2123, value = 23.000000
+Trace read task, trace_id = 2124, value = 24.000000
+Trace read task, trace_id = 2125, value = 25.000000
+Trace read task, trace_id = 2126, value = 26.000000
+Trace read task, trace_id = 2127, value = 27.000000
+Trace read task, trace_id = 2128, value = 28.000000
+Trace read task, trace_id = 2129, value = 29.000000
+Trace read task, trace_id = 2130, value = 30.000000
+Trace read task, trace_id = 2131, value = 31.000000
+Trace read task, trace_id = 2132, value = 32.000000
+Trace read task, trace_id = 2133, value = 33.000000
+Trace read task, trace_id = 2134, value = 34.000000
+Trace read task, trace_id = 2135, value = 35.000000
+Trace read task, trace_id = 2136, value = 36.000000
+Trace read task, trace_id = 2137, value = 37.000000
+Trace read task, trace_id = 2138, value = 38.000000
+Trace read task, trace_id = 2139, value = 39.000000
+Trace read task, trace_id = 2140, value = 40.000000
+Trace read task, trace_id = 2141, value = 41.000000
+Trace read task, trace_id = 2142, value = 42.000000
+Trace read task, trace_id = 2143, value = 43.000000
+Trace read task, trace_id = 2144, value = 44.000000
+Trace read task, trace_id = 2145, value = 45.000000
+Trace read task, trace_id = 2146, value = 46.000000
+Trace read task, trace_id = 2147, value = 47.000000
+Trace read task, trace_id = 2148, value = 48.000000
+Trace read task, trace_id = 2149, value = 49.000000
+Trace read task, trace_id = 2150, value = 50.000000
+Trace read task, trace_id = 2151, value = 51.000000
+Trace read task, trace_id = 2152, value = 52.000000
+Trace read task, trace_id = 2153, value = 53.000000
+Trace read task, trace_id = 2154, value = 54.000000
+Trace read task, trace_id = 2155, value = 55.000000
+Trace read task, trace_id = 2156, value = 56.000000
+Trace read task, trace_id = 2157, value = 57.000000
+Trace read task, trace_id = 2158, value = 58.000000
+Trace read task, trace_id = 2159, value = 59.000000
+Trace read task, trace_id = 2160, value = 60.000000
+Trace read task, trace_id = 2161, value = 61.000000
+Trace read task, trace_id = 2162, value = 62.000000
+Trace read task, trace_id = 2163, value = 63.000000
+Trace read task, trace_id = 2164, value = 64.000000
+Trace read task, trace_id = 2165, value = 65.000000
+Trace read task, trace_id = 2166, value = 66.000000
+Trace read task, trace_id = 2167, value = 67.000000
+Trace read task, trace_id = 2168, value = 68.000000
+Trace read task, trace_id = 2169, value = 69.000000
+Trace read task, trace_id = 2170, value = 70.000000
+Trace read task, trace_id = 2171, value = 71.000000
+Trace read task, trace_id = 2172, value = 72.000000
+Trace read task, trace_id = 2173, value = 73.000000
+Trace read task, trace_id = 2174, value = 74.000000
+Trace read task, trace_id = 2175, value = 75.000000
+Trace read task, trace_id = 2176, value = 76.000000
+Trace read task, trace_id = 2177, value = 77.000000
+Trace read task, trace_id = 2178, value = 78.000000
+Trace read task, trace_id = 2179, value = 79.000000
+Trace read task, trace_id = 2180, value = 80.000000
+Trace read task, trace_id = 2181, value = 81.000000
+Trace read task, trace_id = 2182, value = 82.000000
+Trace read task, trace_id = 2183, value = 83.000000
+Trace read task, trace_id = 2184, value = 84.000000
+Trace read task, trace_id = 2185, value = 85.000000
+Trace read task, trace_id = 2186, value = 86.000000
+Trace read task, trace_id = 2187, value = 87.000000
+Trace read task, trace_id = 2188, value = 88.000000
+Trace read task, trace_id = 2189, value = 89.000000
+Trace read task, trace_id = 2190, value = 90.000000
+Trace read task, trace_id = 2191, value = 91.000000
+Trace read task, trace_id = 2192, value = 92.000000
+Trace read task, trace_id = 2193, value = 93.000000
+Trace read task, trace_id = 2194, value = 94.000000
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 2195, value = 95.000000
+Trace read task, trace_id = 2196, value = 96.000000
+Trace read task, trace_id = 2197, value = 97.000000
+Trace read task, trace_id = 2198, value = 98.000000
+Trace read task, trace_id = 2199, value = 99.000000
+Trace read task, trace_id = 2200, value = 0.000000
+Trace read task, trace_id = 2201, value = 1.000000
+Trace read task, trace_id = 2202, value = 2.000000
+Trace read task, trace_id = 2203, value = 3.000000
+Trace read task, trace_id = 2204, value = 4.000000
+Trace read task, trace_id = 2205, value = 5.000000
+Trace read task, trace_id = 2206, value = 6.000000
+Trace read task, trace_id = 2207, value = 7.000000
+Trace read task, trace_id = 2208, value = 8.000000
+Trace read task, trace_id = 2209, value = 9.000000
+Trace read task, trace_id = 2210, value = 10.000000
+Trace read task, trace_id = 2211, value = 11.000000
+Trace read task, trace_id = 2212, value = 12.000000
+Trace read task, trace_id = 2213, value = 13.000000
+Trace read task, trace_id = 2214, value = 14.000000
+Trace read task, trace_id = 2215, value = 15.000000
+Trace read task, trace_id = 2216, value = 16.000000
+Trace read task, trace_id = 2217, value = 17.000000
+Trace read task, trace_id = 2218, value = 18.000000
+Trace read task, trace_id = 2219, value = 19.000000
+Trace read task, trace_id = 2220, value = 20.000000
+Trace read task, trace_id = 2221, value = 21.000000
+Trace read task, trace_id = 2222, value = 22.000000
+Trace read task, trace_id = 2223, value = 23.000000
+Trace read task, trace_id = 2224, value = 24.000000
+Trace read task, trace_id = 2225, value = 25.000000
+Trace read task, trace_id = 2226, value = 26.000000
+Trace read task, trace_id = 2227, value = 27.000000
+Trace read task, trace_id = 2228, value = 28.000000
+Trace read task, trace_id = 2229, value = 29.000000
+Trace read task, trace_id = 2230, value = 30.000000
+Trace read task, trace_id = 2231, value = 31.000000
+Trace read task, trace_id = 2232, value = 32.000000
+Trace read task, trace_id = 2233, value = 33.000000
+Trace read task, trace_id = 2234, value = 34.000000
+Trace read task, trace_id = 2235, value = 35.000000
+Trace read task, trace_id = 2236, value = 36.000000
+Trace read task, trace_id = 2237, value = 37.000000
+Trace read task, trace_id = 2238, value = 38.000000
+Trace read task, trace_id = 2239, value = 39.000000
+Trace read task, trace_id = 2240, value = 40.000000
+Trace read task, trace_id = 2241, value = 41.000000
+Trace read task, trace_id = 2242, value = 42.000000
+Trace read task, trace_id = 2243, value = 43.000000
+Trace read task, trace_id = 2244, value = 44.000000
+Trace read task, trace_id = 2245, value = 45.000000
+Trace read task, trace_id = 2246, value = 46.000000
+Trace read task, trace_id = 2247, value = 47.000000
+Trace read task, trace_id = 2248, value = 48.000000
+Trace read task, trace_id = 2249, value = 49.000000
+Trace read task, trace_id = 2250, value = 50.000000
+Trace read task, trace_id = 2251, value = 51.000000
+Trace read task, trace_id = 2252, value = 52.000000
+Trace read task, trace_id = 2253, value = 53.000000
+Trace read task, trace_id = 2254, value = 54.000000
+Trace read task, trace_id = 2255, value = 55.000000
+Trace read task, trace_id = 2256, value = 56.000000
+Trace read task, trace_id = 2257, value = 57.000000
+Trace read task, trace_id = 2258, value = 58.000000
+Trace read task, trace_id = 2259, value = 59.000000
+Trace read task, trace_id = 2260, value = 60.000000
+Trace read task, trace_id = 2261, value = 61.000000
+Trace read task, trace_id = 2262, value = 62.000000
+Trace read task, trace_id = 2263, value = 63.000000
+Trace read task, trace_id = 2264, value = 64.000000
+Trace read task, trace_id = 2265, value = 65.000000
+Trace read task, trace_id = 2266, value = 66.000000
+Trace read task, trace_id = 2267, value = 67.000000
+Trace read task, trace_id = 2268, value = 68.000000
+Trace read task, trace_id = 2269, value = 69.000000
+Trace read task, trace_id = 2270, value = 70.000000
+Trace read task, trace_id = 2271, value = 71.000000
+Trace read task, trace_id = 2272, value = 72.000000
+Trace read task, trace_id = 2273, value = 73.000000
+Trace read task, trace_id = 2274, value = 74.000000
+Trace read task, trace_id = 2275, value = 75.000000
+Trace read task, trace_id = 2276, value = 76.000000
+Trace read task, trace_id = 2277, value = 77.000000
+Trace read task, trace_id = 2278, value = 78.000000
+Trace read task, trace_id = 2279, value = 79.000000
+Trace read task, trace_id = 2280, value = 80.000000
+Trace read task, trace_id = 2281, value = 81.000000
+Trace read task, trace_id = 2282, value = 82.000000
+Trace read task, trace_id = 2283, value = 83.000000
+Trace read task, trace_id = 2284, value = 84.000000
+Trace read task, trace_id = 2285, value = 85.000000
+Trace read task, trace_id = 2286, value = 86.000000
+Trace read task, trace_id = 2287, value = 87.000000
+Trace read task, trace_id = 2288, value = 88.000000
+Trace read task, trace_id = 2289, value = 89.000000
+Trace read task, trace_id = 2290, value = 90.000000
+Trace read task, trace_id = 2291, value = 91.000000
+Trace read task, trace_id = 2292, value = 92.000000
+Trace read task, trace_id = 2293, value = 93.000000
+Trace read task, trace_id = 2294, value = 94.000000
+Trace read task, trace_id = 2295, value = 95.000000
+Trace read task, trace_id = 2296, value = 96.000000
+Trace read task, trace_id = 2297, value = 97.000000
+Trace read task, trace_id = 2298, value = 98.000000
+Trace read task, trace_id = 2299, value = 99.000000
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 2300, value = 0.000000
+Trace read task, trace_id = 2301, value = 1.000000
+Trace read task, trace_id = 2302, value = 2.000000
+Trace read task, trace_id = 2303, value = 3.000000
+Trace read task, trace_id = 2304, value = 4.000000
+Trace read task, trace_id = 2305, value = 5.000000
+Trace read task, trace_id = 2306, value = 6.000000
+Trace read task, trace_id = 2307, value = 7.000000
+Trace read task, trace_id = 2308, value = 8.000000
+Trace read task, trace_id = 2309, value = 9.000000
+Trace read task, trace_id = 2310, value = 10.000000
+Trace read task, trace_id = 2311, value = 11.000000
+Trace read task, trace_id = 2312, value = 12.000000
+Trace read task, trace_id = 2313, value = 13.000000
+Trace read task, trace_id = 2314, value = 14.000000
+Trace read task, trace_id = 2315, value = 15.000000
+Trace read task, trace_id = 2316, value = 16.000000
+Trace read task, trace_id = 2317, value = 17.000000
+Trace read task, trace_id = 2318, value = 18.000000
+Trace read task, trace_id = 2319, value = 19.000000
+Trace read task, trace_id = 2320, value = 20.000000
+Trace read task, trace_id = 2321, value = 21.000000
+Trace read task, trace_id = 2322, value = 22.000000
+Trace read task, trace_id = 2323, value = 23.000000
+Trace read task, trace_id = 2324, value = 24.000000
+Trace read task, trace_id = 2325, value = 25.000000
+Trace read task, trace_id = 2326, value = 26.000000
+Trace read task, trace_id = 2327, value = 27.000000
+Trace read task, trace_id = 2328, value = 28.000000
+Trace read task, trace_id = 2329, value = 29.000000
+Trace read task, trace_id = 2330, value = 30.000000
+Trace read task, trace_id = 2331, value = 31.000000
+Trace read task, trace_id = 2332, value = 32.000000
+Trace read task, trace_id = 2333, value = 33.000000
+Trace read task, trace_id = 2334, value = 34.000000
+Trace read task, trace_id = 2335, value = 35.000000
+Trace read task, trace_id = 2336, value = 36.000000
+Trace read task, trace_id = 2337, value = 37.000000
+Trace read task, trace_id = 2338, value = 38.000000
+Trace read task, trace_id = 2339, value = 39.000000
+Trace read task, trace_id = 2340, value = 40.000000
+Trace read task, trace_id = 2341, value = 41.000000
+Trace read task, trace_id = 2342, value = 42.000000
+Trace read task, trace_id = 2343, value = 43.000000
+Trace read task, trace_id = 2344, value = 44.000000
+Trace read task, trace_id = 2345, value = 45.000000
+Trace read task, trace_id = 2346, value = 46.000000
+Trace read task, trace_id = 2347, value = 47.000000
+Trace read task, trace_id = 2348, value = 48.000000
+Trace read task, trace_id = 2349, value = 49.000000
+Trace read task, trace_id = 2350, value = 50.000000
+Trace read task, trace_id = 2351, value = 51.000000
+Trace read task, trace_id = 2352, value = 52.000000
+Trace read task, trace_id = 2353, value = 53.000000
+Trace read task, trace_id = 2354, value = 54.000000
+Trace read task, trace_id = 2355, value = 55.000000
+Trace read task, trace_id = 2356, value = 56.000000
+Trace read task, trace_id = 2357, value = 57.000000
+Trace read task, trace_id = 2358, value = 58.000000
+Trace read task, trace_id = 2359, value = 59.000000
+Trace read task, trace_id = 2360, value = 60.000000
+Trace read task, trace_id = 2361, value = 61.000000
+Trace read task, trace_id = 2362, value = 62.000000
+Trace read task, trace_id = 2363, value = 63.000000
+Trace read task, trace_id = 2364, value = 64.000000
+Trace read task, trace_id = 2365, value = 65.000000
+Trace read task, trace_id = 2366, value = 66.000000
+Trace read task, trace_id = 2367, value = 67.000000
+Trace read task, trace_id = 2368, value = 68.000000
+Trace read task, trace_id = 2369, value = 69.000000
+Trace read task, trace_id = 2370, value = 70.000000
+Trace read task, trace_id = 2371, value = 71.000000
+Trace read task, trace_id = 2372, value = 72.000000
+Trace read task, trace_id = 2373, value = 73.000000
+Trace read task, trace_id = 2374, value = 74.000000
+Trace read task, trace_id = 2375, value = 75.000000
+Trace read task, trace_id = 2376, value = 76.000000
+Trace read task, trace_id = 2377, value = 77.000000
+Trace read task, trace_id = 2378, value = 78.000000
+Trace read task, trace_id = 2379, value = 79.000000
+Trace read task, trace_id = 2380, value = 80.000000
+Trace read task, trace_id = 2381, value = 81.000000
+Trace read task, trace_id = 2382, value = 82.000000
+Trace read task, trace_id = 2383, value = 83.000000
+Trace read task, trace_id = 2384, value = 84.000000
+Trace read task, trace_id = 2385, value = 85.000000
+Trace read task, trace_id = 2386, value = 86.000000
+Trace read task, trace_id = 2387, value = 87.000000
+Trace read task, trace_id = 2388, value = 88.000000
+Trace read task, trace_id = 2389, value = 89.000000
+Trace read task, trace_id = 2390, value = 90.000000
+Trace read task, trace_id = 2391, value = 91.000000
+Trace read task, trace_id = 2392, value = 92.000000
+Trace read task, trace_id = 2393, value = 93.000000
+Trace read task, trace_id = 2394, value = 94.000000
+Trace read task, trace_id = 2395, value = 95.000000
+Trace read task, trace_id = 2396, value = 96.000000
+Trace read task, trace_id = 2397, value = 97.000000
+Trace read task, trace_id = 2398, value = 98.000000
+Trace read task, trace_id = 2399, value = 99.000000
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 2400, value = 0.000000
+Trace read task, trace_id = 2401, value = 1.000000
+Trace read task, trace_id = 2402, value = 2.000000
+Trace read task, trace_id = 2403, value = 3.000000
+Trace read task, trace_id = 2404, value = 4.000000
+Trace read task, trace_id = 2405, value = 5.000000
+Trace read task, trace_id = 2406, value = 6.000000
+Trace read task, trace_id = 2407, value = 7.000000
+Trace read task, trace_id = 2408, value = 8.000000
+Trace read task, trace_id = 2409, value = 9.000000
+Trace read task, trace_id = 2410, value = 10.000000
+Trace read task, trace_id = 2411, value = 11.000000
+Trace read task, trace_id = 2412, value = 12.000000
+Trace read task, trace_id = 2413, value = 13.000000
+Trace read task, trace_id = 2414, value = 14.000000
+Trace read task, trace_id = 2415, value = 15.000000
+Trace read task, trace_id = 2416, value = 16.000000
+Trace read task, trace_id = 2417, value = 17.000000
+Trace read task, trace_id = 2418, value = 18.000000
+Trace read task, trace_id = 2419, value = 19.000000
+Trace read task, trace_id = 2420, value = 20.000000
+Trace read task, trace_id = 2421, value = 21.000000
+Trace read task, trace_id = 2422, value = 22.000000
+Trace read task, trace_id = 2423, value = 23.000000
+Trace read task, trace_id = 2424, value = 24.000000
+Trace read task, trace_id = 2425, value = 25.000000
+Trace read task, trace_id = 2426, value = 26.000000
+Trace read task, trace_id = 2427, value = 27.000000
+Trace read task, trace_id = 2428, value = 28.000000
+Trace read task, trace_id = 2429, value = 29.000000
+Trace read task, trace_id = 2430, value = 30.000000
+Trace read task, trace_id = 2431, value = 31.000000
+Trace read task, trace_id = 2432, value = 32.000000
+Trace read task, trace_id = 2433, value = 33.000000
+Trace read task, trace_id = 2434, value = 34.000000
+Trace read task, trace_id = 2435, value = 35.000000
+Trace read task, trace_id = 2436, value = 36.000000
+Trace read task, trace_id = 2437, value = 37.000000
+Trace read task, trace_id = 2438, value = 38.000000
+Trace read task, trace_id = 2439, value = 39.000000
+Trace read task, trace_id = 2440, value = 40.000000
+Trace read task, trace_id = 2441, value = 41.000000
+Trace read task, trace_id = 2442, value = 42.000000
+Trace read task, trace_id = 2443, value = 43.000000
+Trace read task, trace_id = 2444, value = 44.000000
+Trace read task, trace_id = 2445, value = 45.000000
+Trace read task, trace_id = 2446, value = 46.000000
+Trace read task, trace_id = 2447, value = 47.000000
+Trace read task, trace_id = 2448, value = 48.000000
+Trace read task, trace_id = 2449, value = 49.000000
+Trace read task, trace_id = 2450, value = 50.000000
+Trace read task, trace_id = 2451, value = 51.000000
+Trace read task, trace_id = 2452, value = 52.000000
+Trace read task, trace_id = 2453, value = 53.000000
+Trace read task, trace_id = 2454, value = 54.000000
+Trace read task, trace_id = 2455, value = 55.000000
+Trace read task, trace_id = 2456, value = 56.000000
+Trace read task, trace_id = 2457, value = 57.000000
+Trace read task, trace_id = 2458, value = 58.000000
+Trace read task, trace_id = 2459, value = 59.000000
+Trace read task, trace_id = 2460, value = 60.000000
+Trace read task, trace_id = 2461, value = 61.000000
+Trace read task, trace_id = 2462, value = 62.000000
+Trace read task, trace_id = 2463, value = 63.000000
+Trace read task, trace_id = 2464, value = 64.000000
+Trace read task, trace_id = 2465, value = 65.000000
+Trace read task, trace_id = 2466, value = 66.000000
+Trace read task, trace_id = 2467, value = 67.000000
+Trace read task, trace_id = 2468, value = 68.000000
+Trace read task, trace_id = 2469, value = 69.000000
+Trace read task, trace_id = 2470, value = 70.000000
+Trace read task, trace_id = 2471, value = 71.000000
+Trace read task, trace_id = 2472, value = 72.000000
+Trace read task, trace_id = 2473, value = 73.000000
+Trace read task, trace_id = 2474, value = 74.000000
+Trace read task, trace_id = 2475, value = 75.000000
+Trace read task, trace_id = 2476, value = 76.000000
+Trace read task, trace_id = 2477, value = 77.000000
+Trace read task, trace_id = 2478, value = 78.000000
+Trace read task, trace_id = 2479, value = 79.000000
+Trace read task, trace_id = 2480, value = 80.000000
+Trace read task, trace_id = 2481, value = 81.000000
+Trace read task, trace_id = 2482, value = 82.000000
+Trace read task, trace_id = 2483, value = 83.000000
+Trace read task, trace_id = 2484, value = 84.000000
+Trace read task, trace_id = 2485, value = 85.000000
+Trace read task, trace_id = 2486, value = 86.000000
+Trace read task, trace_id = 2487, value = 87.000000
+Trace read task, trace_id = 2488, value = 88.000000
+Trace read task, trace_id = 2489, value = 89.000000
+Trace read task, trace_id = 2490, value = 90.000000
+Trace read task, trace_id = 2491, value = 91.000000
+Trace read task, trace_id = 2492, value = 92.000000
+Trace read task, trace_id = 2493, value = 93.000000
+Trace read task, trace_id = 2494, value = 94.000000
+Trace read task, trace_id = 2495, value = 95.000000
+Trace read task, trace_id = 2496, value = 96.000000
+Trace read task, trace_id = 2497, value = 97.000000
+Trace read task, trace_id = 2498, value = 98.000000
+Trace read task, trace_id = 2499, value = 99.000000
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 2500, value = 0.000000
+Trace read task, trace_id = 2501, value = 1.000000
+Trace read task, trace_id = 2502, value = 2.000000
+Trace read task, trace_id = 2503, value = 3.000000
+Trace read task, trace_id = 2504, value = 4.000000
+Trace read task, trace_id = 2505, value = 5.000000
+Trace read task, trace_id = 2506, value = 6.000000
+Trace read task, trace_id = 2507, value = 7.000000
+Trace read task, trace_id = 2508, value = 8.000000
+Trace read task, trace_id = 2509, value = 9.000000
+Trace read task, trace_id = 2510, value = 10.000000
+Trace read task, trace_id = 2511, value = 11.000000
+Trace read task, trace_id = 2512, value = 12.000000
+Trace read task, trace_id = 2513, value = 13.000000
+Trace read task, trace_id = 2514, value = 14.000000
+Trace read task, trace_id = 2515, value = 15.000000
+Trace read task, trace_id = 2516, value = 16.000000
+Trace read task, trace_id = 2517, value = 17.000000
+Trace read task, trace_id = 2518, value = 18.000000
+Trace read task, trace_id = 2519, value = 19.000000
+Trace read task, trace_id = 2520, value = 20.000000
+Trace read task, trace_id = 2521, value = 21.000000
+Trace read task, trace_id = 2522, value = 22.000000
+Trace read task, trace_id = 2523, value = 23.000000
+Trace read task, trace_id = 2524, value = 24.000000
+Trace read task, trace_id = 2525, value = 25.000000
+Trace read task, trace_id = 2526, value = 26.000000
+Trace read task, trace_id = 2527, value = 27.000000
+Trace read task, trace_id = 2528, value = 28.000000
+Trace read task, trace_id = 2529, value = 29.000000
+Trace read task, trace_id = 2530, value = 30.000000
+Trace read task, trace_id = 2531, value = 31.000000
+Trace read task, trace_id = 2532, value = 32.000000
+Trace read task, trace_id = 2533, value = 33.000000
+Trace read task, trace_id = 2534, value = 34.000000
+Trace read task, trace_id = 2535, value = 35.000000
+Trace read task, trace_id = 2536, value = 36.000000
+Trace read task, trace_id = 2537, value = 37.000000
+Trace read task, trace_id = 2538, value = 38.000000
+Trace read task, trace_id = 2539, value = 39.000000
+Trace read task, trace_id = 2540, value = 40.000000
+Trace read task, trace_id = 2541, value = 41.000000
+Trace read task, trace_id = 2542, value = 42.000000
+Trace read task, trace_id = 2543, value = 43.000000
+Trace read task, trace_id = 2544, value = 44.000000
+Trace read task, trace_id = 2545, value = 45.000000
+Trace read task, trace_id = 2546, value = 46.000000
+Trace read task, trace_id = 2547, value = 47.000000
+Trace read task, trace_id = 2548, value = 48.000000
+Trace read task, trace_id = 2549, value = 49.000000
+Trace read task, trace_id = 2550, value = 50.000000
+Trace read task, trace_id = 2551, value = 51.000000
+Trace read task, trace_id = 2552, value = 52.000000
+Trace read task, trace_id = 2553, value = 53.000000
+Trace read task, trace_id = 2554, value = 54.000000
+Trace read task, trace_id = 2555, value = 55.000000
+Trace read task, trace_id = 2556, value = 56.000000
+Trace read task, trace_id = 2557, value = 57.000000
+Trace read task, trace_id = 2558, value = 58.000000
+Trace read task, trace_id = 2559, value = 59.000000
+Trace read task, trace_id = 2560, value = 60.000000
+Trace read task, trace_id = 2561, value = 61.000000
+Trace read task, trace_id = 2562, value = 62.000000
+Trace read task, trace_id = 2563, value = 63.000000
+Trace read task, trace_id = 2564, value = 64.000000
+Trace read task, trace_id = 2565, value = 65.000000
+Trace read task, trace_id = 2566, value = 66.000000
+Trace read task, trace_id = 2567, value = 67.000000
+Trace read task, trace_id = 2568, value = 68.000000
+Trace read task, trace_id = 2569, value = 69.000000
+Trace read task, trace_id = 2570, value = 70.000000
+Trace read task, trace_id = 2571, value = 71.000000
+Trace read task, trace_id = 2572, value = 72.000000
+Trace read task, trace_id = 2573, value = 73.000000
+Trace read task, trace_id = 2574, value = 74.000000
+Trace read task, trace_id = 2575, value = 75.000000
+Trace read task, trace_id = 2576, value = 76.000000
+Trace read task, trace_id = 2577, value = 77.000000
+Trace read task, trace_id = 2578, value = 78.000000
+Trace read task, trace_id = 2579, value = 79.000000
+Trace read task, trace_id = 2580, value = 80.000000
+Trace read task, trace_id = 2581, value = 81.000000
+Trace read task, trace_id = 2582, value = 82.000000
+Trace read task, trace_id = 2583, value = 83.000000
+Trace read task, trace_id = 2584, value = 84.000000
+Trace read task, trace_id = 2585, value = 85.000000
+Trace read task, trace_id = 2586, value = 86.000000
+Trace read task, trace_id = 2587, value = 87.000000
+Trace read task, trace_id = 2588, value = 88.000000
+Trace read task, trace_id = 2589, value = 89.000000
+Trace read task, trace_id = 2590, value = 90.000000
+Trace read task, trace_id = 2591, value = 91.000000
+Trace read task, trace_id = 2592, value = 92.000000
+Trace read task, trace_id = 2593, value = 93.000000
+Trace read task, trace_id = 2594, value = 94.000000
+Trace read task, trace_id = 2595, value = 95.000000
+Trace read task, trace_id = 2596, value = 96.000000
+Trace read task, trace_id = 2597, value = 97.000000
+Trace read task, trace_id = 2598, value = 98.000000
+Trace read task, trace_id = 2599, value = 99.000000
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 2600, value = 0.000000
+Trace read task, trace_id = 2601, value = 1.000000
+Trace read task, trace_id = 2602, value = 2.000000
+Trace read task, trace_id = 2603, value = 3.000000
+Trace read task, trace_id = 2604, value = 4.000000
+Trace read task, trace_id = 2605, value = 5.000000
+Trace read task, trace_id = 2606, value = 6.000000
+Trace read task, trace_id = 2607, value = 7.000000
+Trace read task, trace_id = 2608, value = 8.000000
+Trace read task, trace_id = 2609, value = 9.000000
+Trace read task, trace_id = 2610, value = 10.000000
+Trace read task, trace_id = 2611, value = 11.000000
+Trace read task, trace_id = 2612, value = 12.000000
+Trace read task, trace_id = 2613, value = 13.000000
+Trace read task, trace_id = 2614, value = 14.000000
+Trace read task, trace_id = 2615, value = 15.000000
+Trace read task, trace_id = 2616, value = 16.000000
+Trace read task, trace_id = 2617, value = 17.000000
+Trace read task, trace_id = 2618, value = 18.000000
+Trace read task, trace_id = 2619, value = 19.000000
+Trace read task, trace_id = 2620, value = 20.000000
+Trace read task, trace_id = 2621, value = 21.000000
+Trace read task, trace_id = 2622, value = 22.000000
+Trace read task, trace_id = 2623, value = 23.000000
+Trace read task, trace_id = 2624, value = 24.000000
+Trace read task, trace_id = 2625, value = 25.000000
+Trace read task, trace_id = 2626, value = 26.000000
+Trace read task, trace_id = 2627, value = 27.000000
+Trace read task, trace_id = 2628, value = 28.000000
+Trace read task, trace_id = 2629, value = 29.000000
+Trace read task, trace_id = 2630, value = 30.000000
+Trace read task, trace_id = 2631, value = 31.000000
+Trace read task, trace_id = 2632, value = 32.000000
+Trace read task, trace_id = 2633, value = 33.000000
+Trace read task, trace_id = 2634, value = 34.000000
+Trace read task, trace_id = 2635, value = 35.000000
+Trace read task, trace_id = 2636, value = 36.000000
+Trace read task, trace_id = 2637, value = 37.000000
+Trace read task, trace_id = 2638, value = 38.000000
+Trace read task, trace_id = 2639, value = 39.000000
+Trace read task, trace_id = 2640, value = 40.000000
+Trace read task, trace_id = 2641, value = 41.000000
+Trace read task, trace_id = 2642, value = 42.000000
+Trace read task, trace_id = 2643, value = 43.000000
+Trace read task, trace_id = 2644, value = 44.000000
+Trace read task, trace_id = 2645, value = 45.000000
+Trace read task, trace_id = 2646, value = 46.000000
+Trace read task, trace_id = 2647, value = 47.000000
+Trace read task, trace_id = 2648, value = 48.000000
+Trace read task, trace_id = 2649, value = 49.000000
+Trace read task, trace_id = 2650, value = 50.000000
+Trace read task, trace_id = 2651, value = 51.000000
+Trace read task, trace_id = 2652, value = 52.000000
+Trace read task, trace_id = 2653, value = 53.000000
+Trace read task, trace_id = 2654, value = 54.000000
+Trace read task, trace_id = 2655, value = 55.000000
+Trace read task, trace_id = 2656, value = 56.000000
+Trace read task, trace_id = 2657, value = 57.000000
+Trace read task, trace_id = 2658, value = 58.000000
+Trace read task, trace_id = 2659, value = 59.000000
+Trace read task, trace_id = 2660, value = 60.000000
+Trace read task, trace_id = 2661, value = 61.000000
+Trace read task, trace_id = 2662, value = 62.000000
+Trace read task, trace_id = 2663, value = 63.000000
+Trace read task, trace_id = 2664, value = 64.000000
+Trace read task, trace_id = 2665, value = 65.000000
+Trace read task, trace_id = 2666, value = 66.000000
+Trace read task, trace_id = 2667, value = 67.000000
+Trace read task, trace_id = 2668, value = 68.000000
+Trace read task, trace_id = 2669, value = 69.000000
+Trace read task, trace_id = 2670, value = 70.000000
+Trace read task, trace_id = 2671, value = 71.000000
+Trace read task, trace_id = 2672, value = 72.000000
+Trace read task, trace_id = 2673, value = 73.000000
+Trace read task, trace_id = 2674, value = 74.000000
+Trace read task, trace_id = 2675, value = 75.000000
+Trace read task, trace_id = 2676, value = 76.000000
+Trace read task, trace_id = 2677, value = 77.000000
+Trace read task, trace_id = 2678, value = 78.000000
+Trace read task, trace_id = 2679, value = 79.000000
+Trace read task, trace_id = 2680, value = 80.000000
+Trace read task, trace_id = 2681, value = 81.000000
+Trace read task, trace_id = 2682, value = 82.000000
+Trace read task, trace_id = 2683, value = 83.000000
+Trace read task, trace_id = 2684, value = 84.000000
+Trace read task, trace_id = 2685, value = 85.000000
+Trace read task, trace_id = 2686, value = 86.000000
+Trace read task, trace_id = 2687, value = 87.000000
+Trace read task, trace_id = 2688, value = 88.000000
+Trace read task, trace_id = 2689, value = 89.000000
+Trace read task, trace_id = 2690, value = 90.000000
+Trace read task, trace_id = 2691, value = 91.000000
+Trace read task, trace_id = 2692, value = 92.000000
+Trace read task, trace_id = 2693, value = 93.000000
+Trace read task, trace_id = 2694, value = 94.000000
+Trace read task, trace_id = 2695, value = 95.000000
+Trace read task, trace_id = 2696, value = 96.000000
+Trace read task, trace_id = 2697, value = 97.000000
+Trace read task, trace_id = 2698, value = 98.000000
+Trace read task, trace_id = 2699, value = 99.000000
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 2700, value = 0.000000
+Trace read task, trace_id = 2701, value = 1.000000
+Trace read task, trace_id = 2702, value = 2.000000
+Trace read task, trace_id = 2703, value = 3.000000
+Trace read task, trace_id = 2704, value = 4.000000
+Trace read task, trace_id = 2705, value = 5.000000
+Trace read task, trace_id = 2706, value = 6.000000
+Trace read task, trace_id = 2707, value = 7.000000
+Trace read task, trace_id = 2708, value = 8.000000
+Trace read task, trace_id = 2709, value = 9.000000
+Trace read task, trace_id = 2710, value = 10.000000
+Trace read task, trace_id = 2711, value = 11.000000
+Trace read task, trace_id = 2712, value = 12.000000
+Trace read task, trace_id = 2713, value = 13.000000
+Trace read task, trace_id = 2714, value = 14.000000
+Trace read task, trace_id = 2715, value = 15.000000
+Trace read task, trace_id = 2716, value = 16.000000
+Trace read task, trace_id = 2717, value = 17.000000
+Trace read task, trace_id = 2718, value = 18.000000
+Trace read task, trace_id = 2719, value = 19.000000
+Trace read task, trace_id = 2720, value = 20.000000
+Trace read task, trace_id = 2721, value = 21.000000
+Trace read task, trace_id = 2722, value = 22.000000
+Trace read task, trace_id = 2723, value = 23.000000
+Trace read task, trace_id = 2724, value = 24.000000
+Trace read task, trace_id = 2725, value = 25.000000
+Trace read task, trace_id = 2726, value = 26.000000
+Trace read task, trace_id = 2727, value = 27.000000
+Trace read task, trace_id = 2728, value = 28.000000
+Trace read task, trace_id = 2729, value = 29.000000
+Trace read task, trace_id = 2730, value = 30.000000
+Trace read task, trace_id = 2731, value = 31.000000
+Trace read task, trace_id = 2732, value = 32.000000
+Trace read task, trace_id = 2733, value = 33.000000
+Trace read task, trace_id = 2734, value = 34.000000
+Trace read task, trace_id = 2735, value = 35.000000
+Trace read task, trace_id = 2736, value = 36.000000
+Trace read task, trace_id = 2737, value = 37.000000
+Trace read task, trace_id = 2738, value = 38.000000
+Trace read task, trace_id = 2739, value = 39.000000
+Trace read task, trace_id = 2740, value = 40.000000
+Trace read task, trace_id = 2741, value = 41.000000
+Trace read task, trace_id = 2742, value = 42.000000
+Trace read task, trace_id = 2743, value = 43.000000
+Trace read task, trace_id = 2744, value = 44.000000
+Trace read task, trace_id = 2745, value = 45.000000
+Trace read task, trace_id = 2746, value = 46.000000
+Trace read task, trace_id = 2747, value = 47.000000
+Trace read task, trace_id = 2748, value = 48.000000
+Trace read task, trace_id = 2749, value = 49.000000
+Trace read task, trace_id = 2750, value = 50.000000
+Trace read task, trace_id = 2751, value = 51.000000
+Trace read task, trace_id = 2752, value = 52.000000
+Trace read task, trace_id = 2753, value = 53.000000
+Trace read task, trace_id = 2754, value = 54.000000
+Trace read task, trace_id = 2755, value = 55.000000
+Trace read task, trace_id = 2756, value = 56.000000
+Trace read task, trace_id = 2757, value = 57.000000
+Trace read task, trace_id = 2758, value = 58.000000
+Trace read task, trace_id = 2759, value = 59.000000
+Trace read task, trace_id = 2760, value = 60.000000
+Trace read task, trace_id = 2761, value = 61.000000
+Trace read task, trace_id = 2762, value = 62.000000
+Trace read task, trace_id = 2763, value = 63.000000
+Trace read task, trace_id = 2764, value = 64.000000
+Trace read task, trace_id = 2765, value = 65.000000
+Trace read task, trace_id = 2766, value = 66.000000
+Trace read task, trace_id = 2767, value = 67.000000
+Trace read task, trace_id = 2768, value = 68.000000
+Trace read task, trace_id = 2769, value = 69.000000
+Trace read task, trace_id = 2770, value = 70.000000
+Trace read task, trace_id = 2771, value = 71.000000
+Trace read task, trace_id = 2772, value = 72.000000
+Trace read task, trace_id = 2773, value = 73.000000
+Trace read task, trace_id = 2774, value = 74.000000
+Trace read task, trace_id = 2775, value = 75.000000
+Trace read task, trace_id = 2776, value = 76.000000
+Trace read task, trace_id = 2777, value = 77.000000
+Trace read task, trace_id = 2778, value = 78.000000
+Trace read task, trace_id = 2779, value = 79.000000
+Trace read task, trace_id = 2780, value = 80.000000
+Trace read task, trace_id = 2781, value = 81.000000
+Trace read task, trace_id = 2782, value = 82.000000
+Trace read task, trace_id = 2783, value = 83.000000
+Trace read task, trace_id = 2784, value = 84.000000
+Trace read task, trace_id = 2785, value = 85.000000
+Trace read task, trace_id = 2786, value = 86.000000
+Trace read task, trace_id = 2787, value = 87.000000
+Trace read task, trace_id = 2788, value = 88.000000
+Trace read task, trace_id = 2789, value = 89.000000
+Trace read task, trace_id = 2790, value = 90.000000
+Trace read task, trace_id = 2791, value = 91.000000
+Trace read task, trace_id = 2792, value = 92.000000
+Trace read task, trace_id = 2793, value = 93.000000
+Trace read task, trace_id = 2794, value = 94.000000
+Trace read task, trace_id = 2795, value = 95.000000
+Trace read task, trace_id = 2796, value = 96.000000
+Trace read task, trace_id = 2797, value = 97.000000
+Trace read task, trace_id = 2798, value = 98.000000
+Trace read task, trace_id = 2799, value = 99.000000
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 2800, value = 0.000000
+Trace read task, trace_id = 2801, value = 1.000000
+Trace read task, trace_id = 2802, value = 2.000000
+Trace read task, trace_id = 2803, value = 3.000000
+Trace read task, trace_id = 2804, value = 4.000000
+Trace read task, trace_id = 2805, value = 5.000000
+Trace read task, trace_id = 2806, value = 6.000000
+Trace read task, trace_id = 2807, value = 7.000000
+Trace read task, trace_id = 2808, value = 8.000000
+Trace read task, trace_id = 2809, value = 9.000000
+Trace read task, trace_id = 2810, value = 10.000000
+Trace read task, trace_id = 2811, value = 11.000000
+Trace read task, trace_id = 2812, value = 12.000000
+Trace read task, trace_id = 2813, value = 13.000000
+Trace read task, trace_id = 2814, value = 14.000000
+Trace read task, trace_id = 2815, value = 15.000000
+Trace read task, trace_id = 2816, value = 16.000000
+Trace read task, trace_id = 2817, value = 17.000000
+Trace read task, trace_id = 2818, value = 18.000000
+Trace read task, trace_id = 2819, value = 19.000000
+Trace read task, trace_id = 2820, value = 20.000000
+Trace read task, trace_id = 2821, value = 21.000000
+Trace read task, trace_id = 2822, value = 22.000000
+Trace read task, trace_id = 2823, value = 23.000000
+Trace read task, trace_id = 2824, value = 24.000000
+Trace read task, trace_id = 2825, value = 25.000000
+Trace read task, trace_id = 2826, value = 26.000000
+Trace read task, trace_id = 2827, value = 27.000000
+Trace read task, trace_id = 2828, value = 28.000000
+Trace read task, trace_id = 2829, value = 29.000000
+Trace read task, trace_id = 2830, value = 30.000000
+Trace read task, trace_id = 2831, value = 31.000000
+Trace read task, trace_id = 2832, value = 32.000000
+Trace read task, trace_id = 2833, value = 33.000000
+Trace read task, trace_id = 2834, value = 34.000000
+Trace read task, trace_id = 2835, value = 35.000000
+Trace read task, trace_id = 2836, value = 36.000000
+Trace read task, trace_id = 2837, value = 37.000000
+Trace read task, trace_id = 2838, value = 38.000000
+Trace read task, trace_id = 2839, value = 39.000000
+Trace read task, trace_id = 2840, value = 40.000000
+Trace read task, trace_id = 2841, value = 41.000000
+Trace read task, trace_id = 2842, value = 42.000000
+Trace read task, trace_id = 2843, value = 43.000000
+Trace read task, trace_id = 2844, value = 44.000000
+Trace read task, trace_id = 2845, value = 45.000000
+Trace read task, trace_id = 2846, value = 46.000000
+Trace read task, trace_id = 2847, value = 47.000000
+Trace read task, trace_id = 2848, value = 48.000000
+Trace read task, trace_id = 2849, value = 49.000000
+Trace read task, trace_id = 2850, value = 50.000000
+Trace read task, trace_id = 2851, value = 51.000000
+Trace read task, trace_id = 2852, value = 52.000000
+Trace read task, trace_id = 2853, value = 53.000000
+Trace read task, trace_id = 2854, value = 54.000000
+Trace read task, trace_id = 2855, value = 55.000000
+Trace read task, trace_id = 2856, value = 56.000000
+Trace read task, trace_id = 2857, value = 57.000000
+Trace read task, trace_id = 2858, value = 58.000000
+Trace read task, trace_id = 2859, value = 59.000000
+Trace read task, trace_id = 2860, value = 60.000000
+Trace read task, trace_id = 2861, value = 61.000000
+Trace read task, trace_id = 2862, value = 62.000000
+Trace read task, trace_id = 2863, value = 63.000000
+Trace read task, trace_id = 2864, value = 64.000000
+Trace read task, trace_id = 2865, value = 65.000000
+Trace read task, trace_id = 2866, value = 66.000000
+Trace read task, trace_id = 2867, value = 67.000000
+Trace read task, trace_id = 2868, value = 68.000000
+Trace read task, trace_id = 2869, value = 69.000000
+Trace read task, trace_id = 2870, value = 70.000000
+Trace read task, trace_id = 2871, value = 71.000000
+Trace read task, trace_id = 2872, value = 72.000000
+Trace read task, trace_id = 2873, value = 73.000000
+Trace read task, trace_id = 2874, value = 74.000000
+Trace read task, trace_id = 2875, value = 75.000000
+Trace read task, trace_id = 2876, value = 76.000000
+Trace read task, trace_id = 2877, value = 77.000000
+Trace read task, trace_id = 2878, value = 78.000000
+Trace read task, trace_id = 2879, value = 79.000000
+Trace read task, trace_id = 2880, value = 80.000000
+Trace read task, trace_id = 2881, value = 81.000000
+Trace read task, trace_id = 2882, value = 82.000000
+Trace read task, trace_id = 2883, value = 83.000000
+Trace read task, trace_id = 2884, value = 84.000000
+Trace read task, trace_id = 2885, value = 85.000000
+Trace read task, trace_id = 2886, value = 86.000000
+Trace read task, trace_id = 2887, value = 87.000000
+Trace read task, trace_id = 2888, value = 88.000000
+Trace read task, trace_id = 2889, value = 89.000000
+Trace read task, trace_id = 2890, value = 90.000000
+Trace read task, trace_id = 2891, value = 91.000000
+Trace read task, trace_id = 2892, value = 92.000000
+Trace read task, trace_id = 2893, value = 93.000000
+Trace read task, trace_id = 2894, value = 94.000000
+Trace read task, trace_id = 2895, value = 95.000000
+Trace read task, trace_id = 2896, value = 96.000000
+Trace read task, trace_id = 2897, value = 97.000000
+Trace read task, trace_id = 2898, value = 98.000000
+Trace read task, trace_id = 2899, value = 99.000000
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 2900, value = 0.000000
+Trace read task, trace_id = 2901, value = 1.000000
+Trace read task, trace_id = 2902, value = 2.000000
+Trace read task, trace_id = 2903, value = 3.000000
+Trace read task, trace_id = 2904, value = 4.000000
+Trace read task, trace_id = 2905, value = 5.000000
+Trace read task, trace_id = 2906, value = 6.000000
+Trace read task, trace_id = 2907, value = 7.000000
+Trace read task, trace_id = 2908, value = 8.000000
+Trace read task, trace_id = 2909, value = 9.000000
+Trace read task, trace_id = 2910, value = 10.000000
+Trace read task, trace_id = 2911, value = 11.000000
+Trace read task, trace_id = 2912, value = 12.000000
+Trace read task, trace_id = 2913, value = 13.000000
+Trace read task, trace_id = 2914, value = 14.000000
+Trace read task, trace_id = 2915, value = 15.000000
+Trace read task, trace_id = 2916, value = 16.000000
+Trace read task, trace_id = 2917, value = 17.000000
+Trace read task, trace_id = 2918, value = 18.000000
+Trace read task, trace_id = 2919, value = 19.000000
+Trace read task, trace_id = 2920, value = 20.000000
+Trace read task, trace_id = 2921, value = 21.000000
+Trace read task, trace_id = 2922, value = 22.000000
+Trace read task, trace_id = 2923, value = 23.000000
+Trace read task, trace_id = 2924, value = 24.000000
+Trace read task, trace_id = 2925, value = 25.000000
+Trace read task, trace_id = 2926, value = 26.000000
+Trace read task, trace_id = 2927, value = 27.000000
+Trace read task, trace_id = 2928, value = 28.000000
+Trace read task, trace_id = 2929, value = 29.000000
+Trace read task, trace_id = 2930, value = 30.000000
+Trace read task, trace_id = 2931, value = 31.000000
+Trace read task, trace_id = 2932, value = 32.000000
+Trace read task, trace_id = 2933, value = 33.000000
+Trace read task, trace_id = 2934, value = 34.000000
+Trace read task, trace_id = 2935, value = 35.000000
+Trace read task, trace_id = 2936, value = 36.000000
+Trace read task, trace_id = 2937, value = 37.000000
+Trace read task, trace_id = 2938, value = 38.000000
+Trace read task, trace_id = 2939, value = 39.000000
+Trace read task, trace_id = 2940, value = 40.000000
+Trace read task, trace_id = 2941, value = 41.000000
+Trace read task, trace_id = 2942, value = 42.000000
+Trace read task, trace_id = 2943, value = 43.000000
+Trace read task, trace_id = 2944, value = 44.000000
+Trace read task, trace_id = 2945, value = 45.000000
+Trace read task, trace_id = 2946, value = 46.000000
+Trace read task, trace_id = 2947, value = 47.000000
+Trace read task, trace_id = 2948, value = 48.000000
+Trace read task, trace_id = 2949, value = 49.000000
+Trace read task, trace_id = 2950, value = 50.000000
+Trace read task, trace_id = 2951, value = 51.000000
+Trace read task, trace_id = 2952, value = 52.000000
+Trace read task, trace_id = 2953, value = 53.000000
+Trace read task, trace_id = 2954, value = 54.000000
+Trace read task, trace_id = 2955, value = 55.000000
+Trace read task, trace_id = 2956, value = 56.000000
+Trace read task, trace_id = 2957, value = 57.000000
+Trace read task, trace_id = 2958, value = 58.000000
+Trace read task, trace_id = 2959, value = 59.000000
+Trace read task, trace_id = 2960, value = 60.000000
+Trace read task, trace_id = 2961, value = 61.000000
+Trace read task, trace_id = 2962, value = 62.000000
+Trace read task, trace_id = 2963, value = 63.000000
+Trace read task, trace_id = 2964, value = 64.000000
+Trace read task, trace_id = 2965, value = 65.000000
+Trace read task, trace_id = 2966, value = 66.000000
+Trace read task, trace_id = 2967, value = 67.000000
+Trace read task, trace_id = 2968, value = 68.000000
+Trace read task, trace_id = 2969, value = 69.000000
+Trace read task, trace_id = 2970, value = 70.000000
+Trace read task, trace_id = 2971, value = 71.000000
+Trace read task, trace_id = 2972, value = 72.000000
+Trace read task, trace_id = 2973, value = 73.000000
+Trace read task, trace_id = 2974, value = 74.000000
+Trace read task, trace_id = 2975, value = 75.000000
+Trace read task, trace_id = 2976, value = 76.000000
+Trace read task, trace_id = 2977, value = 77.000000
+Trace read task, trace_id = 2978, value = 78.000000
+Trace read task, trace_id = 2979, value = 79.000000
+Trace read task, trace_id = 2980, value = 80.000000
+Trace read task, trace_id = 2981, value = 81.000000
+Trace read task, trace_id = 2982, value = 82.000000
+Trace read task, trace_id = 2983, value = 83.000000
+Trace read task, trace_id = 2984, value = 84.000000
+Trace read task, trace_id = 2985, value = 85.000000
+Trace read task, trace_id = 2986, value = 86.000000
+Trace read task, trace_id = 2987, value = 87.000000
+Trace read task, trace_id = 2988, value = 88.000000
+Trace read task, trace_id = 2989, value = 89.000000
+Trace read task, trace_id = 2990, value = 90.000000
+Trace read task, trace_id = 2991, value = 91.000000
+Trace read task, trace_id = 2992, value = 92.000000
+Trace read task, trace_id = 2993, value = 93.000000
+Trace read task, trace_id = 2994, value = 94.000000
+Trace read task, trace_id = 2995, value = 95.000000
+Trace read task, trace_id = 2996, value = 96.000000
+Trace read task, trace_id = 2997, value = 97.000000
+Trace read task, trace_id = 2998, value = 98.000000
+Trace read task, trace_id = 2999, value = 99.000000
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 3000, value = 0.000000
+Trace read task, trace_id = 3001, value = 1.000000
+Trace read task, trace_id = 3002, value = 2.000000
+Trace read task, trace_id = 3003, value = 3.000000
+Trace read task, trace_id = 3004, value = 4.000000
+Trace read task, trace_id = 3005, value = 5.000000
+Trace read task, trace_id = 3006, value = 6.000000
+Trace read task, trace_id = 3007, value = 7.000000
+Trace read task, trace_id = 3008, value = 8.000000
+Trace read task, trace_id = 3009, value = 9.000000
+Trace read task, trace_id = 3010, value = 10.000000
+Trace read task, trace_id = 3011, value = 11.000000
+Trace read task, trace_id = 3012, value = 12.000000
+Trace read task, trace_id = 3013, value = 13.000000
+Trace read task, trace_id = 3014, value = 14.000000
+Trace read task, trace_id = 3015, value = 15.000000
+Trace read task, trace_id = 3016, value = 16.000000
+Trace read task, trace_id = 3017, value = 17.000000
+Trace read task, trace_id = 3018, value = 18.000000
+Trace read task, trace_id = 3019, value = 19.000000
+Trace read task, trace_id = 3020, value = 20.000000
+Trace read task, trace_id = 3021, value = 21.000000
+Trace read task, trace_id = 3022, value = 22.000000
+Trace read task, trace_id = 3023, value = 23.000000
+Trace read task, trace_id = 3024, value = 24.000000
+Trace read task, trace_id = 3025, value = 25.000000
+Trace read task, trace_id = 3026, value = 26.000000
+Trace read task, trace_id = 3027, value = 27.000000
+Trace read task, trace_id = 3028, value = 28.000000
+Trace read task, trace_id = 3029, value = 29.000000
+Trace read task, trace_id = 3030, value = 30.000000
+Trace read task, trace_id = 3031, value = 31.000000
+Trace read task, trace_id = 3032, value = 32.000000
+Trace read task, trace_id = 3033, value = 33.000000
+Trace read task, trace_id = 3034, value = 34.000000
+Trace read task, trace_id = 3035, value = 35.000000
+Trace read task, trace_id = 3036, value = 36.000000
+Trace read task, trace_id = 3037, value = 37.000000
+Trace read task, trace_id = 3038, value = 38.000000
+Trace read task, trace_id = 3039, value = 39.000000
+Trace read task, trace_id = 3040, value = 40.000000
+Trace read task, trace_id = 3041, value = 41.000000
+Trace read task, trace_id = 3042, value = 42.000000
+Trace read task, trace_id = 3043, value = 43.000000
+Trace read task, trace_id = 3044, value = 44.000000
+Trace read task, trace_id = 3045, value = 45.000000
+Trace read task, trace_id = 3046, value = 46.000000
+Trace read task, trace_id = 3047, value = 47.000000
+Trace read task, trace_id = 3048, value = 48.000000
+Trace read task, trace_id = 3049, value = 49.000000
+Trace read task, trace_id = 3050, value = 50.000000
+Trace read task, trace_id = 3051, value = 51.000000
+Trace read task, trace_id = 3052, value = 52.000000
+Trace read task, trace_id = 3053, value = 53.000000
+Trace read task, trace_id = 3054, value = 54.000000
+Trace read task, trace_id = 3055, value = 55.000000
+Trace read task, trace_id = 3056, value = 56.000000
+Trace read task, trace_id = 3057, value = 57.000000
+Trace read task, trace_id = 3058, value = 58.000000
+Trace read task, trace_id = 3059, value = 59.000000
+Trace read task, trace_id = 3060, value = 60.000000
+Trace read task, trace_id = 3061, value = 61.000000
+Trace read task, trace_id = 3062, value = 62.000000
+Trace read task, trace_id = 3063, value = 63.000000
+Trace read task, trace_id = 3064, value = 64.000000
+Trace read task, trace_id = 3065, value = 65.000000
+Trace read task, trace_id = 3066, value = 66.000000
+Trace read task, trace_id = 3067, value = 67.000000
+Trace read task, trace_id = 3068, value = 68.000000
+Trace read task, trace_id = 3069, value = 69.000000
+Trace read task, trace_id = 3070, value = 70.000000
+Trace read task, trace_id = 3071, value = 71.000000
+Trace read task, trace_id = 3072, value = 72.000000
+Trace read task, trace_id = 3073, value = 73.000000
+Trace read task, trace_id = 3074, value = 74.000000
+Trace read task, trace_id = 3075, value = 75.000000
+Trace read task, trace_id = 3076, value = 76.000000
+Trace read task, trace_id = 3077, value = 77.000000
+Trace read task, trace_id = 3078, value = 78.000000
+Trace read task, trace_id = 3079, value = 79.000000
+Trace read task, trace_id = 3080, value = 80.000000
+Trace read task, trace_id = 3081, value = 81.000000
+Trace read task, trace_id = 3082, value = 82.000000
+Trace read task, trace_id = 3083, value = 83.000000
+Trace read task, trace_id = 3084, value = 84.000000
+Trace read task, trace_id = 3085, value = 85.000000
+Trace read task, trace_id = 3086, value = 86.000000
+Trace read task, trace_id = 3087, value = 87.000000
+Trace read task, trace_id = 3088, value = 88.000000
+Trace read task, trace_id = 3089, value = 89.000000
+Trace read task, trace_id = 3090, value = 90.000000
+Trace read task, trace_id = 3091, value = 91.000000
+Trace read task, trace_id = 3092, value = 92.000000
+Trace read task, trace_id = 3093, value = 93.000000
+Trace read task, trace_id = 3094, value = 94.000000
+Trace read task, trace_id = 3095, value = 95.000000
+Trace read task, trace_id = 3096, value = 96.000000
+Trace read task, trace_id = 3097, value = 97.000000
+Trace read task, trace_id = 3098, value = 98.000000
+Trace read task, trace_id = 3099, value = 99.000000
+file : seisfile_nas.cpp, line : 344
+Trace read task, trace_id = 3100, value = 0.000000
+0.000000 1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 10.000000 11.000000 12.000000 13.000000 14.000000 15.000000 16.000000 17.000000 18.000000 19.000000 20.000000 21.000000 22.000000 23.000000 24.000000 25.000000 26.000000 27.000000 28.000000 29.000000 30.000000 31.000000 32.000000 33.000000 34.000000 35.000000 36.000000 37.000000 38.000000 39.000000 40.000000 41.000000 42.000000 43.000000 44.000000 45.000000 46.000000 47.000000 48.000000 49.000000 50.000000 51.000000 52.000000 53.000000 54.000000 55.000000 56.000000 57.000000 58.000000 59.000000 60.000000 61.000000 62.000000 63.000000 64.000000 65.000000 66.000000 67.000000 68.000000 69.000000 70.000000 71.000000 72.000000 73.000000 74.000000 75.000000 76.000000 77.000000 78.000000 79.000000 80.000000 81.000000 82.000000 83.000000 84.000000 85.000000 86.000000 87.000000 88.000000 89.000000 90.000000 91.000000 92.000000 93.000000 94.000000 95.000000 96.000000 97.000000 98.000000 99.000000 0.000000 1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 10.000000 11.000000 12.000000 13.000000 14.000000 15.000000 16.000000 17.000000 18.000000 19.000000 20.000000 21.000000 22.000000 23.000000 24.000000 25.000000 26.000000 27.000000 28.000000 29.000000 30.000000 31.000000 32.000000 33.000000 34.000000 35.000000 36.000000 37.000000 38.000000 39.000000 40.000000 41.000000 42.000000 43.000000 44.000000 45.000000 46.000000 47.000000 48.000000 49.000000 50.000000 51.000000 52.000000 53.000000 54.000000 55.000000 56.000000 57.000000 58.000000 59.000000 60.000000 61.000000 62.000000 63.000000 64.000000 65.000000 66.000000 67.000000 68.000000 69.000000 70.000000 71.000000 72.000000 73.000000 74.000000 75.000000 76.000000 77.000000 78.000000 79.000000 80.000000 81.000000 82.000000 83.000000 84.000000 85.000000 86.000000 87.000000 88.000000 89.000000 90.000000 91.000000 92.000000 93.000000 94.000000 95.000000 96.000000 97.000000 98.000000 99.000000 0.000000 1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 10.000000 11.000000 12.000000 13.000000 14.000000 15.000000 16.000000 17.000000 18.000000 19.000000 20.000000 21.000000 22.000000 23.000000 24.000000 25.000000 26.000000 27.000000 28.000000 29.000000 30.000000 31.000000 32.000000 33.000000 34.000000 35.000000 36.000000 37.000000 38.000000 39.000000 40.000000 41.000000 42.000000 43.000000 44.000000 45.000000 46.000000 47.000000 48.000000 49.000000 50.000000 51.000000 52.000000 53.000000 54.000000 55.000000 56.000000 57.000000 58.000000 59.000000 60.000000 61.000000 62.000000 63.000000 64.000000 65.000000 66.000000 67.000000 68.000000 69.000000 70.000000 71.000000 72.000000 73.000000 74.000000 75.000000 76.000000 77.000000 78.000000 79.000000 80.000000 81.000000 82.000000 83.000000 84.000000 85.000000 86.000000 87.000000 88.000000 89.000000 90.000000 91.000000 92.000000 93.000000 94.000000 95.000000 96.000000 97.000000 98.000000 99.000000 0.000000 1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 10.000000 11.000000 12.000000 13.000000 14.000000 15.000000 16.000000 17.000000 18.000000 19.000000 20.000000 21.000000 22.000000 23.000000 24.000000 25.000000 26.000000 27.000000 28.000000 29.000000 30.000000 31.000000 32.000000 33.000000 34.000000 35.000000 36.000000 37.000000 38.000000 39.000000 40.000000 41.000000 42.000000 43.000000 44.000000 45.000000 46.000000 47.000000 48.000000 49.000000 50.000000 51.000000 52.000000 53.000000 54.000000 55.000000 56.000000 57.000000 58.000000 59.000000 60.000000 61.000000 62.000000 63.000000 64.000000 65.000000 66.000000 67.000000 68.000000 69.000000 70.000000 71.000000 72.000000 73.000000 74.000000 75.000000 76.000000 77.000000 78.000000 79.000000 80.000000 81.000000 82.000000 83.000000 84.000000 85.000000 86.000000 87.000000 88.000000 89.000000 90.000000 91.000000 92.000000 93.000000 94.000000 95.000000 96.000000 97.000000 98.000000 99.000000 0.000000 1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 10.000000 11.000000 12.000000 13.000000 14.000000 15.000000 16.000000 17.000000 18.000000 19.000000 20.000000 21.000000 22.000000 23.000000 24.000000 25.000000 26.000000 27.000000 28.000000 29.000000 30.000000 31.000000 32.000000 33.000000 34.000000 35.000000 36.000000 37.000000 38.000000 39.000000 40.000000 41.000000 42.000000 43.000000 44.000000 45.000000 46.000000 47.000000 48.000000 49.000000 50.000000 51.000000 52.000000 53.000000 54.000000 55.000000 56.000000 57.000000 58.000000 59.000000 60.000000 61.000000 62.000000 63.000000 64.000000 65.000000 66.000000 67.000000 68.000000 69.000000 70.000000 71.000000 72.000000 73.000000 74.000000 75.000000 76.000000 77.000000 78.000000 79.000000 80.000000 81.000000 82.000000 83.000000 84.000000 85.000000 86.000000 87.000000 88.000000 89.000000 90.000000 91.000000 92.000000 93.000000 94.000000 95.000000 96.000000 97.000000 98.000000 99.000000 0.000000 1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 10.000000 11.000000 12.000000 13.000000 14.000000 15.000000 16.000000 17.000000 18.000000 19.000000 20.000000 21.000000 22.000000 23.000000 24.000000 25.000000 26.000000 27.000000 28.000000 29.000000 30.000000 31.000000 32.000000 33.000000 34.000000 35.000000 36.000000 37.000000 38.000000 39.000000 40.000000 41.000000 42.000000 43.000000 44.000000 45.000000 46.000000 47.000000 48.000000 49.000000 50.000000 51.000000 52.000000 53.000000 54.000000 55.000000 56.000000 57.000000 58.000000 59.000000 60.000000 61.000000 62.000000 63.000000 64.000000 65.000000 66.000000 67.000000 68.000000 69.000000 70.000000 71.000000 72.000000 73.000000 74.000000 75.000000 76.000000 77.000000 78.000000 79.000000 80.000000 81.000000 82.000000 83.000000 84.000000 85.000000 86.000000 87.000000 88.000000 89.000000 90.000000 91.000000 92.000000 93.000000 94.000000 95.000000 96.000000 97.000000 98.000000 99.000000 0.000000 1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 10.000000 11.000000 12.000000 13.000000 14.000000 15.000000 16.000000 17.000000 18.000000 19.000000 20.000000 21.000000 22.000000 23.000000 24.000000 25.000000 26.000000 27.000000 28.000000 29.000000 30.000000 31.000000 32.000000 33.000000 34.000000 35.000000 36.000000 37.000000 38.000000 39.000000 40.000000 41.000000 42.000000 43.000000 44.000000 45.000000 46.000000 47.000000 48.000000 49.000000 50.000000 51.000000 52.000000 53.000000 54.000000 55.000000 56.000000 57.000000 58.000000 59.000000 60.000000 61.000000 62.000000 63.000000 64.000000 65.000000 66.000000 67.000000 68.000000 69.000000 70.000000 71.000000 72.000000 73.000000 74.000000 75.000000 76.000000 77.000000 78.000000 79.000000 80.000000 81.000000 82.000000 83.000000 84.000000 85.000000 86.000000 87.000000 88.000000 89.000000 90.000000 91.000000 92.000000 93.000000 94.000000 95.000000 96.000000 97.000000 98.000000 99.000000 0.000000 1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 10.000000 11.000000 12.000000 13.000000 14.000000 15.000000 16.000000 17.000000 18.000000 19.000000 20.000000 21.000000 22.000000 23.000000 24.000000 25.000000 26.000000 27.000000 28.000000 29.000000 30.000000 31.000000 32.000000 33.000000 34.000000 35.000000 36.000000 37.000000 38.000000 39.000000 40.000000 41.000000 42.000000 43.000000 44.000000 45.000000 46.000000 47.000000 48.000000 49.000000 50.000000 51.000000 52.000000 53.000000 54.000000 55.000000 56.000000 57.000000 58.000000 59.000000 60.000000 61.000000 62.000000 63.000000 64.000000 65.000000 66.000000 67.000000 68.000000 69.000000 70.000000 71.000000 72.000000 73.000000 74.000000 75.000000 76.000000 77.000000 78.000000 79.000000 80.000000 81.000000 82.000000 83.000000 84.000000 85.000000 86.000000 87.000000 88.000000 89.000000 90.000000 91.000000 92.000000 93.000000 94.000000 95.000000 96.000000 97.000000 98.000000 99.000000 0.000000 1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 10.000000 11.000000 12.000000 13.000000 14.000000 15.000000 16.000000 17.000000 18.000000 19.000000 20.000000 21.000000 22.000000 23.000000 24.000000 25.000000 26.000000 27.000000 28.000000 29.000000 30.000000 31.000000 32.000000 33.000000 34.000000 35.000000 36.000000 37.000000 38.000000 39.000000 40.000000 41.000000 42.000000 43.000000 44.000000 45.000000 46.000000 47.000000 48.000000 49.000000 50.000000 51.000000 52.000000 53.000000 54.000000 55.000000 56.000000 57.000000 58.000000 59.000000 60.000000 61.000000 62.000000 63.000000 64.000000 65.000000 66.000000 67.000000 68.000000 69.000000 70.000000 71.000000 72.000000 73.000000 74.000000 75.000000 76.000000 77.000000 78.000000 79.000000 80.000000 81.000000 82.000000 83.000000 84.000000 85.000000 86.000000 87.000000 88.000000 89.000000 90.000000 91.000000 92.000000 93.000000 94.000000 95.000000 96.000000 97.000000 98.000000 99.000000 0.000000 1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 10.000000 11.000000 12.000000 13.000000 14.000000 15.000000 16.000000 17.000000 18.000000 19.000000 20.000000 21.000000 22.000000 23.000000 24.000000 25.000000 26.000000 27.000000 28.000000 29.000000 30.000000 31.000000 32.000000 33.000000 34.000000 35.000000 36.000000 37.000000 38.000000 39.000000 40.000000 41.000000 42.000000 43.000000 44.000000 45.000000 46.000000 47.000000 48.000000 49.000000 50.000000 51.000000 52.000000 53.000000 54.000000 55.000000 56.000000 57.000000 58.000000 59.000000 60.000000 61.000000 62.000000 63.000000 64.000000 65.000000 66.000000 67.000000 68.000000 69.000000 70.000000 71.000000 72.000000 73.000000 74.000000 75.000000 76.000000 77.000000 78.000000 79.000000 80.000000 81.000000 82.000000 83.000000 84.000000 85.000000 86.000000 87.000000 88.000000 89.000000 90.000000 91.000000 92.000000 93.000000 94.000000 95.000000 96.000000 97.000000 98.000000 99.000000 0.000000 1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 10.000000 11.000000 12.000000 13.000000 14.000000 15.000000 16.000000 17.000000 18.000000 19.000000 20.000000 21.000000 22.000000 23.000000 24.000000 25.000000 26.000000 27.000000 28.000000 29.000000 30.000000 31.000000 32.000000 33.000000 34.000000 35.000000 36.000000 37.000000 38.000000 39.000000 40.000000 41.000000 42.000000 43.000000 44.000000 45.000000 46.000000 47.000000 48.000000 49.000000 50.000000 51.000000 52.000000 53.000000 54.000000 55.000000 56.000000 57.000000 58.000000 59.000000 60.000000 61.000000 62.000000 63.000000 64.000000 65.000000 66.000000 67.000000 68.000000 69.000000 70.000000 71.000000 72.000000 73.000000 74.000000 75.000000 76.000000 77.000000 78.000000 79.000000 80.000000 81.000000 82.000000 83.000000 84.000000 85.000000 86.000000 87.000000 88.000000 89.000000 90.000000 91.000000 92.000000 93.000000 94.000000 95.000000 96.000000 97.000000 98.000000 99.000000 0.000000 1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 10.000000 11.000000 12.000000 13.000000 14.000000 15.000000 16.000000 17.000000 18.000000 19.000000 20.000000 21.000000 22.000000 23.000000 24.000000 25.000000 26.000000 27.000000 28.000000 29.000000 30.000000 31.000000 32.000000 33.000000 34.000000 35.000000 36.000000 37.000000 38.000000 39.000000 40.000000 41.000000 42.000000 43.000000 44.000000 45.000000 46.000000 47.000000 48.000000 49.000000 50.000000 51.000000 52.000000 53.000000 54.000000 55.000000 56.000000 57.000000 58.000000 59.000000 60.000000 61.000000 62.000000 63.000000 64.000000 65.000000 66.000000 67.000000 68.000000 69.000000 70.000000 71.000000 72.000000 73.000000 74.000000 75.000000 76.000000 77.000000 78.000000 79.000000 80.000000 81.000000 82.000000 83.000000 84.000000 85.000000 86.000000 87.000000 88.000000 89.000000 90.000000 91.000000 92.000000 93.000000 94.000000 95.000000 96.000000 97.000000 98.000000 99.000000 0.000000 1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 10.000000 11.000000 12.000000 13.000000 14.000000 15.000000 16.000000 17.000000 18.000000 19.000000 20.000000 21.000000 22.000000 23.000000 24.000000 25.000000 26.000000 27.000000 28.000000 29.000000 30.000000 31.000000 32.000000 33.000000 34.000000 35.000000 36.000000 37.000000 38.000000 39.000000 40.000000 41.000000 42.000000 43.000000 44.000000 45.000000 46.000000 47.000000 48.000000 49.000000 50.000000 51.000000 52.000000 53.000000 54.000000 55.000000 56.000000 57.000000 58.000000 59.000000 60.000000 61.000000 62.000000 63.000000 64.000000 65.000000 66.000000 67.000000 68.000000 69.000000 70.000000 71.000000 72.000000 73.000000 74.000000 75.000000 76.000000 77.000000 78.000000 79.000000 80.000000 81.000000 82.000000 83.000000 84.000000 85.000000 86.000000 87.000000 88.000000 89.000000 90.000000 91.000000 92.000000 93.000000 94.000000 95.000000 96.000000 97.000000 98.000000 99.000000 0.000000 1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 10.000000 11.000000 12.000000 13.000000 14.000000 15.000000 16.000000 17.000000 18.000000 19.000000 20.000000 21.000000 22.000000 23.000000 24.000000 25.000000 26.000000 27.000000 28.000000 29.000000 30.000000 31.000000 32.000000 33.000000 34.000000 35.000000 36.000000 37.000000 38.000000 39.000000 40.000000 41.000000 42.000000 43.000000 44.000000 45.000000 46.000000 47.000000 48.000000 49.000000 50.000000 51.000000 52.000000 53.000000 54.000000 55.000000 56.000000 57.000000 58.000000 59.000000 60.000000 61.000000 62.000000 63.000000 64.000000 65.000000 66.000000 67.000000 68.000000 69.000000 70.000000 71.000000 72.000000 73.000000 74.000000 75.000000 76.000000 77.000000 78.000000 79.000000 80.000000 81.000000 82.000000 83.000000 84.000000 85.000000 86.000000 87.000000 88.000000 89.000000 90.000000 91.000000 92.000000 93.000000 94.000000 95.000000 96.000000 97.000000 98.000000 99.000000 0.000000 1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 10.000000 11.000000 12.000000 13.000000 14.000000 15.000000 16.000000 17.000000 18.000000 19.000000 20.000000 21.000000 22.000000 23.000000 24.000000 25.000000 26.000000 27.000000 28.000000 29.000000 30.000000 31.000000 32.000000 33.000000 34.000000 35.000000 36.000000 37.000000 38.000000 39.000000 40.000000 41.000000 42.000000 43.000000 44.000000 45.000000 46.000000 47.000000 48.000000 49.000000 50.000000 51.000000 52.000000 53.000000 54.000000 55.000000 56.000000 57.000000 58.000000 59.000000 60.000000 61.000000 62.000000 63.000000 64.000000 65.000000 66.000000 67.000000 68.000000 69.000000 70.000000 71.000000 72.000000 73.000000 74.000000 75.000000 76.000000 77.000000 78.000000 79.000000 80.000000 81.000000 82.000000 83.000000 84.000000 85.000000 86.000000 87.000000 88.000000 89.000000 90.000000 91.000000 92.000000 93.000000 94.000000 95.000000 96.000000 97.000000 98.000000 99.000000 0.000000 1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 10.000000 11.000000 12.000000 13.000000 14.000000 15.000000 16.000000 17.000000 18.000000 19.000000 20.000000 21.000000 22.000000 23.000000 24.000000 25.000000 26.000000 27.000000 28.000000 29.000000 30.000000 31.000000 32.000000 33.000000 34.000000 35.000000 36.000000 37.000000 38.000000 39.000000 40.000000 41.000000 42.000000 43.000000 44.000000 45.000000 46.000000 47.000000 48.000000 49.000000 50.000000 51.000000 52.000000 53.000000 54.000000 55.000000 56.000000 57.000000 58.000000 59.000000 60.000000 61.000000 62.000000 63.000000 64.000000 65.000000 66.000000 67.000000 68.000000 69.000000 70.000000 71.000000 72.000000 73.000000 74.000000 75.000000 76.000000 77.000000 78.000000 79.000000 80.000000 81.000000 82.000000 83.000000 84.000000 85.000000 86.000000 87.000000 88.000000 89.000000 90.000000 91.000000 92.000000 93.000000 94.000000 95.000000 96.000000 97.000000 98.000000 99.000000 0.000000 1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 10.000000 11.000000 12.000000 13.000000 14.000000 15.000000 16.000000 17.000000 18.000000 19.000000 20.000000 21.000000 22.000000 23.000000 24.000000 25.000000 26.000000 27.000000 28.000000 29.000000 30.000000 31.000000 32.000000 33.000000 34.000000 35.000000 36.000000 37.000000 38.000000 39.000000 40.000000 41.000000 42.000000 43.000000 44.000000 45.000000 46.000000 47.000000 48.000000 49.000000 50.000000 51.000000 52.000000 53.000000 54.000000 55.000000 56.000000 57.000000 58.000000 59.000000 60.000000 61.000000 62.000000 63.000000 64.000000 65.000000 66.000000 67.000000 68.000000 69.000000 70.000000 71.000000 72.000000 73.000000 74.000000 75.000000 76.000000 77.000000 78.000000 79.000000 80.000000 81.000000 82.000000 83.000000 84.000000 85.000000 86.000000 87.000000 88.000000 89.000000 90.000000 91.000000 92.000000 93.000000 94.000000 95.000000 96.000000 97.000000 98.000000 99.000000 0.000000 1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 10.000000 11.000000 12.000000 13.000000 14.000000 15.000000 16.000000 17.000000 18.000000 19.000000 20.000000 21.000000 22.000000 23.000000 24.000000 25.000000 26.000000 27.000000 28.000000 29.000000 30.000000 31.000000 32.000000 33.000000 34.000000 35.000000 36.000000 37.000000 38.000000 39.000000 40.000000 41.000000 42.000000 43.000000 44.000000 45.000000 46.000000 47.000000 48.000000 49.000000 50.000000 51.000000 52.000000 53.000000 54.000000 55.000000 56.000000 57.000000 58.000000 59.000000 60.000000 61.000000 62.000000 63.000000 64.000000 65.000000 66.000000 67.000000 68.000000 69.000000 70.000000 71.000000 72.000000 73.000000 74.000000 75.000000 76.000000 77.000000 78.000000 79.000000 80.000000 81.000000 82.000000 83.000000 84.000000 85.000000 86.000000 87.000000 88.000000 89.000000 90.000000 91.000000 92.000000 93.000000 94.000000 95.000000 96.000000 97.000000 98.000000 99.000000 0.000000 1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 10.000000 11.000000 12.000000 13.000000 14.000000 15.000000 16.000000 17.000000 18.000000 19.000000 20.000000 21.000000 22.000000 23.000000 24.000000 25.000000 26.000000 27.000000 28.000000 29.000000 30.000000 31.000000 32.000000 33.000000 34.000000 35.000000 36.000000 37.000000 38.000000 39.000000 40.000000 41.000000 42.000000 43.000000 44.000000 45.000000 46.000000 47.000000 48.000000 49.000000 50.000000 51.000000 52.000000 53.000000 54.000000 55.000000 56.000000 57.000000 58.000000 59.000000 60.000000 61.000000 62.000000 63.000000 64.000000 65.000000 66.000000 67.000000 68.000000 69.000000 70.000000 71.000000 72.000000 73.000000 74.000000 75.000000 76.000000 77.000000 78.000000 79.000000 80.000000 81.000000 82.000000 83.000000 84.000000 85.000000 86.000000 87.000000 88.000000 89.000000 90.000000 91.000000 92.000000 93.000000 94.000000 95.000000 96.000000 97.000000 98.000000 99.000000 0.000000 1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 10.000000 11.000000 12.000000 13.000000 14.000000 15.000000 16.000000 17.000000 18.000000 19.000000 20.000000 21.000000 22.000000 23.000000 24.000000 25.000000 26.000000 27.000000 28.000000 29.000000 30.000000 31.000000 32.000000 33.000000 34.000000 35.000000 36.000000 37.000000 38.000000 39.000000 40.000000 41.000000 42.000000 43.000000 44.000000 45.000000 46.000000 47.000000 48.000000 49.000000 50.000000 51.000000 52.000000 53.000000 54.000000 55.000000 56.000000 57.000000 58.000000 59.000000 60.000000 61.000000 62.000000 63.000000 64.000000 65.000000 66.000000 67.000000 68.000000 69.000000 70.000000 71.000000 72.000000 73.000000 74.000000 75.000000 76.000000 77.000000 78.000000 79.000000 80.000000 81.000000 82.000000 83.000000 84.000000 85.000000 86.000000 87.000000 88.000000 89.000000 90.000000 91.000000 92.000000 93.000000 94.000000 95.000000 96.000000 97.000000 98.000000 99.000000 0.000000 1.000000 2.000000 3.000000 4.000000 5.000000 6.000000 7.000000 8.000000 9.000000 10.000000 11.000000 12.000000 13.000000 14.000000 15.000000 16.000000 17.000000 18.000000 19.000000 20.000000 21.000000 22.000000 23.000000 24.000000 25.000000 26.000000 27.000000 28.000000 29.000000 30.000000 31.000000 32.000000 33.000000 34.000000 35.000000 36.000000 37.000000 38.000000 39.000000 40.000000 41.000000 42.000000 43.000000 44.000000 45.000000 46.000000 47.000000 48.000000 49.000000 50.000000 51.000000 52.000000 53.000000 54.000000 55.000000 56.000000 57.000000 58.000000 59.000000 60.000000 61.000000 62.000000 63.000000 64.000000 65.000000 66.000000 67.000000 68.000000 69.000000 70.000000 71.000000 72.000000 73.000000 74.000000 75.000000 76.000000 77.000000 78.000000 79.000000 80.000000 81.000000 82.000000 83.000000 84.000000 85.000000 86.000000 87.000000 88.000000 89.000000 90.000000 91.000000 92.000000 93.000000 94.000000 95.000000 96.000000 97.000000 98.000000 99.000000 0.000000 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+>>>>>>>>>>>>Testing KVInfo<<<<<<<<<<<<<<<
+key_num = 3
+key : name, size = 12, value = /test_data_1
+key : size, size = 0, value = 1120272384
+key : time, size = 10, value = 2018-10-11
+>>>>>>>>>>>>Testing Copy<<<<<<<<<<<<<<<
+file : seisfile_nas.cpp, line : 350
+file : seisfile_nas.cpp, line : 344
+glock_mutex.cpp(185) zoo_get_children number 7 /test_data_2
+f_trace_type.trace_size = 3000
+glock_mutex.cpp(185) zoo_get_children number 2 /test_data_2
+read : 0, head : 0
+read : 1, head : 1
+read : 2, head : 2
+read : 3, head : 3
+read : 4, head : 4
+read : 5, head : 5
+read : 6, head : 6
+read : 7, head : 7
+read : 8, head : 8
+read : 9, head : 9
+read : 10, head : 10
+read : 11, head : 11
+read : 12, head : 12
+read : 13, head : 13
+read : 14, head : 14
+read : 15, head : 15
+read : 16, head : 16
+read : 17, head : 17
+read : 18, head : 18
+read : 19, head : 19
+read : 20, head : 20
+read : 21, head : 21
+read : 22, head : 22
+read : 23, head : 23
+read : 24, head : 24
+read : 25, head : 25
+read : 26, head : 26
+read : 27, head : 27
+read : 28, head : 28
+read : 29, head : 29
+read : 30, head : 30
+read : 31, head : 31
+read : 32, head : 32
+read : 33, head : 33
+read : 34, head : 34
+read : 35, head : 35
+read : 36, head : 36
+read : 37, head : 37
+read : 38, head : 38
+read : 39, head : 39
+read : 40, head : 40
+read : 41, head : 41
+read : 42, head : 42
+read : 43, head : 43
+read : 44, head : 44
+read : 45, head : 45
+read : 46, head : 46
+read : 47, head : 47
+read : 48, head : 48
+read : 49, head : 49
+read : 50, head : 50
+read : 51, head : 51
+read : 52, head : 52
+read : 53, head : 53
+read : 54, head : 54
+read : 55, head : 55
+read : 56, head : 56
+read : 57, head : 57
+read : 58, head : 58
+read : 59, head : 59
+read : 60, head : 60
+read : 61, head : 61
+read : 62, head : 62
+read : 63, head : 63
+read : 64, head : 64
+read : 65, head : 65
+read : 66, head : 66
+read : 67, head : 67
+read : 68, head : 68
+read : 69, head : 69
+read : 70, head : 70
+read : 71, head : 71
+read : 72, head : 72
+read : 73, head : 73
+read : 74, head : 74
+read : 75, head : 75
+read : 76, head : 76
+read : 77, head : 77
+read : 78, head : 78
+read : 79, head : 79
+read : 80, head : 80
+read : 81, head : 81
+read : 82, head : 82
+read : 83, head : 83
+read : 84, head : 84
+read : 85, head : 85
+read : 86, head : 86
+read : 87, head : 87
+read : 88, head : 88
+read : 89, head : 89
+read : 90, head : 90
+read : 91, head : 91
+read : 92, head : 92
+read : 93, head : 93
+read : 94, head : 94
+read : 95, head : 95
+read : 96, head : 96
+read : 97, head : 97
+read : 98, head : 98
+read : 99, head : 99
+read : 100, head : 100
+read : 101, head : 101
+read : 102, head : 102
+read : 103, head : 103
+read : 104, head : 104
+read : 105, head : 105
+read : 106, head : 106
+read : 107, head : 107
+read : 108, head : 108
+read : 109, head : 109
+read : 110, head : 110
+read : 111, head : 111
+read : 112, head : 112
+read : 113, head : 113
+read : 114, head : 114
+read : 115, head : 115
+read : 116, head : 116
+read : 117, head : 117
+read : 118, head : 118
+read : 119, head : 119
+read : 120, head : 120
+read : 121, head : 121
+read : 122, head : 122
+read : 123, head : 123
+read : 124, head : 124
+read : 125, head : 125
+read : 126, head : 126
+read : 127, head : 127
+read : 128, head : 128
+read : 129, head : 129
+read : 130, head : 130
+read : 131, head : 131
+read : 132, head : 132
+read : 133, head : 133
+read : 134, head : 134
+read : 135, head : 135
+read : 136, head : 136
+read : 137, head : 137
+read : 138, head : 138
+read : 139, head : 139
+read : 140, head : 140
+read : 141, head : 141
+read : 142, head : 142
+read : 143, head : 143
+read : 144, head : 144
+read : 145, head : 145
+read : 146, head : 146
+read : 147, head : 147
+read : 148, head : 148
+read : 149, head : 149
+read : 150, head : 150
+read : 151, head : 151
+read : 152, head : 152
+read : 153, head : 153
+read : 154, head : 154
+read : 155, head : 155
+read : 156, head : 156
+read : 157, head : 157
+read : 158, head : 158
+read : 159, head : 159
+read : 160, head : 160
+read : 161, head : 161
+read : 162, head : 162
+read : 163, head : 163
+read : 164, head : 164
+read : 165, head : 165
+read : 166, head : 166
+read : 167, head : 167
+read : 168, head : 168
+read : 169, head : 169
+read : 170, head : 170
+read : 171, head : 171
+read : 172, head : 172
+read : 173, head : 173
+read : 174, head : 174
+read : 175, head : 175
+read : 176, head : 176
+read : 177, head : 177
+read : 178, head : 178
+read : 179, head : 179
+read : 180, head : 180
+read : 181, head : 181
+read : 182, head : 182
+read : 183, head : 183
+read : 184, head : 184
+read : 185, head : 185
+read : 186, head : 186
+read : 187, head : 187
+read : 188, head : 188
+read : 189, head : 189
+read : 190, head : 190
+read : 191, head : 191
+read : 192, head : 192
+read : 193, head : 193
+read : 194, head : 194
+read : 195, head : 195
+read : 196, head : 196
+read : 197, head : 197
+read : 198, head : 198
+read : 199, head : 199
+read : 200, head : 200
+read : 201, head : 201
+read : 202, head : 202
+read : 203, head : 203
+read : 204, head : 204
+read : 205, head : 205
+read : 206, head : 206
+read : 207, head : 207
+read : 208, head : 208
+read : 209, head : 209
+read : 210, head : 210
+read : 211, head : 211
+read : 212, head : 212
+read : 213, head : 213
+read : 214, head : 214
+read : 215, head : 215
+read : 216, head : 216
+read : 217, head : 217
+read : 218, head : 218
+read : 219, head : 219
+read : 220, head : 220
+read : 221, head : 221
+read : 222, head : 222
+read : 223, head : 223
+read : 224, head : 224
+read : 225, head : 225
+read : 226, head : 226
+read : 227, head : 227
+read : 228, head : 228
+read : 229, head : 229
+read : 230, head : 230
+read : 231, head : 231
+read : 232, head : 232
+read : 233, head : 233
+read : 234, head : 234
+read : 235, head : 235
+read : 236, head : 236
+read : 237, head : 237
+read : 238, head : 238
+read : 239, head : 239
+read : 240, head : 240
+read : 241, head : 241
+read : 242, head : 242
+read : 243, head : 243
+read : 244, head : 244
+read : 245, head : 245
+read : 246, head : 246
+read : 247, head : 247
+read : 248, head : 248
+read : 249, head : 249
+read : 250, head : 250
+read : 251, head : 251
+read : 252, head : 252
+read : 253, head : 253
+read : 254, head : 254
+read : 255, head : 255
+read : 256, head : 256
+read : 257, head : 257
+read : 258, head : 258
+read : 259, head : 259
+read : 260, head : 260
+read : 261, head : 261
+read : 262, head : 262
+read : 263, head : 263
+read : 264, head : 264
+read : 265, head : 265
+read : 266, head : 266
+read : 267, head : 267
+read : 268, head : 268
+read : 269, head : 269
+read : 270, head : 270
+read : 271, head : 271
+read : 272, head : 272
+read : 273, head : 273
+read : 274, head : 274
+read : 275, head : 275
+read : 276, head : 276
+read : 277, head : 277
+read : 278, head : 278
+read : 279, head : 279
+read : 280, head : 280
+read : 281, head : 281
+read : 282, head : 282
+read : 283, head : 283
+read : 284, head : 284
+read : 285, head : 285
+read : 286, head : 286
+read : 287, head : 287
+read : 288, head : 288
+read : 289, head : 289
+read : 290, head : 290
+read : 291, head : 291
+read : 292, head : 292
+read : 293, head : 293
+read : 294, head : 294
+read : 295, head : 295
+read : 296, head : 296
+read : 297, head : 297
+read : 298, head : 298
+read : 299, head : 299
+read : 300, head : 300
+read : 301, head : 301
+read : 302, head : 302
+read : 303, head : 303
+read : 304, head : 304
+read : 305, head : 305
+read : 306, head : 306
+read : 307, head : 307
+read : 308, head : 308
+read : 309, head : 309
+read : 310, head : 310
+read : 311, head : 311
+read : 312, head : 312
+read : 313, head : 313
+read : 314, head : 314
+read : 315, head : 315
+read : 316, head : 316
+read : 317, head : 317
+read : 318, head : 318
+read : 319, head : 319
+read : 320, head : 320
+read : 321, head : 321
+read : 322, head : 322
+read : 323, head : 323
+read : 324, head : 324
+read : 325, head : 325
+read : 326, head : 326
+read : 327, head : 327
+read : 328, head : 328
+read : 329, head : 329
+read : 330, head : 330
+read : 331, head : 331
+read : 332, head : 332
+read : 333, head : 333
+read : 334, head : 334
+read : 335, head : 335
+read : 336, head : 336
+read : 337, head : 337
+read : 338, head : 338
+read : 339, head : 339
+read : 340, head : 340
+read : 341, head : 341
+read : 342, head : 342
+read : 343, head : 343
+read : 344, head : 344
+read : 345, head : 345
+read : 346, head : 346
+read : 347, head : 347
+read : 348, head : 348
+read : 349, head : 349
+read : 350, head : 350
+read : 351, head : 351
+read : 352, head : 352
+read : 353, head : 353
+read : 354, head : 354
+read : 355, head : 355
+read : 356, head : 356
+read : 357, head : 357
+read : 358, head : 358
+read : 359, head : 359
+read : 360, head : 360
+read : 361, head : 361
+read : 362, head : 362
+read : 363, head : 363
+read : 364, head : 364
+read : 365, head : 365
+read : 366, head : 366
+read : 367, head : 367
+read : 368, head : 368
+read : 369, head : 369
+read : 370, head : 370
+read : 371, head : 371
+read : 372, head : 372
+read : 373, head : 373
+read : 374, head : 374
+read : 375, head : 375
+read : 376, head : 376
+read : 377, head : 377
+read : 378, head : 378
+read : 379, head : 379
+read : 380, head : 380
+read : 381, head : 381
+read : 382, head : 382
+read : 383, head : 383
+read : 384, head : 384
+read : 385, head : 385
+read : 386, head : 386
+read : 387, head : 387
+read : 388, head : 388
+read : 389, head : 389
+read : 390, head : 390
+read : 391, head : 391
+read : 392, head : 392
+read : 393, head : 393
+read : 394, head : 394
+read : 395, head : 395
+read : 396, head : 396
+read : 397, head : 397
+read : 398, head : 398
+read : 399, head : 399
+>>>>>>>>>>>>Testing Rename<<<<<<<<<<<<<<<
+read : 0, head : 0
+read : 1, head : 1
+read : 2, head : 2
+read : 3, head : 3
+read : 4, head : 4
+read : 5, head : 5
+read : 6, head : 6
+read : 7, head : 7
+read : 8, head : 8
+read : 9, head : 9
+read : 10, head : 10
+read : 11, head : 11
+read : 12, head : 12
+read : 13, head : 13
+read : 14, head : 14
+read : 15, head : 15
+read : 16, head : 16
+read : 17, head : 17
+read : 18, head : 18
+read : 19, head : 19
+read : 20, head : 20
+read : 21, head : 21
+read : 22, head : 22
+read : 23, head : 23
+read : 24, head : 24
+read : 25, head : 25
+read : 26, head : 26
+read : 27, head : 27
+read : 28, head : 28
+read : 29, head : 29
+read : 30, head : 30
+read : 31, head : 31
+read : 32, head : 32
+read : 33, head : 33
+read : 34, head : 34
+read : 35, head : 35
+read : 36, head : 36
+read : 37, head : 37
+read : 38, head : 38
+read : 39, head : 39
+read : 40, head : 40
+read : 41, head : 41
+read : 42, head : 42
+read : 43, head : 43
+read : 44, head : 44
+read : 45, head : 45
+read : 46, head : 46
+read : 47, head : 47
+read : 48, head : 48
+read : 49, head : 49
+read : 50, head : 50
+read : 51, head : 51
+read : 52, head : 52
+read : 53, head : 53
+read : 54, head : 54
+read : 55, head : 55
+read : 56, head : 56
+read : 57, head : 57
+read : 58, head : 58
+read : 59, head : 59
+read : 60, head : 60
+read : 61, head : 61
+read : 62, head : 62
+read : 63, head : 63
+read : 64, head : 64
+read : 65, head : 65
+read : 66, head : 66
+read : 67, head : 67
+read : 68, head : 68
+read : 69, head : 69
+read : 70, head : 70
+read : 71, head : 71
+read : 72, head : 72
+read : 73, head : 73
+read : 74, head : 74
+read : 75, head : 75
+read : 76, head : 76
+read : 77, head : 77
+read : 78, head : 78
+read : 79, head : 79
+read : 80, head : 80
+read : 81, head : 81
+read : 82, head : 82
+read : 83, head : 83
+read : 84, head : 84
+read : 85, head : 85
+read : 86, head : 86
+read : 87, head : 87
+read : 88, head : 88
+read : 89, head : 89
+read : 90, head : 90
+read : 91, head : 91
+read : 92, head : 92
+read : 93, head : 93
+read : 94, head : 94
+read : 95, head : 95
+read : 96, head : 96
+read : 97, head : 97
+read : 98, head : 98
+read : 99, head : 99
+read : 100, head : 100
+read : 101, head : 101
+read : 102, head : 102
+read : 103, head : 103
+read : 104, head : 104
+read : 105, head : 105
+read : 106, head : 106
+read : 107, head : 107
+read : 108, head : 108
+read : 109, head : 109
+read : 110, head : 110
+read : 111, head : 111
+read : 112, head : 112
+read : 113, head : 113
+read : 114, head : 114
+read : 115, head : 115
+read : 116, head : 116
+read : 117, head : 117
+read : 118, head : 118
+read : 119, head : 119
+read : 120, head : 120
+read : 121, head : 121
+read : 122, head : 122
+read : 123, head : 123
+read : 124, head : 124
+read : 125, head : 125
+read : 126, head : 126
+read : 127, head : 127
+read : 128, head : 128
+read : 129, head : 129
+read : 130, head : 130
+read : 131, head : 131
+read : 132, head : 132
+read : 133, head : 133
+read : 134, head : 134
+read : 135, head : 135
+read : 136, head : 136
+read : 137, head : 137
+read : 138, head : 138
+read : 139, head : 139
+read : 140, head : 140
+read : 141, head : 141
+read : 142, head : 142
+read : 143, head : 143
+read : 144, head : 144
+read : 145, head : 145
+read : 146, head : 146
+read : 147, head : 147
+read : 148, head : 148
+read : 149, head : 149
+read : 150, head : 150
+read : 151, head : 151
+read : 152, head : 152
+read : 153, head : 153
+read : 154, head : 154
+read : 155, head : 155
+read : 156, head : 156
+read : 157, head : 157
+read : 158, head : 158
+read : 159, head : 159
+read : 160, head : 160
+read : 161, head : 161
+read : 162, head : 162
+read : 163, head : 163
+read : 164, head : 164
+read : 165, head : 165
+read : 166, head : 166
+read : 167, head : 167
+read : 168, head : 168
+read : 169, head : 169
+read : 170, head : 170
+read : 171, head : 171
+read : 172, head : 172
+read : 173, head : 173
+read : 174, head : 174
+read : 175, head : 175
+read : 176, head : 176
+read : 177, head : 177
+read : 178, head : 178
+read : 179, head : 179
+read : 180, head : 180
+read : 181, head : 181
+read : 182, head : 182
+read : 183, head : 183
+read : 184, head : 184
+read : 185, head : 185
+read : 186, head : 186
+read : 187, head : 187
+read : 188, head : 188
+read : 189, head : 189
+read : 190, head : 190
+read : 191, head : 191
+read : 192, head : 192
+read : 193, head : 193
+read : 194, head : 194
+read : 195, head : 195
+read : 196, head : 196
+read : 197, head : 197
+read : 198, head : 198
+read : 199, head : 199
+read : 200, head : 200
+read : 201, head : 201
+read : 202, head : 202
+read : 203, head : 203
+read : 204, head : 204
+read : 205, head : 205
+read : 206, head : 206
+read : 207, head : 207
+read : 208, head : 208
+read : 209, head : 209
+read : 210, head : 210
+read : 211, head : 211
+read : 212, head : 212
+read : 213, head : 213
+read : 214, head : 214
+read : 215, head : 215
+read : 216, head : 216
+read : 217, head : 217
+read : 218, head : 218
+read : 219, head : 219
+read : 220, head : 220
+read : 221, head : 221
+read : 222, head : 222
+read : 223, head : 223
+read : 224, head : 224
+read : 225, head : 225
+read : 226, head : 226
+read : 227, head : 227
+read : 228, head : 228
+read : 229, head : 229
+read : 230, head : 230
+read : 231, head : 231
+read : 232, head : 232
+read : 233, head : 233
+read : 234, head : 234
+read : 235, head : 235
+read : 236, head : 236
+read : 237, head : 237
+read : 238, head : 238
+read : 239, head : 239
+read : 240, head : 240
+read : 241, head : 241
+read : 242, head : 242
+read : 243, head : 243
+read : 244, head : 244
+read : 245, head : 245
+read : 246, head : 246
+read : 247, head : 247
+read : 248, head : 248
+read : 249, head : 249
+read : 250, head : 250
+read : 251, head : 251
+read : 252, head : 252
+read : 253, head : 253
+read : 254, head : 254
+read : 255, head : 255
+read : 256, head : 256
+read : 257, head : 257
+read : 258, head : 258
+read : 259, head : 259
+read : 260, head : 260
+read : 261, head : 261
+read : 262, head : 262
+read : 263, head : 263
+read : 264, head : 264
+read : 265, head : 265
+read : 266, head : 266
+read : 267, head : 267
+read : 268, head : 268
+read : 269, head : 269
+read : 270, head : 270
+read : 271, head : 271
+read : 272, head : 272
+read : 273, head : 273
+read : 274, head : 274
+read : 275, head : 275
+read : 276, head : 276
+read : 277, head : 277
+read : 278, head : 278
+read : 279, head : 279
+read : 280, head : 280
+read : 281, head : 281
+read : 282, head : 282
+read : 283, head : 283
+read : 284, head : 284
+read : 285, head : 285
+read : 286, head : 286
+read : 287, head : 287
+read : 288, head : 288
+read : 289, head : 289
+read : 290, head : 290
+read : 291, head : 291
+read : 292, head : 292
+read : 293, head : 293
+read : 294, head : 294
+read : 295, head : 295
+read : 296, head : 296
+read : 297, head : 297
+read : 298, head : 298
+read : 299, head : 299
+read : 300, head : 300
+read : 301, head : 301
+read : 302, head : 302
+read : 303, head : 303
+read : 304, head : 304
+read : 305, head : 305
+read : 306, head : 306
+read : 307, head : 307
+read : 308, head : 308
+read : 309, head : 309
+read : 310, head : 310
+read : 311, head : 311
+read : 312, head : 312
+read : 313, head : 313
+read : 314, head : 314
+read : 315, head : 315
+read : 316, head : 316
+read : 317, head : 317
+read : 318, head : 318
+read : 319, head : 319
+read : 320, head : 320
+read : 321, head : 321
+read : 322, head : 322
+read : 323, head : 323
+read : 324, head : 324
+read : 325, head : 325
+read : 326, head : 326
+read : 327, head : 327
+read : 328, head : 328
+read : 329, head : 329
+read : 330, head : 330
+read : 331, head : 331
+read : 332, head : 332
+read : 333, head : 333
+read : 334, head : 334
+read : 335, head : 335
+read : 336, head : 336
+read : 337, head : 337
+read : 338, head : 338
+read : 339, head : 339
+read : 340, head : 340
+read : 341, head : 341
+read : 342, head : 342
+read : 343, head : 343
+read : 344, head : 344
+read : 345, head : 345
+read : 346, head : 346
+read : 347, head : 347
+read : 348, head : 348
+read : 349, head : 349
+read : 350, head : 350
+read : 351, head : 351
+read : 352, head : 352
+read : 353, head : 353
+read : 354, head : 354
+read : 355, head : 355
+read : 356, head : 356
+read : 357, head : 357
+read : 358, head : 358
+read : 359, head : 359
+read : 360, head : 360
+read : 361, head : 361
+read : 362, head : 362
+read : 363, head : 363
+read : 364, head : 364
+read : 365, head : 365
+read : 366, head : 366
+read : 367, head : 367
+read : 368, head : 368
+read : 369, head : 369
+read : 370, head : 370
+read : 371, head : 371
+read : 372, head : 372
+read : 373, head : 373
+read : 374, head : 374
+read : 375, head : 375
+read : 376, head : 376
+read : 377, head : 377
+read : 378, head : 378
+read : 379, head : 379
+read : 380, head : 380
+read : 381, head : 381
+read : 382, head : 382
+read : 383, head : 383
+read : 384, head : 384
+read : 385, head : 385
+read : 386, head : 386
+read : 387, head : 387
+read : 388, head : 388
+read : 389, head : 389
+read : 390, head : 390
+read : 391, head : 391
+read : 392, head : 392
+read : 393, head : 393
+read : 394, head : 394
+read : 395, head : 395
+read : 396, head : 396
+read : 397, head : 397
+read : 398, head : 398
+read : 399, head : 399
+read : 400, head : 400

@@ -1,0 +1,8 @@
+<!DOCTYPE Workspace SYSTEM "http://www.slickedit.com/dtd/vse/10.0/vpw.dtd">
+<Workspace Version="10.0" VendorName="SlickEdit">
+	<Projects>
+		<Project File="../../../../../../cssl/code/dpi_fs/dpi_fs.vpj"/>
+		<Project File="seisfilenas.vpj"/>
+		<Project File="test/test.vpj"/>
+	</Projects>
+</Workspace>
